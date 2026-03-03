@@ -64,7 +64,11 @@
     { key:"TSC5", label:"TSC5", url:"tsc5/TSC5.txt" },
     { key:"TSC6", label:"TSC6", url:"tsc6/TSC6.txt" },
   ];
-  const SEP_REGEX = /\n\s*===PAGE===\s*\n/g;
+
+  // ✅ 둘 다 인식: ===PAGE=== 또는 --- (하이픈 3개 이상)
+  // normalize() 이후엔 줄바꿈이 \n 로 통일되니까 이걸 기준으로 split
+  const SEP_REGEX = /\n\s*(?:===PAGE===|---{3,})\s*\n/g;
+
   let pages = [];
   let idx = 0;
   let current = SOURCES[0];
@@ -72,7 +76,12 @@
   const $ = (id)=>document.getElementById(id);
 
   function normalize(t){ return t.replace(/\r\n/g,"\n").replace(/\r/g,"\n"); }
-  function splitPages(t){ return t.split(SEP_REGEX).map(s=>s.trim()).filter(Boolean); }
+
+  // ✅ 맨 앞/맨 끝이 구분자여도 깨지지 않게 안전 처리
+  function splitPages(t){
+    const s = "\n" + t.trim() + "\n";
+    return s.split(SEP_REGEX).map(x=>x.trim()).filter(Boolean);
+  }
 
   // 페이지 맨 첫 줄: [img:img/001.png]
   function extractImage(pageText){
@@ -99,11 +108,23 @@
 
     if(!pages.length){
       $("status").textContent="데이터 없음";
-      $("content").textContent="txt에 내용을 넣고\n--- (하이픈 3개 이상) 로 페이지를 구분해줘!";
+      $("content").textContent =
+`txt를 페이지로 나누려면 아래 중 하나를 한 줄로 넣어줘.
+
+1) ===PAGE===
+2) ---  (하이픈 3개 이상)
+
+예)
+첫페이지 내용...
+===PAGE===
+둘째페이지 내용...
+--- 
+셋째페이지 내용...`;
       $("pageImg").style.display="none";
       $("pageImg").removeAttribute("src");
       return;
     }
+
     if(idx<0) idx=0;
     if(idx>=pages.length) idx=pages.length-1;
 
