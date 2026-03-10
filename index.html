@@ -3,34 +3,238 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>TSC 뷰어 (4/5/6)</title>
+<title>TSC 뷰어 (4/5/6/7)</title>
 <style>
-  :root{ --bg:#fff; --fg:#000; --line:#000; --muted:#444; --shadow:0 10px 26px rgba(0,0,0,.10); }
+  :root{
+    --bg:#fff;
+    --fg:#000;
+    --line:#000;
+    --muted:#444;
+    --shadow:0 10px 26px rgba(0,0,0,.10);
+    --danger:#d11a2a;
+  }
+
   *{ box-sizing:border-box; }
-  body{ margin:0; background:var(--bg); color:var(--fg); font-family:system-ui,-apple-system,Segoe UI,Roboto,"Noto Sans KR",sans-serif; }
-  .topbar{ position:sticky; top:0; z-index:30; background:#fff; border-bottom:2px solid var(--line); }
-  .topbarInner{ max-width:1100px; margin:0 auto; padding:10px 12px; display:flex; align-items:center; justify-content:space-between; gap:10px; flex-wrap:wrap; }
-  .brand{ font-weight:900; font-size:18px; padding:8px 12px; border:2px solid var(--line); min-width:120px; text-align:center; }
-  .tabs{ display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
-  .tabBtn{ border:2px solid var(--line); background:#fff; color:#000; padding:8px 12px; font-weight:900; cursor:pointer; border-radius:12px; user-select:none; }
-  .tabBtn.active{ background:#000; color:#fff; }
-  .tools{ display:flex; align-items:center; gap:8px; flex-wrap:wrap; justify-content:flex-end; }
-  .toolBtn{ border:2px solid var(--line); background:#fff; color:#000; padding:8px 12px; font-weight:900; cursor:pointer; border-radius:12px; }
-  .fileName{ font-size:12px; font-weight:800; border:2px solid var(--line); padding:8px 10px; border-radius:12px; min-width:210px; text-align:center; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-  .wrap{ max-width:1100px; margin:0 auto; padding:14px 12px 36px; }
-  .status{ text-align:center; font-weight:900; font-size:14px; margin:10px 0 12px; }
-  .panel{ border:2px solid var(--line); border-radius:18px; padding:14px; box-shadow:var(--shadow); }
-  .pageImg{ width:100%; max-height:42vh; object-fit:contain; border:2px solid var(--line); border-radius:14px; display:none; margin-bottom:12px; background:#fff; }
-  .content{ white-space:pre-wrap; line-height:1.75; font-size:18px; min-height:48vh; }
-  .navBtn{ position:fixed; top:50%; transform:translateY(-50%); width:46px; height:46px; border:2px solid var(--line); background:#fff; color:#000; font-weight:900; cursor:pointer; display:flex; align-items:center; justify-content:center; border-radius:14px; user-select:none; z-index:40; opacity:.96; }
-  .navLeft{ left:10px; } .navRight{ right:10px; }
-  .navIcon{ font-size:22px; line-height:1; margin-top:-1px; }
+
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--fg);
+    font-family:system-ui,-apple-system,Segoe UI,Roboto,"Noto Sans KR",sans-serif;
+  }
+
+  .topbar{
+    position:sticky;
+    top:0;
+    z-index:30;
+    background:#fff;
+    border-bottom:2px solid var(--line);
+  }
+
+  .topbarInner{
+    max-width:1100px;
+    margin:0 auto;
+    padding:10px 12px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:10px;
+    flex-wrap:wrap;
+  }
+
+  .brand{
+    font-weight:900;
+    font-size:18px;
+    padding:8px 12px;
+    border:2px solid var(--line);
+    min-width:120px;
+    text-align:center;
+  }
+
+  .tabs{
+    display:flex;
+    gap:8px;
+    flex-wrap:wrap;
+    align-items:center;
+  }
+
+  .tabBtn{
+    border:2px solid var(--line);
+    background:#fff;
+    color:#000;
+    padding:8px 12px;
+    font-weight:900;
+    cursor:pointer;
+    border-radius:12px;
+    user-select:none;
+  }
+
+  .tabBtn.active{
+    background:#000;
+    color:#fff;
+  }
+
+  .tools{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    flex-wrap:wrap;
+    justify-content:flex-end;
+  }
+
+  .toolBtn{
+    border:2px solid var(--line);
+    background:#fff;
+    color:#000;
+    padding:8px 12px;
+    font-weight:900;
+    cursor:pointer;
+    border-radius:12px;
+  }
+
+  .fileName{
+    font-size:12px;
+    font-weight:800;
+    border:2px solid var(--line);
+    padding:8px 10px;
+    border-radius:12px;
+    min-width:210px;
+    text-align:center;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+  }
+
+  .wrap{
+    max-width:1100px;
+    margin:0 auto;
+    padding:14px 12px 36px;
+  }
+
+  .status{
+    text-align:center;
+    font-weight:900;
+    font-size:14px;
+    margin:10px 0 12px;
+  }
+
+  .timerBox{
+    text-align:center;
+    margin:4px 0 14px;
+  }
+
+  #timer{
+    font-size:72px;
+    line-height:1;
+    font-weight:900;
+    letter-spacing:1px;
+  }
+
+  #timer.danger{
+    color:var(--danger);
+  }
+
+  .timerBtns{
+    margin-top:10px;
+    display:flex;
+    justify-content:center;
+    gap:10px;
+    flex-wrap:wrap;
+  }
+
+  .timerBtn{
+    border:2px solid var(--line);
+    background:#fff;
+    color:#000;
+    padding:8px 14px;
+    font-weight:900;
+    border-radius:12px;
+    cursor:pointer;
+  }
+
+  .panel{
+    border:2px solid var(--line);
+    border-radius:18px;
+    padding:14px;
+    box-shadow:var(--shadow);
+  }
+
+  .pageImg{
+    width:100%;
+    max-height:42vh;
+    object-fit:contain;
+    border:2px solid var(--line);
+    border-radius:14px;
+    display:none;
+    margin-bottom:12px;
+    background:#fff;
+  }
+
+  .content{
+    white-space:pre-wrap;
+    line-height:1.75;
+    font-size:18px;
+    min-height:48vh;
+  }
+
+  .navBtn{
+    position:fixed;
+    top:50%;
+    transform:translateY(-50%);
+    width:52px;
+    height:52px;
+    border:2px solid var(--line);
+    background:#fff;
+    color:#000;
+    font-weight:900;
+    cursor:pointer;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    border-radius:14px;
+    user-select:none;
+    z-index:40;
+    opacity:.96;
+  }
+
+  .navLeft{ left:10px; }
+  .navRight{ right:10px; }
+
+  .navIcon{
+    font-size:24px;
+    line-height:1;
+    margin-top:-1px;
+  }
+
   @media (max-width:720px){
-    .brand{ font-size:16px; min-width:105px; padding:7px 10px; }
-    .fileName{ min-width:170px; }
-    .content{ font-size:16px; min-height:56vh; }
-    .navBtn{ width:42px; height:42px; border-radius:12px; }
-    .navIcon{ font-size:20px; }
+    .brand{
+      font-size:16px;
+      min-width:105px;
+      padding:7px 10px;
+    }
+
+    .fileName{
+      min-width:170px;
+    }
+
+    .content{
+      font-size:16px;
+      min-height:56vh;
+    }
+
+    .navBtn{
+      width:46px;
+      height:46px;
+      border-radius:12px;
+    }
+
+    .navIcon{
+      font-size:22px;
+    }
+
+    #timer{
+      font-size:110px;
+    }
   }
 </style>
 </head>
@@ -38,7 +242,9 @@
   <div class="topbar">
     <div class="topbarInner">
       <div class="brand" id="brand">TSC</div>
+
       <div class="tabs" id="tabs"></div>
+
       <div class="tools">
         <button class="toolBtn" id="reloadBtn">불러오기</button>
         <input id="fileInput" type="file" accept=".txt" style="display:none" />
@@ -47,11 +253,24 @@
     </div>
   </div>
 
-  <button class="navBtn navLeft" id="prevBtn" aria-label="이전"><span class="navIcon">‹</span></button>
-  <button class="navBtn navRight" id="nextBtn" aria-label="다음"><span class="navIcon">›</span></button>
+  <button class="navBtn navLeft" id="prevBtn" aria-label="이전">
+    <span class="navIcon">‹</span>
+  </button>
+  <button class="navBtn navRight" id="nextBtn" aria-label="다음">
+    <span class="navIcon">›</span>
+  </button>
 
   <div class="wrap">
     <div class="status" id="status">불러오는 중...</div>
+
+    <div class="timerBox">
+      <div id="timer">25</div>
+      <div class="timerBtns">
+        <button class="timerBtn" id="startTimer">▶ 시작</button>
+        <button class="timerBtn" id="stopTimer">⏸ 정지</button>
+      </div>
+    </div>
+
     <div class="panel">
       <img id="pageImg" class="pageImg" alt="" />
       <div id="content" class="content">로딩...</div>
@@ -66,19 +285,31 @@
     { key:"TSC7", label:"TSC7", url:"tsc7/TSC7.txt" },
   ];
 
-  // ✅ 둘 다 인식: ===PAGE=== 또는 --- (하이픈 3개 이상)
-  // normalize() 이후엔 줄바꿈이 \n 로 통일되니까 이걸 기준으로 split
-  const SEP_REGEX = /\n\s*(?:===PAGE===|---{3,})\s*\n/g;
+  const TIMER_MAP = {
+    TSC4: 25,
+    TSC5: 50,
+    TSC6: 40,
+    TSC7: 90
+  };
+
+  // ===PAGE=== 또는 하이픈 3개 이상
+  const SEP_REGEX = /\n\s*(?:===PAGE===|-{3,})\s*\n/g;
 
   let pages = [];
   let idx = 0;
   let current = SOURCES[0];
   let currentSourceLabel = "";
+
+  let timerInterval = null;
+  let timeLeft = 0;
+  let running = false;
+
   const $ = (id)=>document.getElementById(id);
 
-  function normalize(t){ return t.replace(/\r\n/g,"\n").replace(/\r/g,"\n"); }
+  function normalize(t){
+    return t.replace(/\r\n/g,"\n").replace(/\r/g,"\n");
+  }
 
-  // ✅ 맨 앞/맨 끝이 구분자여도 깨지지 않게 안전 처리
   function splitPages(t){
     const s = "\n" + t.trim() + "\n";
     return s.split(SEP_REGEX).map(x=>x.trim()).filter(Boolean);
@@ -88,27 +319,72 @@
   function extractImage(pageText){
     const m = pageText.match(/^\s*\[img:(.+?)\]\s*\n/i);
     if(!m) return { imgPath:null, text: pageText.trim() };
-    return { imgPath: m[1].trim(), text: pageText.slice(m[0].length).trim() };
+    return {
+      imgPath: m[1].trim(),
+      text: pageText.slice(m[0].length).trim()
+    };
   }
 
   function renderTabs(){
     const tabs = $("tabs");
-    tabs.innerHTML="";
+    tabs.innerHTML = "";
+
     for(const s of SOURCES){
       const b = document.createElement("button");
-      b.className = "tabBtn" + (s.key===current.key ? " active" : "");
+      b.className = "tabBtn" + (s.key === current.key ? " active" : "");
       b.textContent = s.label;
       b.onclick = ()=>setTab(s.key);
       tabs.appendChild(b);
     }
+
     $("brand").textContent = current.label;
+  }
+
+  function updateTimer(){
+    $("timer").textContent = `${timeLeft}`;
+
+    if(timeLeft <= 10){
+      $("timer").classList.add("danger");
+    }else{
+      $("timer").classList.remove("danger");
+    }
+  }
+
+  function resetTimer(){
+    clearInterval(timerInterval);
+    running = false;
+    timeLeft = TIMER_MAP[current.key] || 30;
+    updateTimer();
+  }
+
+  function startTimer(){
+    if(running) return;
+
+    running = true;
+
+    timerInterval = setInterval(()=>{
+      timeLeft--;
+      updateTimer();
+
+      if(timeLeft <= 0){
+        clearInterval(timerInterval);
+        running = false;
+        timeLeft = 0;
+        updateTimer();
+      }
+    }, 1000);
+  }
+
+  function stopTimer(){
+    running = false;
+    clearInterval(timerInterval);
   }
 
   function render(){
     $("fileLabel").textContent = currentSourceLabel || `source: ${current.url}`;
 
     if(!pages.length){
-      $("status").textContent="데이터 없음";
+      $("status").textContent = "데이터 없음";
       $("content").textContent =
 `txt를 페이지로 나누려면 아래 중 하나를 한 줄로 넣어줘.
 
@@ -119,15 +395,17 @@
 첫페이지 내용...
 ===PAGE===
 둘째페이지 내용...
---- 
+---
 셋째페이지 내용...`;
-      $("pageImg").style.display="none";
+
+      $("pageImg").style.display = "none";
       $("pageImg").removeAttribute("src");
+      resetTimer();
       return;
     }
 
-    if(idx<0) idx=0;
-    if(idx>=pages.length) idx=pages.length-1;
+    if(idx < 0) idx = 0;
+    if(idx >= pages.length) idx = pages.length - 1;
 
     const {imgPath, text} = extractImage(pages[idx]);
     $("content").textContent = text || "";
@@ -139,38 +417,51 @@
       img.style.display = "block";
       img.alt = `page ${idx+1}`;
     }else{
-      img.style.display="none";
+      img.style.display = "none";
       img.removeAttribute("src");
-      img.alt="";
+      img.alt = "";
     }
+
+    resetTimer();
   }
 
-  function next(){ if(!pages.length) return; idx=(idx+1)%pages.length; render(); }
-  function prev(){ if(!pages.length) return; idx=(idx-1+pages.length)%pages.length; render(); }
+  function next(){
+    if(!pages.length) return;
+    idx = (idx + 1) % pages.length;
+    render();
+  }
 
-  async function loadFromUrl(url,label){
+  function prev(){
+    if(!pages.length) return;
+    idx = (idx - 1 + pages.length) % pages.length;
+    render();
+  }
+
+  async function loadFromUrl(url, label){
     try{
       const res = await fetch(url, { cache:"no-store" });
       if(!res.ok) throw new Error("fetch failed");
+
       const text = normalize(await res.text());
       pages = splitPages(text);
       idx = 0;
       currentSourceLabel = label || `source: ${url}`;
       render();
     }catch(e){
-      pages=[];
+      pages = [];
       currentSourceLabel = label || `source: ${url}`;
-      $("status").textContent="파일 못 불러옴";
-      $("content").textContent="파일 경로/이름(대소문자 포함) 확인해줘!";
-      $("pageImg").style.display="none";
+      $("status").textContent = "파일 못 불러옴";
+      $("content").textContent = "파일 경로/이름(대소문자 포함) 확인해줘!";
+      $("pageImg").style.display = "none";
       $("pageImg").removeAttribute("src");
+      resetTimer();
     }
   }
 
   function loadFromLocalFile(file){
     const reader = new FileReader();
     reader.onload = ()=>{
-      const text = normalize(String(reader.result||""));
+      const text = normalize(String(reader.result || ""));
       pages = splitPages(text);
       idx = 0;
       currentSourceLabel = `source: (local) ${file.name}`;
@@ -182,6 +473,7 @@
   function setTab(key){
     const found = SOURCES.find(s=>s.key===key);
     if(!found) return;
+
     current = found;
     idx = 0;
     renderTabs();
@@ -191,17 +483,29 @@
   $("nextBtn").addEventListener("click", next);
   $("prevBtn").addEventListener("click", prev);
 
+  $("startTimer").addEventListener("click", startTimer);
+  $("stopTimer").addEventListener("click", stopTimer);
+
   window.addEventListener("keydown",(e)=>{
     if(e.target && (e.target.tagName==="TEXTAREA" || e.target.tagName==="INPUT")) return;
     if(e.key==="ArrowRight") next();
     if(e.key==="ArrowLeft") prev();
+    if(e.key===" ") {
+      e.preventDefault();
+      if(running){
+        stopTimer();
+      }else{
+        startTimer();
+      }
+    }
   });
 
-  // 불러오기: 로컬 txt 선택해서 즉시 보기
+  // 불러오기: 로컬 txt 선택
   $("reloadBtn").addEventListener("click", ()=>{
-    $("fileInput").value="";
+    $("fileInput").value = "";
     $("fileInput").click();
   });
+
   $("fileInput").addEventListener("change",(e)=>{
     const f = e.target.files && e.target.files[0];
     if(f) loadFromLocalFile(f);
