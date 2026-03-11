@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>TSC 뷰어 (기출세트/3/4/5/6/7)</title>
+<title>TSC 뷰어 (기출세트/3만능/3/4/5/6/7)</title>
 <style>
   :root{
     --bg:#fff;
@@ -80,16 +80,6 @@
     gap:8px;
     flex-wrap:wrap;
     justify-content:flex-end;
-  }
-
-  .toolBtn{
-    border:2px solid var(--line);
-    background:#fff;
-    color:#000;
-    padding:8px 12px;
-    font-weight:900;
-    cursor:pointer;
-    border-radius:12px;
   }
 
   .fileName{
@@ -246,8 +236,6 @@
       <div class="tabs" id="tabs"></div>
 
       <div class="tools">
-        <button class="toolBtn" id="reloadBtn">불러오기</button>
-        <input id="fileInput" type="file" accept=".txt" style="display:none" />
         <div class="fileName" id="fileLabel">source: -</div>
       </div>
     </div>
@@ -263,7 +251,7 @@
   <div class="wrap">
     <div class="status" id="status">불러오는 중...</div>
 
-    <div class="timerBox">
+    <div class="timerBox" id="timerBox">
       <div id="timer">25</div>
       <div class="timerBtns">
         <button class="timerBtn" id="startTimer">▶ 시작</button>
@@ -280,6 +268,7 @@
 <script>
   const SOURCES = [
     { key:"기출세트", label:"기출세트", url:"기출세트/기출세트.txt" },
+    { key:"3만능", label:"3만능", url:"3만능/3만능.text" },
     { key:"TSC3", label:"TSC3", url:"tsc3/TSC3.txt" },
     { key:"TSC4", label:"TSC4", url:"tsc4/TSC4.txt" },
     { key:"TSC5", label:"TSC5", url:"tsc5/TSC5.txt" },
@@ -295,6 +284,8 @@
     TSC6: 40,
     TSC7: 90
   };
+
+  const NO_TIMER_KEYS = new Set(["3만능"]);
 
   // ===PAGE=== 또는 하이픈 3개 이상
   const SEP_REGEX = /\n\s*(?:===PAGE===|-{3,})\s*\n/g;
@@ -354,15 +345,27 @@
     }
   }
 
+  function updateTimerVisibility(){
+    $("timerBox").style.display = NO_TIMER_KEYS.has(current.key) ? "none" : "block";
+  }
+
   function resetTimer(){
     clearInterval(timerInterval);
     running = false;
+
+    if(NO_TIMER_KEYS.has(current.key)){
+      timeLeft = 0;
+      $("timer").classList.remove("danger");
+      return;
+    }
+
     timeLeft = TIMER_MAP[current.key] || 30;
     updateTimer();
   }
 
   function startTimer(){
     if(running) return;
+    if(NO_TIMER_KEYS.has(current.key)) return;
 
     running = true;
 
@@ -386,6 +389,7 @@
 
   function render(){
     $("fileLabel").textContent = currentSourceLabel || `source: ${current.url}`;
+    updateTimerVisibility();
 
     if(!pages.length){
       $("status").textContent = "데이터 없음";
@@ -459,19 +463,8 @@
       $("pageImg").style.display = "none";
       $("pageImg").removeAttribute("src");
       resetTimer();
+      updateTimerVisibility();
     }
-  }
-
-  function loadFromLocalFile(file){
-    const reader = new FileReader();
-    reader.onload = ()=>{
-      const text = normalize(String(reader.result || ""));
-      pages = splitPages(text);
-      idx = 0;
-      currentSourceLabel = `source: (local) ${file.name}`;
-      render();
-    };
-    reader.readAsText(file, "utf-8");
   }
 
   function setTab(key){
@@ -495,6 +488,7 @@
     if(e.key==="ArrowRight") next();
     if(e.key==="ArrowLeft") prev();
     if(e.key===" ") {
+      if(NO_TIMER_KEYS.has(current.key)) return;
       e.preventDefault();
       if(running){
         stopTimer();
@@ -504,23 +498,9 @@
     }
   });
 
-  // 불러오기: 로컬 txt 선택
-  $("reloadBtn").addEventListener("click", ()=>{
-    $("fileInput").value = "";
-    $("fileInput").click();
-  });
-
-  $("fileInput").addEventListener("change",(e)=>{
-    const f = e.target.files && e.target.files[0];
-    if(f) loadFromLocalFile(f);
-  });
-
   // init
   renderTabs();
   loadFromUrl(current.url, `source: ${current.url}`);
 </script>
 </body>
 </html>
-
-
-
