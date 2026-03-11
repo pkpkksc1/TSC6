@@ -1,450 +1,1294 @@
-### **1. 日常对话**  
-1. **你昨天怎么没来上班？**  
-   - Nǐ zuótiān zěnme méi lái shàngbān?  
-   - 어제 왜 출근하지 않았어요?  
-2. **今天天气很好，我们一起出去走一走吧。**  
-   - Jīntiān tiānqì hěn hǎo, wǒmen yīqǐ chūqù zǒu yī zǒu ba.  
-   - 오늘 날씨가 좋네요, 함께 산책 나가요.  
-3. **你还要再吃点儿吗？**  
-   - Nǐ hái yào zài chī diǎn er ma?  
-   - 더 드실 거예요?  
-4. **你和家人住在一起吗？从你家到地铁站远吗？**  
-   - Nǐ hé jiārén zhù zài yīqǐ ma? Cóng nǐ jiā dào dìtiě zhàn yuǎn ma?  
-   - 가족과 함께 살고 있나요? 집에서 지하철역까지 멀어요?  
-### **2. 个人生活**  
-1. **别人误会你的话，你怎么办？**  
-   - Biérén wùhuì nǐ dehuà, nǐ zěnme bàn?  
-   - 오해를 받으면 어떻게 해요?  
-2. **小时候你学过什么运动？**  
-   - Xiǎoshíhou nǐ xuéguò shénme yùndòng?  
-   - 어렸을 때 어떤 운동을 배웠어요?  
-3. **下班以后，你一般在家做什么？**  
-   - Xiàbān yǐhòu, nǐ yībān zài jiā zuò shénme?  
-   - 퇴근 후 집에서 주로 뭐 해요?  
-4. **你多长时间去一次超市？**  
-   - Nǐ duō cháng shíjiān qù yī cì chāoshì?  
-   - 얼마나 자주 슈퍼마켓에 가요?  
-5. **你的工作和专业相符吗？**  
-   - Nǐ de gōngzuò hé zhuānyè xiāngfú ma?  
-   - 직업과 전공이 관련이 있나요?  
-### **3. 观点讨论**  
-1. **你对企业退休年龄规定，有什么看法？**  
-   - Nǐ duì qǐyè tuìxiū niánlíng guīdìng, yǒu shénme kànfǎ?  
-   - 기업 정년 규정에 대해 어떻게 생각해요?  
-2. **你们国家的人对历史了解吗？/ 你认为学生时期，了解历史重要吗？/ 你觉得学习历史重要吗？**  
-   - Nǐmen guójiā de rén duì lìshǐ liǎojiě ma? / Nǐ rènwéi xuéshēng shíqī, liǎojiě lìshǐ zhòngyào ma? / Nǐ juédé xuéxí lìshǐ zhòngyào ma?  
-   - 여러 나라 사람들은 역사를 잘 알아요? / 학생 시절에 역사를 아는 게 중요하다고 생각해요? / 역사 공부가 중요하다고 생각해요?  
-3. **你对垃圾回收再利用有什么看法？**  
-   - Nǐ duì lājī huíshōu zài lìyòng yǒu shénme kànfǎ?  
-   - 쓰레기 재활용에 대해 어떻게 생각해요?  
-4. **你喜欢和聪明的职员一起工作还是喜欢和工作努力的职员一起工作？**  
-   - Nǐ xǐhuān hé cōngmíng de zhíyuán yīqǐ gōngzuò háishì xǐhuān hé gōngzuò nǔlì de zhíyuán yīqǐ gōngzuò?  
-   - 똑똑한 직원과 일하는 걸 좋아해요, 아니면 열심히 하는 직원과 일하는 걸 좋아해요?  
-## **4. 情景任务**  
-1. **你的女儿被公司录取，作为父亲请你向她表示祝贺并给予忠告。**  
-   - Nǐ de nǚ'ér bèi gōngsī lùqǔ, zuòwéi fùqīn qǐng nǐ xiàng tā biǎoshì zhùhè bìng jǐyǔ zhōnggào.  
-   - 딸이 회사에 합격했을 때, 아버지로서 축하와 조언을 전해주세요.  
-2. **你想出售房屋，请向房屋中介公司的老板介绍一下。**  
-   - Nǐ xiǎng chūshòu fángwū, qǐng xiàng fángwū zhōngjiè gōngsī de lǎobǎn jièshào yīxià.  
-   - 집을 팔려고 할 때 부동산 중개사 사장님에게 소개해주세요.  
-3. **会议时间和地点有变，请你转达给同事。**  
-   - Huìyì shíjiān hé dìdiǎn yǒu biàn, qǐng nǐ zhuǎndá gěi tóngshì.  
-   - 회의 시간과 장소가 바뀌었을 때 동료에게 전달해주세요.  
+
+# 第三部分
+
+## 1. 你昨天怎么没来上班？
+
+/nǐ zuó tiān zěn me méi lái shàng bān/
+어제 왜 출근하지 않았어요?
+
+**不好意思，我昨天身体不太舒服，好像感冒了，头疼、发烧，还咳嗽。所以我去医院看病，然后回家休息了。今天已经好多了。**
+/bù hǎo yì si, wǒ zuó tiān shēn tǐ bù tài shū fu, hǎo xiàng gǎn mào le, tóu téng, fā shāo, hái ké sou. suǒ yǐ wǒ qù yī yuàn kàn bìng, rán hòu huí jiā xiū xi le. jīn tiān yǐ jīng hǎo duō le./
+미안합니다. 어제 몸이 좀 안 좋아서 감기에 걸린 것 같았습니다. 두통, 열, 기침이 있어서 병원에 갔다가 집에 와서 쉬었습니다. 오늘은 이미 많이 좋아졌습니다.
+
+
+## 2. 今天天气很好，我们一起出去走一走吧。
+
+/jīn tiān tiān qì hěn hǎo, wǒ men yì qǐ chū qù zǒu yì zǒu ba/
+오늘 날씨가 좋네요, 함께 산책 나가요.
+
+**好啊，我正好也想出去透透气。最近工作比较忙，出去走一走正好可以放松心情。我们去哪儿比较好？**
+/hǎo a, wǒ zhèng hǎo yě xiǎng chū qù tòu tou qì. zuì jìn gōng zuò bǐ jiào máng, chū qù zǒu yì zǒu zhèng hǎo kě yǐ fàng sōng xīn qíng. wǒ men qù nǎr bǐ jiào hǎo?/
+좋아요. 저도 마침 좀 나가서 바람을 쐬고 싶었어요. 요즘 일이 좀 바빠서 산책하면 기분 전환도 될 것 같아요. 우리 어디로 갈까요?
+
+
+## 3. 你还要再吃点儿吗？
+
+/nǐ hái yào zài chī diǎn er ma/
+더 드실 거예요?
+
+**不用了，谢谢。我已经吃得差不多了，而且现在很饱。你们慢慢吃吧。**
+/bú yòng le, xiè xie. wǒ yǐ jīng chī de chà bu duō le, ér qiě xiàn zài hěn bǎo. nǐ men màn man chī ba./
+괜찮아요, 고마워요. 저는 이미 거의 다 먹었고 지금 아주 배불러요. 여러분 천천히 드세요.
+
+
+## 4. 你和家人住在一起吗？从你家到地铁站远吗？
+
+/nǐ hé jiā rén zhù zài yì qǐ ma? cóng nǐ jiā dào dì tiě zhàn yuǎn ma?/
+가족과 함께 살고 있나요? 집에서 지하철역까지 멀어요?
+
+**我现在和家人一起住。从我家到地铁站不太远，走路大概五分钟左右，所以平时上下班很方便。**
+/wǒ xiàn zài hé jiā rén yì qǐ zhù. cóng wǒ jiā dào dì tiě zhàn bù tài yuǎn, zǒu lù dà gài wǔ fēn zhōng zuǒ yòu, suǒ yǐ píng shí shàng xià bān hěn fāng biàn./
+저는 지금 가족과 함께 살고 있어요. 집에서 지하철역까지는 그리 멀지 않고 걸어서 5분 정도라서 평소 출퇴근이 매우 편해요.
+
+
+# 第四部分
+
+## 1. 别人误会你的话，你怎么办？
+
+/bié rén wù huì nǐ de huà, nǐ zěn me bàn/
+오해를 받으면 어떻게 해요?
+
+**如果别人误会我的话，我会先冷静下来，不会马上生气。因为我觉得很多误会都是沟通不够造成的。然后我会找合适的机会，认真说明情况。只要把话说清楚，大部分问题都可以解决。**
+/rú guǒ bié rén wù huì wǒ de huà, wǒ huì xiān lěng jìng xià lái, bú huì mǎ shàng shēng qì. yīn wèi wǒ jué de hěn duō wù huì dōu shì gōu tōng bù gòu zào chéng de. rán hòu wǒ huì zhǎo hé shì de jī huì, rèn zhēn shuō míng qíng kuàng. zhǐ yào bǎ huà shuō qīng chu, dà bù fèn wèn tí dōu kě yǐ jiě jué./
+다른 사람이 나를 오해하면 먼저 차분해지려고 한다. 바로 화내지는 않는다. 많은 오해는 소통이 부족해서 생긴다고 생각하기 때문이다. 그리고 적절한 기회를 찾아 상황을 진지하게 설명한다. 말을 분명하게 하면 대부분의 문제는 해결될 수 있다.
+
+
+## 2. 小时候你学过什么运动？
+
+/xiǎo shí hou nǐ xué guò shén me yùn dòng/
+어렸을 때 어떤 운동을 배웠어요?
+
+**我小时候学过很多运动，比如跑步、打网球和骑自行车。其中我最喜欢的是网球，因为这个运动不仅能锻炼身体，还能培养耐心。直到现在，我有时间的时候还会运动。**
+/wǒ xiǎo shí hou xué guò hěn duō yùn dòng, bǐ rú pǎo bù, dǎ wǎng qiú hé qí zì xíng chē. qí zhōng wǒ zuì xǐ huan de shì wǎng qiú, yīn wèi zhè ge yùn dòng bù jǐn néng duàn liàn shēn tǐ, hái néng péi yǎng nài xīn. zhí dào xiàn zài, wǒ yǒu shí jiān de shí hou hái huì yùn dòng./
+저는 어렸을 때 달리기, 테니스, 자전거 타기 같은 여러 운동을 배웠어요. 그중 가장 좋아했던 것은 테니스예요. 이 운동은 몸을 단련할 뿐 아니라 인내심도 길러 주기 때문이에요. 지금도 시간이 있으면 운동을 해요.
+
+
+## 3. 下班以后，你一般在家做什么？
+
+/xià bān yǐ hòu, nǐ yì bān zài jiā zuò shén me/
+퇴근 후 집에서 주로 뭐 해요?
+
+**下班以后，我一般先休息一下，然后看看书或者用手机听音乐。有时候我也会喝一杯牛奶，早点睡觉。因为我觉得规律的生活习惯对健康很重要。**
+/xià bān yǐ hòu, wǒ yì bān xiān xiū xi yí xià, rán hòu kàn kan shū huò zhě yòng shǒu jī tīng yīn yuè. yǒu shí hou wǒ yě huì hē yì bēi niú nǎi, zǎo diǎn shuì jiào. yīn wèi wǒ jué de guī lǜ de shēng huó xí guàn duì jiàn kāng hěn zhòng yào./
+퇴근 후에는 보통 먼저 조금 쉬고 책을 보거나 휴대폰으로 음악을 들어요. 가끔은 우유 한 잔을 마시고 일찍 자기도 해요. 규칙적인 생활 습관이 건강에 중요하다고 생각하기 때문이에요.
+
+## 4. 你多长时间去一次超市？
+
+/nǐ duō cháng shí jiān qù yī cì chāo shì/
+얼마나 자주 슈퍼마켓에 가요?
+
+**我一般一个星期去一次超市，不过有时候也在网上买东西。因为现在网上购物很方便，还可以比较价格。但是如果买水果、蔬菜之类的东西，我还是喜欢亲自去超市看看。**
+/wǒ yì bān yí ge xīng qī qù yí cì chāo shì, bú guò yǒu shí hou yě zài wǎng shàng mǎi dōng xi. yīn wèi xiàn zài wǎng shàng gòu wù hěn fāng biàn, hái kě yǐ bǐ jiào jià gé. dàn shì rú guǒ mǎi shuǐ guǒ, shū cài zhī lèi de dōng xi, wǒ hái shì xǐ huan qīn zì qù chāo shì kàn kan./
+저는 보통 일주일에 한 번 슈퍼에 가요. 하지만 가끔은 인터넷으로도 물건을 사요. 요즘 온라인 쇼핑은 아주 편하고 가격 비교도 할 수 있기 때문이에요. 하지만 과일이나 채소 같은 것은 직접 슈퍼에 가서 보는 편을 더 좋아해요.
+
+
+## 5. 你的工作和专业相符吗？
+
+/nǐ de gōng zuò hé zhuān yè xiāng fú ma/
+직업과 전공이 관련이 있나요?
+
+**我觉得我的工作和专业基本上是相符的。因为我在学习的时候积累了一些相关知识，现在工作的时候也能用得上。而且我本来就对这个领域比较感兴趣，所以做起来更有动力。**
+/wǒ jué de wǒ de gōng zuò hé zhuān yè jī běn shàng shì xiāng fú de. yīn wèi wǒ zài xué xí de shí hou jī lěi le yì xiē xiāng guān zhī shi, xiàn zài gōng zuò de shí hou yě néng yòng de shàng. ér qiě wǒ běn lái jiù duì zhè ge lǐng yù bǐ jiào gǎn xìng qù, suǒ yǐ zuò qǐ lái gèng yǒu dòng lì./
+저는 제 일이 전공과 기본적으로 잘 맞는다고 생각해요. 공부할 때 관련 지식을 쌓았고 지금 일할 때도 그걸 활용할 수 있기 때문이에요. 그리고 원래 이 분야에 관심이 많아서 더 동기 있게 일할 수 있어요.
+
+# 第五部分
+
+## 1. 你对企业退休年龄规定，有什么看法？
+
+/nǐ duì qǐ yè tuì xiū nián líng guī dìng, yǒu shén me kàn fǎ/
+기업 정년 규정에 대해 어떻게 생각해요?
+
+**我觉得企业的退休年龄规定应该根据现实情况适当调整，不能一概而论。随着社会的发展，人们的平均寿命越来越长，身体条件也比以前好了很多，所以适当地延长退休年龄有一定的合理性。不过，不同行业的工作强度不一样，有些工作压力大、体力要求高，就不能简单地统一规定。总的来说，我觉得这个问题应该因人而异，也要考虑行业特点，这样才更公平。**
+/wǒ jué de qǐ yè de tuì xiū nián líng guī dìng yīng gāi gēn jù xiàn shí qíng kuàng shì dàng tiáo zhěng, bù néng yí gài ér lùn. suí zhe shè huì de fā zhǎn, rén men de píng jūn shòu mìng yuè lái yuè cháng, shēn tǐ tiáo jiàn yě bǐ yǐ qián hǎo le hěn duō, suǒ yǐ shì dàng de yán cháng tuì xiū nián líng yǒu yí dìng de hé lǐ xìng. bú guò, bù tóng háng yè de gōng zuò qiáng dù bù yí yàng, yǒu xiē gōng zuò yā lì dà, tǐ lì yāo qiú gāo, jiù bù néng jiǎn dān de tǒng yī guī dìng. zǒng de lái shuō, wǒ jué de zhè ge wèn tí yīng gāi yīn rén ér yì, yě yào kǎo lǜ háng yè tè diǎn, zhè yàng cái gèng gōng píng./
+나는 기업의 정년 규정은 현실 상황에 따라 적절히 조정되어야 하며 일률적으로 볼 수는 없다고 생각한다. 사회가 발전하면서 평균 수명은 점점 길어지고 신체 조건도 예전보다 많이 좋아졌기 때문에 정년을 적절히 연장하는 것은 어느 정도 합리성이 있다. 하지만 업종마다 업무 강도가 다르고 어떤 일은 스트레스가 크고 체력 요구도 높기 때문에 단순히 똑같이 규정해서는 안 된다. 종합적으로 보면 이 문제는 사람마다 다르게 봐야 하고 업종의 특성도 고려해야 더 공평하다고 생각한다.
+
+
+## 2. 你们国家的人对历史了解吗？ / 你认为学生时期，了解历史重要吗？ / 你觉得学习历史重要吗？
+
+/nǐ men guó jiā de rén duì lì shǐ liǎo jiě ma? / nǐ rèn wéi xué shēng shí qī, liǎo jiě lì shǐ zhòng yào ma? / nǐ jué de xué xí lì shǐ zhòng yào ma?/
+여러 나라 사람들은 역사를 잘 알아요? / 학생 시절에 역사를 아는 게 중요하다고 생각해요? / 역사 공부가 중요하다고 생각해요?
+
+**我觉得学习历史非常重要。因为历史不仅能帮助我们了解一个国家的发展过程，还能让我们从过去的经验中吸取教训。尤其是学生时期，如果对历史完全不了解，就很难形成全面的思考能力。从长远来看，学习历史不只是为了考试，更是为了培养判断力和责任感。所以我认为，无论对个人还是对社会来说，了解历史都是很有必要的。**
+/wǒ jué de xué xí lì shǐ fēi cháng zhòng yào. yīn wèi lì shǐ bù jǐn néng bāng zhù wǒ men liǎo jiě yí ge guó jiā de fā zhǎn guò chéng, hái néng ràng wǒ men cóng guò qù de jīng yàn zhōng xī qǔ jiào xùn. yóu qí shì xué shēng shí qī, rú guǒ duì lì shǐ wán quán bù liǎo jiě, jiù hěn nán xíng chéng quán miàn de sī kǎo néng lì. cóng cháng yuǎn lái kàn, xué xí lì shǐ bù zhǐ shì wèi le kǎo shì, gèng shì wèi le péi yǎng pàn duàn lì hé zé rèn gǎn. suǒ yǐ wǒ rèn wéi, wú lùn duì gè rén hái shì duì shè huì lái shuō, liǎo jiě lì shǐ dōu shì hěn yǒu bì yào de./
+나는 역사 공부가 매우 중요하다고 생각한다. 역사는 한 나라의 발전 과정을 이해하게 해 줄 뿐만 아니라 과거의 경험에서 교훈을 얻도록 도와주기 때문이다. 특히 학생 시절에 역사에 대해 전혀 이해하지 못하면 종합적인 사고 능력을 기르기 어렵다. 장기적으로 보면 역사 공부는 단지 시험을 위한 것이 아니라 판단력과 책임감을 기르기 위한 것이기도 하다. 그래서 개인에게든 사회에게든 역사를 아는 것은 매우 필요하다고 생각한다.
+
+## 3. 你对垃圾回收再利用有什么看法？
+
+/nǐ duì lā jī huí shōu zài lì yòng yǒu shén me kàn fǎ/
+쓰레기 재활용에 대해 어떻게 생각해요?
+
+**我觉得垃圾回收再利用非常重要，而且这是现代社会必须重视的问题。随着经济的发展，人们的生活水平提高了，垃圾也越来越多，如果不好好处理，不仅会浪费资源，还会污染环境。其实很多东西经过分类以后都可以再次利用，这样既能保护环境，又能节约资源，可以说是一举两得。所以我认为，政府应该加强宣传，个人也应该从日常生活做起，养成垃圾分类和回收的好习惯。**
+/wǒ jué de lā jī huí shōu zài lì yòng fēi cháng zhòng yào, ér qiě zhè shì xiàn dài shè huì bì xū zhòng shì de wèn tí. suí zhe jīng jì de fā zhǎn, rén men de shēng huó shuǐ píng tí gāo le, lā jī yě yuè lái yuè duō, rú guǒ bù hǎo hǎo chǔ lǐ, bù jǐn huì làng fèi zī yuán, hái huì wū rǎn huán jìng. qí shí hěn duō dōng xi jīng guò fēn lèi yǐ hòu dōu kě yǐ zài cì lì yòng, zhè yàng jì néng bǎo hù huán jìng, yòu néng jié yuē zī yuán, kě yǐ shuō shì yì jǔ liǎng dé. suǒ yǐ wǒ rèn wéi, zhèng fǔ yīng gāi jiā qiáng xuān chuán, gè rén yě yīng gāi cóng rì cháng shēng huó zuò qǐ, yǎng chéng lā jī fēn lèi hé huí shōu de hǎo xí guàn./
+나는 쓰레기 재활용이 매우 중요하다고 생각하며, 이것은 현대 사회가 반드시 중시해야 할 문제라고 본다. 경제가 발전하면서 사람들의 생활 수준이 높아졌고 쓰레기도 점점 많아지고 있다. 만약 잘 처리하지 않으면 자원을 낭비할 뿐 아니라 환경도 오염시킨다. 사실 많은 물건은 분류한 뒤 다시 사용할 수 있어서 환경을 보호하고 자원을 절약할 수 있으니 일석이조라고 할 수 있다. 그래서 정부는 홍보를 강화해야 하고 개인도 일상생활에서부터 시작해 쓰레기 분리배출과 재활용의 좋은 습관을 길러야 한다고 생각한다.
+
+## 4. 你喜欢和聪明的职员一起工作还是喜欢和工作努力的职员一起工作？
+
+/nǐ xǐ huan hé cōng míng de zhí yuán yì qǐ gōng zuò hái shì xǐ huan hé gōng zuò nǔ lì de zhí yuán yì qǐ gōng zuò/
+똑똑한 직원과 일하는 걸 좋아해요, 아니면 열심히 하는 직원과 일하는 걸 좋아해요?
+
+**如果一定要在这两种人之间做选择，我会更喜欢和工作努力的职员一起工作。因为我觉得聪明当然很重要，但是如果只有能力却不认真，很多事情还是做不好。相反，工作努力的人一般责任感比较强，也愿意不断学习和进步。这样的人在团队合作中更值得信赖，而且大家互相帮助的时候，往往更容易事半功倍。所以从长远来看，我觉得努力比单纯的聪明更重要。**
+/rú guǒ yí dìng yào zài zhè liǎng zhǒng rén zhī jiān zuò xuǎn zé, wǒ huì gèng xǐ huan hé gōng zuò nǔ lì de zhí yuán yì qǐ gōng zuò. yīn wèi wǒ jué de cōng míng dāng rán hěn zhòng yào, dàn shì rú guǒ zhǐ yǒu néng lì què bù rèn zhēn, hěn duō shì qing hái shì zuò bù hǎo. xiāng fǎn, gōng zuò nǔ lì de rén yì bān zé rèn gǎn bǐ jiào qiáng, yě yuàn yì bù duàn xué xí hé jìn bù. zhè yàng de rén zài tuán duì hé zuò zhōng gèng zhí de xìn lài, ér qiě dà jiā hù xiāng bāng zhù de shí hou, wǎng wǎng gèng róng yì shì bàn gōng bèi. suǒ yǐ cóng cháng yuǎn lái kàn, wǒ jué de nǔ lì bǐ dān chún de cōng míng gèng zhòng yào./
+꼭 이 두 유형 중에서 선택해야 한다면 나는 열심히 일하는 직원과 함께 일하는 편을 더 좋아한다. 똑똑한 것이 물론 중요하지만 능력만 있고 성실하지 않으면 많은 일을 잘 해내기 어렵다고 생각하기 때문이다. 반대로 열심히 일하는 사람은 책임감이 더 강하고 계속 배우고 발전하려는 의지도 있다. 이런 사람은 팀워크 안에서 더 신뢰할 수 있고 서로 도울 때 더 쉽게 큰 효과를 낼 수 있다. 그래서 장기적으로 보면 단순한 똑똑함보다 노력하는 태도가 더 중요하다고 생각한다.
+
+# 第六部分
+
+## 1. 你的女儿被公司录取，作为父亲请你向她表示祝贺并给予忠告。
+
+/nǐ de nǚ ér bèi gōng sī lù qǔ, zuò wéi fù qīn qǐng nǐ xiàng tā biǎo shì zhù hè bìng jǐ yǔ zhōng gào/
+딸이 회사에 합격했을 때, 아버지로서 축하와 조언을 전해주세요.
+
+**女儿，听说你被公司录取了，我真的很高兴，也为你感到骄傲。你这段时间一直很努力，现在终于有了这么好的结果，真是值得祝贺。不过，进入公司以后，你不能骄傲，要继续保持认真负责的态度。工作的时候要尊敬上司，和同事搞好人际关系，也要不断学习，提高自己的能力。我相信，只要你脚踏实地，一定会有更好的发展。**
+/nǚ ér, tīng shuō nǐ bèi gōng sī lù qǔ le, wǒ zhēn de hěn gāo xìng, yě wèi nǐ gǎn dào jiāo ào. nǐ zhè duàn shí jiān yì zhí hěn nǔ lì, xiàn zài zhōng yú yǒu le zhè me hǎo de jié guǒ, zhēn shì zhí de zhù hè. bú guò, jìn rù gōng sī yǐ hòu, nǐ bù néng jiāo ào, yào jì xù bǎo chí rèn zhēn fù zé de tài dù. gōng zuò de shí hou yào zūn jìng shàng sī, hé tóng shì gǎo hǎo rén jì guān xì, yě yào bù duàn xué xí, tí gāo zì jǐ de néng lì. wǒ xiāng xìn, zhǐ yào nǐ jiǎo tà shí dì, yí dìng huì yǒu gèng hǎo de fā zhǎn./
+딸아, 회사에 합격했다는 말을 듣고 정말 기쁘고 너를 매우 자랑스럽게 생각한다. 너는 그동안 정말 열심히 노력했고 이제 드디어 이렇게 좋은 결과를 얻었으니 정말 축하할 만하다. 하지만 회사에 들어간 후에는 자만하지 말고 계속 성실하고 책임감 있는 태도를 유지해야 한다. 일할 때는 상사를 존중하고 동료들과도 좋은 인간관계를 만들어야 하며 끊임없이 배우면서 자신의 능력을 키워야 한다. 네가 착실하게 해 나간다면 분명 더 좋은 발전이 있을 거라고 믿는다.
+
+## 2. 你想出售房屋，请向房屋中介公司的老板介绍一下。
+
+/nǐ xiǎng chū shòu fáng wū, qǐng xiàng fáng wū zhōng jiè gōng sī de lǎo bǎn jiè shào yí xià/
+집을 팔려고 할 때 부동산 중개사 사장님에게 소개해주세요.
+
+**您好，我想委托你们公司帮我出售房子，所以先简单介绍一下情况。我的房子在交通比较方便的地方，离地铁站不太远，周围生活设施也比较齐全，附近有超市、学校和医院，生活很方便。房子的采光和通风都不错，整体状态也比较好，比较适合家庭居住。我希望能尽快找到合适的买家，所以麻烦您帮我看看，并给我一些专业的建议。**
+/nín hǎo, wǒ xiǎng wěi tuō nǐ men gōng sī bāng wǒ chū shòu fáng zi, suǒ yǐ xiān jiǎn dān jiè shào yí xià qíng kuàng. wǒ de fáng zi zài jiāo tōng bǐ jiào fāng biàn de dì fang, lí dì tiě zhàn bù tài yuǎn, zhōu wéi shēng huó shè shī yě bǐ jiào qí quán, fù jìn yǒu chāo shì, xué xiào hé yī yuàn, shēng huó hěn fāng biàn. fáng zi de cǎi guāng hé tōng fēng dōu bú cuò, zhěng tǐ zhuàng tài yě bǐ jiào hǎo, bǐ jiào shì hé jiā tíng jū zhù. wǒ xī wàng néng jǐn kuài zhǎo dào hé shì de mǎi jiā, suǒ yǐ má fan nín bāng wǒ kàn kan, bìng gěi wǒ yì xiē zhuān yè de jiàn yì./
+안녕하세요. 집을 팔려고 해서 귀사에 의뢰하고 싶습니다. 그래서 먼저 간단히 상황을 소개하겠습니다. 제 집은 교통이 비교적 편리한 곳에 있고 지하철역에서도 그리 멀지 않습니다. 주변 생활시설도 잘 갖추어져 있어서 근처에 슈퍼, 학교, 병원이 있어 생활하기 편합니다. 집은 채광과 통풍도 좋고 전체 상태도 괜찮아서 가족이 살기에 적합합니다. 가능한 한 빨리 적절한 구매자를 찾고 싶으니 한번 살펴봐 주시고 전문적인 조언도 부탁드립니다.
+
+## 3. 会议时间和地点有变，请你转达给同事。
+
+/huì yì shí jiān hé dì diǎn yǒu biàn, qǐng nǐ zhuǎn dá gěi tóng shì/
+회의 시간과 장소가 바뀌었을 때 동료에게 전달해주세요.
+
+**大家好，我来通知一下，原来的会议时间和地点已经有变。会议本来是明天下午两点在三楼会议室举行，现在改成明天下午三点，在五楼第一会议室举行。请大家提前安排好时间，不要迟到。如果还有不清楚的地方，可以随时跟我联系，我再给大家确认。**
+/dà jiā hǎo, wǒ lái tōng zhī yí xià, yuán lái de huì yì shí jiān hé dì diǎn yǐ jīng yǒu biàn. huì yì běn lái shì míng tiān xià wǔ liǎng diǎn zài sān lóu huì yì shì jǔ xíng, xiàn zài gǎi chéng míng tiān xià wǔ sān diǎn, zài wǔ lóu dì yī huì yì shì jǔ xíng. qǐng dà jiā tí qián ān pái hǎo shí jiān, bú yào chí dào. rú guǒ hái yǒu bù qīng chu de dì fang, kě yǐ suí shí gēn wǒ lián xì, wǒ zài gěi dà jiā què rèn./
+여러분, 공지 하나 드리겠습니다. 원래 예정되어 있던 회의 시간과 장소가 변경되었습니다. 회의는 원래 내일 오후 2시에 3층 회의실에서 열릴 예정이었지만, 지금은 내일 오후 3시에 5층 제1회의실에서 열리게 되었습니다. 모두 미리 시간을 잘 조정하시고 늦지 마세요. 혹시 더 분명하지 않은 부분이 있으면 언제든지 저에게 연락해 주세요. 제가 다시 확인해 드리겠습니다.
+
 ------------------------------------------------------------------------------------------
-### **1. 日常对话**  
-1. **你要不要喝咖啡？**  
-   - Nǐ yào bù yào hē kāfēi?  
-   - 커피 마실래요?  
-2. **你常买衣服吗？**  
-   - Nǐ cháng mǎi yīfu ma?  
-   - 옷 자주 사세요?  
-3. **从家到公交车站有多远？**  
-   - Cóng jiā dào gōngjiāo chē zhàn yǒu duō yuǎn?  
-   - 집에서 버스 정류장까지 얼마나 멀어요?  
-4. **你是自己骑还是送人? (자전거 가계)**  
-   - Nǐ shì zìjǐ qí háishì sòng rén? (Zìxíngchē diàn)  
-   - 직접 탈 건가요 아니면 선물할 건가요? (자전거 가게에서)  
-5. **我身体不舒服，我们改天见面吧。**  
-   - Wǒ shēntǐ bù shūfu, wǒmen gǎitiān jiànmiàn ba.  
-   - 몸이 안 좋아서 다음에 만나요.  
-6. **你要的颜色没有了。**  
-   - Nǐ yào de yánsè méiyǒu le.  
-   - 원하시는 색상은 품절되었어요.  
-7. **汉语考试成绩出来了吗？**  
-   - Hànyǔ kǎoshì chéngjī chūlái le ma?  
-   - 중국어 시험 결과 나왔어요?  
-### **2. 个人生活**  
-1. **你有没有去过中国旅行？**  
-   - Nǐ yǒu méiyǒu qùguò Zhōngguó lǚxíng?  
-   - 중국 여행 가본 적 있어요?  
-2. **买手机的时候你会考虑哪些因素?**  
-   - Mǎi shǒujī de shíhou nǐ huì kǎolǜ nǎxiē yīnsù?  
-   - 휴대폰 살 때 어떤 점을 고려해요?  
-3. **你学生时期为了实现梦想是怎么努力的？**  
-   - Nǐ xuéshēng shíqī wèile shíxiàn mèngxiǎng shì zěnme nǔlì de?  
-   - 학생 시절에 꿈을 이루기 위해 어떻게 노력했어요?  
-4. **你喜欢玩网络游戏吗？**  
-   - Nǐ xǐhuān wán wǎngluò yóuxì ma?  
-   - 온라인 게임 좋아해요?  
-5. **你做事喜欢按照计划进行吗？**  
-   - Nǐ zuòshì xǐhuān ànzhào jìhuà jìnxíng ma?  
-   - 일을 계획대로 하는 걸 좋아해요?  
-### **3. 观点讨论**  
-1. **现在人们越来越重视外貌，请说说其中的原因和理由。**  
-   - Xiànzài rénmen yuè lái yuè zhòngshì wàimào, qǐng shuōshuō qízhōng de yuányīn hé lǐyóu.  
-   - 요즘 사람들이 외모를 점점 더 중요시하는데, 그 이유는 무엇인가요?  
-2. **近年来，很多人不结婚，一个人生活，独身的人越来越多，请说说这是什么原因造成的，并提出解决办法。**  
-   - Jìnnián lái, hěn duō rén bù jiéhūn, yīgè rén shēnghuó, dúshēn de rén yuè lái yuè duō, qǐng shuōshuō zhè shì shénme yuányīn zàochéng de, bìng tíchū jiějué bànfǎ.  
-   - 최근 많은 사람들이 결혼하지 않고 혼자 사는 경우가 늘고 있는데, 그 원인과 해결책은 무엇일까요?  
-3. **五天工作制和六天工作制，哪个更好？**  
-   - Wǔ tiān gōngzuò zhì hé liù tiān gōngzuò zhì, nǎge gèng hǎo?  
-   - 주5일 근무제와 주6일 근무제 중 어느 것이 더 좋을까요?  
-4. **高学历对升职(晋升)有帮助吗？**  
-   - Gāo xuélì duì shēngzhí (jìnshēng) yǒu bāngzhù ma?  
-   - 높은 학력이 승진에 도움이 될까요?  
-### **4. 情景任务**  
-1. **你预约了定期身体检查，但是突然有事去不了了，现在请你给医院打电话说明情况，并改时间。**  
-   - Nǐ yùyuē le dìngqī shēntǐ jiǎnchá, dànshì tūrán yǒu shì qù bùliǎo le, xiànzài qǐng nǐ gěi yīyuàn dǎ diànhuà shuōmíng qíngkuàng, bìng gǎi shíjiān.  
-   - 정기 검진 예약했는데 갑자기 일이 생겨 못 가게 됐어요. 병원에 전화해 상황을 설명하고 예약 시간을 변경하세요.  
-2. **你在面包店买了很多面包，回家后发现有一个面包过期了，现在请你给面包店打电话说明情况并表达不满，请他们尽快解决问题。**  
-   - Nǐ zài miànbāo diàn mǎi le hěnduō miànbāo, huí jiā hòu fāxiàn yǒu yīgè miànbāo guòqī le, xiànzài qǐng nǐ gěi miànbāo diàn dǎ diànhuà shuōmíng qíngkuàng bìng biǎodá bùmǎn, qǐng tāmen jǐnkuài jiějué wèntí.  
-   - 빵집에서 빵을 많이 샀는데 집에 와서 보니 하나가 유통기한이 지났어요. 빵집에 전화해 상황을 설명하고 불만을 표현한 후 빠르게 해결해 달라고 하세요.  
-3. **你有两张免费的电影票，但是当天你要参加朋友的婚礼，现在请你跟同事说明情况，并把电影票送给她。**  
-   - Nǐ yǒu liǎng zhāng miǎnfèi de diànyǐng piào, dànshì dāngtiān nǐ yào cānjiā péngyou de hūnlǐ, xiànzài qǐng nǐ gēn tóngshì shuōmíng qíngkuàng, bìng bǎ diànyǐng piào sòng gěi tā.  
-   - 무료 영화표 2장이 있는데 그 날 친구 결혼식에 가야 해요. 동료에게 상황을 설명하고 영화표를 선물하세요.  
+3부분
+1. 你要不要喝咖啡？
+
+/nǐ yào bú yào hē kā fēi/
+커피 마실래요?
+
+》好啊，我正好也有点困。喝杯咖啡可以提神，也能放松一下。我们去哪家咖啡厅？
+/hǎo a, wǒ zhèng hǎo yě yǒu diǎn kùn. hē bēi kā fēi kě yǐ tí shén, yě néng fàng sōng yí xià. wǒ men qù nǎ jiā kā fēi tīng/
+좋아요. 저도 마침 좀 졸렸어요. 커피 한 잔 마시면 정신도 차릴 수 있고 기분도 좀 풀릴 것 같아요. 우리 어느 카페로 갈까요?
+
+2. 你常买衣服吗？
+
+/nǐ cháng mǎi yī fu ma/
+옷 자주 사세요?
+
+》不算太常买。一般换季或者打折的时候，我才会买一点。因为我觉得衣服只要舒服、适合自己就可以了。
+/bú suàn tài cháng mǎi. yì bān huàn jì huò zhě dǎ zhé de shí hou, wǒ cái huì mǎi yì diǎn. yīn wèi wǒ jué de yī fu zhǐ yào shū fu, shì hé zì jǐ jiù kě yǐ le/
+그렇게 자주 사는 편은 아니에요. 보통 계절이 바뀌거나 할인할 때 조금 사요. 저는 옷은 편하고 자기한테 잘 어울리면 된다고 생각해요.
+
+3. 从家到公交车站有多远？
+
+/cóng jiā dào gōng jiāo chē zhàn yǒu duō yuǎn/
+집에서 버스 정류장까지 얼마나 멀어요?
+
+》不太远，走路大概五分钟就到了，所以平时出门很方便。
+/bú tài yuǎn, zǒu lù dà gài wǔ fēn zhōng jiù dào le, suǒ yǐ píng shí chū mén hěn fāng biàn/
+그리 멀지 않아요. 걸어서 대략 5분이면 도착해서 평소에 외출하기 편해요.
+
+4. 你是自己骑还是送人？
+
+/nǐ shì zì jǐ qí hái shì sòng rén/
+직접 탈 건가요 아니면 선물할 건가요?
+
+》我自己骑。因为我平时很喜欢运动，所以想买一辆轻一点、骑起来舒服一点的。请你给我推荐一下吧。
+/wǒ zì jǐ qí. yīn wèi wǒ píng shí hěn xǐ huān yùn dòng, suǒ yǐ xiǎng mǎi yí liàng qīng yì diǎn, qí qǐ lái shū fu yì diǎn de. qǐng nǐ gěi wǒ tuī jiàn yí xià ba/
+제가 직접 탈 거예요. 평소 운동을 좋아해서 좀 가볍고 타기 편한 자전거를 사고 싶어요. 추천 좀 해주세요.
+
+5. 我身体不舒服，我们改天见面吧。
+
+/wǒ shēn tǐ bù shū fu, wǒ men gǎi tiān jiàn miàn ba/
+몸이 안 좋아서 다음에 만나요.
+
+》好的，你先好好休息吧，别太担心。等你身体好了以后，我们再见面也不迟。
+/hǎo de, nǐ xiān hǎo hǎo xiū xi ba, bié tài dān xīn. děng nǐ shēn tǐ hǎo le yǐ hòu, wǒ men zài jiàn miàn yě bù chí/
+알겠어요. 먼저 푹 쉬세요. 너무 걱정하지 말고요. 몸이 나아진 다음에 다시 만나도 늦지 않아요.
+
+6. 你要的颜色没有了。
+
+/nǐ yào de yán sè méi yǒu le/
+원하시는 색상은 품절되었어요.
+
+》是吗？太可惜了。那还有别的颜色吗？如果都没有的话，我下次再来看看。
+/shì ma, tài kě xī le. nà hái yǒu bié de yán sè ma. rú guǒ dōu méi yǒu de huà, wǒ xià cì zài lái kàn kan/
+그래요? 아쉽네요. 그럼 다른 색은 있나요? 다 없으면 다음에 다시 와서 볼게요.
+
+7. 汉语考试成绩出来了吗？
+
+/hàn yǔ kǎo shì chéng jì chū lái le ma/
+중국어 시험 결과 나왔어요?
+
+》还没出来，我也有点着急。这次考试对我来说很重要，所以我最近一直在等消息。
+/hái méi chū lái, wǒ yě yǒu diǎn zháo jí. zhè cì kǎo shì duì wǒ lái shuō hěn zhòng yào, suǒ yǐ wǒ zuì jìn yì zhí zài děng xiāo xi/
+아직 안 나왔어요. 저도 좀 초조해요. 이번 시험은 저에게 정말 중요해서 요즘 계속 결과를 기다리고 있어요.
+
+4부분
+1. 你有没有去过中国旅行？
+
+/nǐ yǒu méi yǒu qù guò zhōng guó lǚ xíng/
+중국 여행 가본 적 있어요?
+
+》去过。我以前去中国出差和旅行的时候，去过几个城市，其中我印象最深的是苏州。因为那里的风景很漂亮，还有很多名胜古迹。
+/qù guò. wǒ yǐ qián qù zhōng guó chū chāi hé lǚ xíng de shí hou, qù guò jǐ gè chéng shì, qí zhōng wǒ yìn xiàng zuì shēn de shì sū zhōu. yīn wèi nà lǐ de fēng jǐng hěn piào liang, hái yǒu hěn duō míng shèng gǔ jì/
+가본 적 있어요. 예전에 중국에 출장도 가고 여행도 가면서 몇몇 도시를 가봤는데, 그중 가장 인상 깊었던 곳은 쑤저우예요. 거기는 풍경이 아름답고 명승고적도 많아요.
+
+2. 买手机的时候你会考虑哪些因素？
+
+/mǎi shǒu jī de shí hou nǐ huì kǎo lǜ nǎ xiē yīn sù/
+휴대폰 살 때 어떤 점을 고려해요?
+
+》我一般会考虑价格、功能、电池续航和品牌。因为手机已经离不开我们的生活，如果质量不好，用起来会很麻烦。
+/wǒ yì bān huì kǎo lǜ jià gé, gōng néng, diàn chí xù háng hé pǐn pái. yīn wèi shǒu jī yǐ jīng lí bù kāi wǒ men de shēng huó, rú guǒ zhì liàng bù hǎo, yòng qǐ lái huì hěn má fan/
+저는 보통 가격, 기능, 배터리 지속시간, 브랜드를 고려해요. 휴대폰은 이미 생활에서 뗄 수 없기 때문에 품질이 좋지 않으면 사용하기가 많이 불편하거든요.
+
+3. 你学生时期为了实现梦想是怎么努力的？
+
+/nǐ xué shēng shí qī wèi le shí xiàn mèng xiǎng shì zěn me nǔ lì de/
+학생 시절에 꿈을 이루기 위해 어떻게 노력했어요?
+
+》学生时期，我一直很努力。除了认真上课以外，我还坚持学外语，利用空余时间准备考试和资格证。我觉得只有未雨绸缪，将来才不会手忙脚乱。
+/xué shēng shí qī, wǒ yì zhí hěn nǔ lì. chú le rèn zhēn shàng kè yǐ wài, wǒ hái jiān chí xué wài yǔ, lì yòng kòng yú shí jiān zhǔn bèi kǎo shì hé zī gé zhèng. wǒ jué de zhǐ yǒu wèi yǔ chóu móu, jiāng lái cái bú huì shǒu máng jiǎo luàn/
+학생 시절 저는 계속 열심히 노력했어요. 수업을 성실히 듣는 것 외에도 외국어 공부를 꾸준히 했고, 남는 시간에는 시험과 자격증 준비도 했어요. 저는 미리 준비해야 나중에 허둥대지 않는다고 생각해요.
+
+4. 你喜欢玩网络游戏吗？
+
+/nǐ xǐ huān wán wǎng luò yóu xì ma/
+온라인 게임 좋아해요?
+
+》偶尔会玩，但是不会沉迷。因为我觉得适当地玩一玩可以放松心情，不过如果玩得太多，就容易影响学习和休息。
+/ǒu ěr huì wán, dàn shì bú huì chén mí. yīn wèi wǒ jué de shì dàng de wán yì wán kě yǐ fàng sōng xīn qíng, bú guò rú guǒ wán de tài duō, jiù róng yì yǐng xiǎng xué xí hé xiū xi/
+가끔은 하지만 빠지지는 않아요. 적당히 하면 스트레스 해소가 되지만, 너무 많이 하면 공부와 휴식에 영향을 주기 쉬워요.
+
+5. 你做事喜欢按照计划进行吗？
+
+/nǐ zuò shì xǐ huān àn zhào jì huà jìn xíng ma/
+일을 계획대로 하는 걸 좋아해요?
+
+》是的，我做事比较喜欢按照计划进行。因为这样效率更高，也不容易手忙脚乱。当然，如果有特殊情况，我也会灵活调整。
+/shì de, wǒ zuò shì bǐ jiào xǐ huān àn zhào jì huà jìn xíng. yīn wèi zhè yàng xiào lǜ gèng gāo, yě bù róng yì shǒu máng jiǎo luàn. dāng rán, rú guǒ yǒu tè shū qíng kuàng, wǒ yě huì líng huó tiáo zhěng/
+네, 저는 일을 비교적 계획대로 하는 편을 좋아해요. 그렇게 해야 효율도 높고 허둥대지도 않거든요. 물론 특별한 상황이 있으면 유연하게 조정하기도 해요.
+
+5부분
+1. 现在人们越来越重视外貌，请说说其中的原因和理由。
+
+/xiàn zài rén men yuè lái yuè zhòng shì wài mào, qǐng shuō shuō qí zhōng de yuán yīn hé lǐ yóu/
+요즘 사람들이 외모를 점점 더 중요시하는데, 그 이유는 무엇인가요?
+
+》我觉得这是很正常的现象。随着社会的发展，人们越来越重视第一印象，而且社交媒体也让外貌变得更受关注。很多人认为，外表好一点，不但能提高自信心，还能给别人留下更好的印象。当然，我觉得外貌虽然重要，但是能力和内在更重要。如果只重视外貌而忽视真正的实力，最后可能得不偿失。所以我认为，外貌和能力最好能够保持平衡。
+/wǒ jué de zhè shì hěn zhèng cháng de xiàn xiàng. suí zhe shè huì de fā zhǎn, rén men yuè lái yuè zhòng shì dì yī yìn xiàng, ér qiě shè jiāo méi tǐ yě ràng wài mào biàn de gèng shòu guān zhù. hěn duō rén rèn wéi, wài biǎo hǎo yì diǎn, bù dàn néng tí gāo zì xìn xīn, hái néng gěi bié rén liú xià gèng hǎo de yìn xiàng. dāng rán, wǒ jué de wài mào suī rán zhòng yào, dàn shì néng lì hé nèi zài gèng zhòng yào. rú guǒ zhǐ zhòng shì wài mào ér hū shì zhēn zhèng de shí lì, zuì hòu kě néng dé bù cháng shī. suǒ yǐ wǒ rèn wéi, wài mào hé néng lì zuì hǎo néng gòu bǎo chí píng héng/
+저는 이것이 아주 자연스러운 현상이라고 생각해요. 사회가 발전하면서 사람들은 첫인상을 점점 더 중요하게 여기고 있고, SNS도 외모를 더 주목받게 만들고 있어요. 많은 사람들은 외모가 좀 더 좋으면 자신감을 높일 수 있을 뿐 아니라 다른 사람에게 더 좋은 인상을 줄 수 있다고 생각해요. 물론 저는 외모도 중요하지만 능력과 내면이 더 중요하다고 생각해요. 만약 외모만 중시하고 진짜 실력을 무시하면 결국 손해가 더 클 수도 있어요. 그래서 외모와 능력은 균형을 이루는 것이 가장 좋다고 생각해요.
+
+2. 近年来，很多人不结婚，一个人生活，独身的人越来越多，请说说这是什么原因造成的，并提出解决办法。
+
+/jìn nián lái, hěn duō rén bù jié hūn, yí gè rén shēng huó, dú shēn de rén yuè lái yuè duō, qǐng shuō shuō zhè shì shén me yuán yīn zào chéng de, bìng tí chū jiě jué bàn fǎ/
+최근 많은 사람들이 결혼하지 않고 혼자 사는 경우가 늘고 있는데, 그 원인과 해결책은 무엇일까요?
+
+》我觉得这是一个值得社会重视的现象。首先，最近物价、房价和教育费用越来越高，很多年轻人觉得经济负担太重，所以不敢轻易结婚。其次，现在工作压力很大，很多人每天早出晚归，根本没有时间经营感情。另外，一些年轻人也更重视个人自由和生活质量。要解决这个问题，我觉得政府应该减轻住房和教育方面的负担，同时公司也应该改善工作制度，让年轻人有更多自己的时间。只有这样，大家才会更愿意考虑结婚和家庭生活。
+/wǒ jué de zhè shì yí gè zhí dé shè huì zhòng shì de xiàn xiàng. shǒu xiān, zuì jìn wù jià, fáng jià hé jiào yù fèi yòng yuè lái yuè gāo, hěn duō nián qīng rén jué de jīng jì fù dān tài zhòng, suǒ yǐ bù gǎn qīng yì jié hūn. qí cì, xiàn zài gōng zuò yā lì hěn dà, hěn duō rén měi tiān zǎo chū wǎn guī, gēn běn méi yǒu shí jiān jīng yíng gǎn qíng. lìng wài, yì xiē nián qīng rén yě gèng zhòng shì gè rén zì yóu hé shēng huó zhì liàng. yào jiě jué zhè ge wèn tí, wǒ jué de zhèng fǔ yīng gāi jiǎn qīng zhù fáng hé jiào yù fāng miàn de fù dān, tóng shí gōng sī yě yīng gāi gǎi shàn gōng zuò zhì dù, ràng nián qīng rén yǒu gèng duō zì jǐ de shí jiān. zhǐ yǒu zhè yàng, dà jiā cái huì gèng yuàn yì kǎo lǜ jié hūn hé jiā tíng shēng huó/
+저는 이것이 사회가 주목해야 할 현상이라고 생각해요. 우선 최근 물가, 집값, 교육비가 점점 올라서 많은 젊은이들이 경제적 부담이 너무 크다고 느껴 쉽게 결혼하지 못해요. 둘째, 요즘은 일 스트레스도 크고 많은 사람들이 매일 일찍 나가고 늦게 들어와서 관계를 가꿀 시간이 거의 없어요. 게다가 일부 젊은 사람들은 개인의 자유와 삶의 질을 더 중요하게 생각하기도 해요. 이 문제를 해결하려면 정부는 주거와 교육 부담을 줄여야 하고 회사도 근무 제도를 개선해서 젊은 사람들이 자기 시간을 더 가질 수 있게 해야 해요. 그래야 사람들이 결혼과 가정생활을 더 긍정적으로 생각할 수 있다고 봐요.
+
+3. 五天工作制和六天工作制，哪个更好？
+
+/wǔ tiān gōng zuò zhì hé liù tiān gōng zuò zhì, nǎ ge gèng hǎo/
+주5일 근무제와 주6일 근무제 중 어느 것이 더 좋을까요?
+
+》如果一定要在这两种制度之间做选择，我觉得五天工作制更好。因为现在很多人的工作压力已经很大，如果一周工作六天，身体和精神都会很累，长期下来还会影响工作效率。相反，五天工作制可以让人有足够的休息时间，也能陪伴家人，调整状态。这样工作的时候反而更容易集中精力，可以说是劳逸结合。从长远来看，我觉得五天工作制更符合现代人的生活方式。
+/rú guǒ yí dìng yào zài zhè liǎng zhǒng zhì dù zhī jiān zuò xuǎn zé, wǒ jué de wǔ tiān gōng zuò zhì gèng hǎo. yīn wèi xiàn zài hěn duō rén de gōng zuò yā lì yǐ jīng hěn dà, rú guǒ yì zhōu gōng zuò liù tiān, shēn tǐ hé jīng shén dōu huì hěn lèi, cháng qī xià lái hái huì yǐng xiǎng gōng zuò xiào lǜ. xiāng fǎn, wǔ tiān gōng zuò zhì kě yǐ ràng rén yǒu zú gòu de xiū xi shí jiān, yě néng péi bàn jiā rén, tiáo zhěng zhuàng tài. zhè yàng gōng zuò de shí hou fǎn ér gèng róng yì jí zhōng jīng lì, kě yǐ shuō shì láo yì jié hé. cóng cháng yuǎn lái kàn, wǒ jué de wǔ tiān gōng zuò zhì gèng fú hé xiàn dài rén de shēng huó fāng shì/
+꼭 이 두 제도 중 하나를 선택해야 한다면 저는 주5일 근무제가 더 좋다고 생각해요. 요즘 많은 사람들의 업무 스트레스가 이미 매우 큰데, 일주일에 6일 일하면 몸과 정신이 모두 피곤해지고 장기적으로는 업무 효율에도 영향을 줄 수 있어요. 반대로 주5일 근무제는 충분한 휴식 시간을 주고 가족과 함께할 시간도 주며 상태를 조절할 수 있게 해줘요. 이렇게 해야 오히려 일할 때 집중도 더 잘 되고 일과 휴식의 균형도 맞출 수 있어요. 장기적으로 봐도 주5일 근무제가 현대인의 생활 방식에 더 잘 맞는다고 생각해요.
+
+4. 高学历对升职(晋升)有帮助吗？
+
+/gāo xué lì duì shēng zhí (jìn shēng) yǒu bāng zhù ma/
+높은 학력이 승진에 도움이 될까요?
+
+》我觉得高学历对升职当然有一定帮助，因为学历高的人一般基础知识比较扎实，学习能力也比较强，在竞争的时候往往更有优势。但是我觉得学历并不是唯一的标准。因为在实际工作中，经验、责任感、人际关系和解决问题的能力也非常重要。如果只有学历高，但是工作能力一般，也很难得到真正的认可。所以我认为，高学历是加分项，但如果想顺利晋升，还是要把能力和经验一起提高。
+/wǒ jué de gāo xué lì duì shēng zhí dāng rán yǒu yí dìng bāng zhù, yīn wèi xué lì gāo de rén yì bān jī chǔ zhī shi bǐ jiào zhā shi, xué xí néng lì yě bǐ jiào qiáng, zài jìng zhēng de shí hou wǎng wǎng gèng yǒu yōu shì. dàn shì wǒ jué de xué lì bìng bú shì wéi yī de biāo zhǔn. yīn wèi zài shí jì gōng zuò zhōng, jīng yàn, zé rèn gǎn, rén jì guān xì hé jiě jué wèn tí de néng lì yě fēi cháng zhòng yào. rú guǒ zhǐ yǒu xué lì gāo, dàn shì gōng zuò néng lì yì bān, yě hěn nán dé dào zhēn zhèng de rèn kě. suǒ yǐ wǒ rèn wéi, gāo xué lì shì jiā fēn xiàng, dàn rú guǒ xiǎng shùn lì jìn shēng, hái shì yào bǎ néng lì hé jīng yàn yì qǐ tí gāo/
+저는 높은 학력이 승진에 당연히 어느 정도 도움이 된다고 생각해요. 학력이 높은 사람은 보통 기초 지식이 탄탄하고 학습 능력도 좋아서 경쟁할 때 더 유리한 경우가 많기 때문이에요. 하지만 학력은 유일한 기준이 아니라고 생각해요. 실제 업무에서는 경험, 책임감, 인간관계, 문제 해결 능력도 매우 중요해요. 학력만 높고 업무 능력이 보통이라면 진정한 인정을 받기 어렵다고 봐요. 그래서 높은 학력은 분명 가산점이 되지만, 순조롭게 승진하려면 능력과 경험도 함께 키워야 한다고 생각해요.
+
+6부분
+1. 你预约了定期身体检查，但是突然有事去不了了，现在请你给医院打电话说明情况，并改时间。
+
+/nǐ yù yuē le dìng qī shēn tǐ jiǎn chá, dàn shì tū rán yǒu shì qù bù liǎo le, xiàn zài qǐng nǐ gěi yī yuàn dǎ diàn huà shuō míng qíng kuàng, bìng gǎi shí jiān/
+정기 검진 예약했는데 갑자기 일이 생겨 못 가게 됐어요. 병원에 전화해 상황을 설명하고 예약 시간을 변경하세요.
+
+喂，您好。请问是医院吗？我前几天预约了定期身体检查，本来是明天上午去，但是我突然有点急事，可能去不了了，真不好意思。我想问一下，能不能帮我改一下时间？如果可以的话，我想改到下个星期三上午。麻烦您帮我确认一下，谢谢。
+/wèi, nín hǎo. qǐng wèn shì yī yuàn ma? wǒ qián jǐ tiān yù yuē le dìng qī shēn tǐ jiǎn chá, běn lái shì míng tiān shàng wǔ qù, dàn shì wǒ tū rán yǒu diǎn jí shì, kě néng qù bù liǎo le, zhēn bù hǎo yì si. wǒ xiǎng wèn yí xià, néng bù néng bāng wǒ gǎi yí xià shí jiān? rú guǒ kě yǐ de huà, wǒ xiǎng gǎi dào xià ge xīng qī sān shàng wǔ. má fan nín bāng wǒ què rèn yí xià, xiè xie./
+여보세요, 안녕하세요. 병원 맞습니까? 제가 며칠 전에 정기 건강검진을 예약했는데 원래는 내일 오전에 가기로 되어 있었어요. 그런데 갑자기 급한 일이 생겨서 아마 못 갈 것 같아요. 정말 죄송합니다. 시간을 변경할 수 있는지 여쭤보고 싶습니다. 가능하다면 다음 주 수요일 오전으로 바꾸고 싶어요. 확인 부탁드립니다. 감사합니다.
+
+2. 你在面包店买了很多面包，回家后发现有一个面包过期了，现在请你给面包店打电话说明情况并表达不满，请他们尽快解决问题。
+
+/nǐ zài miàn bāo diàn mǎi le hěn duō miàn bāo, huí jiā hòu fā xiàn yǒu yí ge miàn bāo guò qī le, xiàn zài qǐng nǐ gěi miàn bāo diàn dǎ diàn huà shuō míng qíng kuàng bìng biǎo dá bù mǎn, qǐng tā men jǐn kuài jiě jué wèn tí/
+빵집에서 빵을 많이 샀는데 집에 와서 보니 하나가 유통기한이 지났어요. 빵집에 전화해 상황을 설명하고 불만을 표현한 후 빠르게 해결해 달라고 하세요.
+
+喂，您好。请问是面包店吗？我今天在你们店里买了很多面包，可是回家以后发现其中有一个已经过期了。这让我很不满意，因为食品安全不是小事。我想问一下，这到底是怎么回事？请你们尽快帮我解决这个问题，最好给我换一个新的，或者直接退款。麻烦你们尽快处理一下，谢谢。
+/wèi, nín hǎo. qǐng wèn shì miàn bāo diàn ma? wǒ jīn tiān zài nǐ men diàn lǐ mǎi le hěn duō miàn bāo, kě shì huí jiā yǐ hòu fā xiàn qí zhōng yǒu yí ge yǐ jīng guò qī le. zhè ràng wǒ hěn bù mǎn yì, yīn wèi shí pǐn ān quán bú shì xiǎo shì. wǒ xiǎng wèn yí xià, zhè dào dǐ shì zěn me huí shì? qǐng nǐ men jǐn kuài bāng wǒ jiě jué zhè ge wèn tí, zuì hǎo gěi wǒ huàn yí ge xīn de, huò zhě zhí jiē tuì kuǎn. má fan nǐ men jǐn kuài chǔ lǐ yí xià, xiè xie./
+여보세요, 안녕하세요. 빵집 맞나요? 제가 오늘 당신들 가게에서 빵을 많이 샀는데 집에 와서 보니 그중 하나가 이미 유통기한이 지나 있었습니다. 이건 저를 매우 불만스럽게 했어요. 식품 안전은 작은 일이 아니기 때문입니다. 이게 도대체 어떻게 된 일인지 묻고 싶습니다. 이 문제를 빨리 해결해 주세요. 가능하면 새 빵으로 교환해 주시거나 바로 환불해 주세요. 빠른 처리 부탁드립니다. 감사합니다.
+
+3. 你有两张免费的电影票，但是当天你要参加朋友的婚礼，现在请你跟同事说明情况，并把电影票送给她。
+
+/nǐ yǒu liǎng zhāng miǎn fèi de diàn yǐng piào, dàn shì dāng tiān nǐ yào cān jiā péng you de hūn lǐ, xiàn zài qǐng nǐ gēn tóng shì shuō míng qíng kuàng, bìng bǎ diàn yǐng piào sòng gěi tā/
+무료 영화표 2장이 있는데 그 날 친구 결혼식에 가야 해요. 동료에게 상황을 설명하고 영화표를 선물하세요.
+
+你好，我本来有两张免费的电影票，想周末去看电影，可是后来才想起来，那天我要去参加朋友的婚礼，所以没办法去了。我觉得这两张票挺可惜的，就想送给你。如果你那天有时间的话，可以和家人或者朋友一起去看。希望你能喜欢。
+/nǐ hǎo, wǒ běn lái yǒu liǎng zhāng miǎn fèi de diàn yǐng piào, xiǎng zhōu mò qù kàn diàn yǐng, kě shì hòu lái cái xiǎng qǐ lái, nà tiān wǒ yào qù cān jiā péng you de hūn lǐ, suǒ yǐ méi bàn fǎ qù le. wǒ jué de zhè liǎng zhāng piào tǐng kě xī de, jiù xiǎng sòng gěi nǐ. rú guǒ nǐ nà tiān yǒu shí jiān de huà, kě yǐ hé jiā rén huò zhě péng you yì qǐ qù kàn. xī wàng nǐ néng xǐ huan./
+안녕하세요. 원래는 무료 영화표 두 장이 있어서 주말에 영화를 보러 가려고 했는데, 나중에 생각해 보니 그날 친구 결혼식에 가야 해서 갈 수 없게 되었어요. 이 표를 그냥 두기엔 아까워서 당신에게 주고 싶어요. 그날 시간이 있으면 가족이나 친구와 함께 보러 가세요. 마음에 들었으면 좋겠어요.
 ------------------------------------------------------------------------------------------------
-### **1. 日常对话**  
-1. **从你家到地铁站远不远？**  
-   - Cóng nǐ jiā dào dìtiě zhàn yuǎn bù yuǎn?  
-   - 집에서 지하철역까지 멀지 않아요?  
-2. **你昨天工作到那么晚，不累吗？**  
-   - Nǐ zuótiān gōngzuò dào nàme wǎn, bù lèi ma?  
-   - 어제 그렇게 늦게까지 일했는데 안 힘들었어요?  
-3. **我要去公园开始运动了。**  
-   - Wǒ yào qù gōngyuán kāishǐ yùndòng le.  
-   - 공원에 가서 운동 시작할 거예요.  
-4. **我剪头发了，你觉得我的发型怎么样？**  
-   - Wǒ jiǎn tóufa le, nǐ juédé wǒ de fàxíng zěnme yàng?  
-   - 머리 잘랐는데, 제 헤어스타일 어때요?  
-5. **你要买什么？(모자/신발/양말)**  
-   - Nǐ yào mǎi shénme? (Màozi/xiézi/yàngwà)  
-   - 무엇을 사려고 해요? (모자/신발/양말)  
-### **2. 个人生活**  
-1. **你去书店买书吗？**  
-   - Nǐ qù shūdiàn mǎi shū ma?  
-   - 서점에 가서 책을 사요?  
-2. **你养过狗吗？**  
-   - Nǐ yǎng guò gǒu ma?  
-   - 개를 키워 본 적 있어요?  
-3. **度假时，你喜欢安静的地方还是热闹的地方？**  
-   - Dùjià shí, nǐ xǐhuān ānjìng de dìfāng háishì rènào de dìfāng?  
-   - 휴가 때는 조용한 곳을 좋아해요, 아니면 활기찬 곳을 좋아해요?  
-4. **你在很多人面前说话容易害羞或者不好意思吗？**  
-   - Nǐ zài hěn duō rén miànqián shuōhuà róngyì hàixiū huòzhě bù hǎoyìsi ma?  
-   - 많은 사람들 앞에서 말할 때 쉽게 부끄러워요?  
-5. **你的生活规律吗？**  
-   - Nǐ de shēnghuó guīlǜ ma?  
-   - 생활이 규칙적이에요?  
-### **3. 观点讨论**  
-1. **你认为最近老年人和年轻人之间的代沟问题严重吗？**  
-   - Nǐ rènwéi zuìjìn lǎonián rén hé niánqīng rén zhījiān de dàigōu wèntí yánzhòng ma?  
-   - 요즘 노년층과 젊은 층 사이의 세대 차이 문제가 심각하다고 생각해요?  
-2. **人际关系好的人有哪些特点？**  
-   - Rénjì guānxì hǎo de rén yǒu nǎxiē tèdiǎn?  
-   - 대인관계가 좋은 사람들은 어떤 특징이 있어요?  
-3. **有很多人说为了健康得多吃蔬菜，你同意吗？**  
-   - Yǒu hěn duō rén shuō wèile jiànkāng déi duō chī shūcài, nǐ tóngyì ma?  
-   - 건강을 위해 채소를 많이 먹어야 한다는 말에 동의해요?  
-4. **有人说，跟网络相比，电视给人们带来的影响更大，你同意吗？**  
-   - Yǒu rén shuō, gēn wǎngluò xiāng bǐ, diànshì gěi rénmen dài lái de yǐngxiǎng gèng dà, nǐ tóngyì ma?  
-   - 인터넷보다 TV가 사람들에게 더 큰 영향을 준다고 하는데, 동의해요?  
-### **4. 情景任务**  
-1. **你打算过几天搬家，跟朋友说明一下，请求帮助。**  
-   - Nǐ dǎsuàn guò jǐ tiān bānjiā, gēn péngyou shuōmíng yīxià, qǐngqiú bāngzhù.  
-   - 며칠 후에 이사할 예정인데 친구에게 설명하고 도움을 요청하세요.  
-2. **你本来打算去北京见中国朋友，但是航班晚点了，没按时起飞。给朋友打电话说明一下。**  
-   - Nǐ běnlái dǎsuàn qù Běijīng jiàn Zhōngguó péngyou, dànshì hángbān wǎndiǎn le, méi ànshí qǐfēi. Gěi péngyou dǎ diànhuà shuōmíng yīxià.  
-   - 베이징에 중국 친구를 만나려고 했는데 항공편이 지연되어 제때 출발하지 못했습니다. 친구에게 전화로 설명하세요.  
-3. **你在商店买了一顶帽子，回家后发现帽子上有污点，去说明情况，解决一下。**  
-   - Nǐ zài shāngdiàn mǎi le yī dǐng màozi, huí jiā hòu fāxiàn màozi shàng yǒu wūdiǎn, qù shuōmíng qíngkuàng, jiějué yīxià.  
-   - 가게에서 모자를 샀는데 집에 와서 보니 얼룩이 있어요. 상황을 설명하고 해결하세요.  
+第三部分
+1. 从你家到地铁站远不远？
+
+/cóng nǐ jiā dào dì tiě zhàn yuǎn bù yuǎn/
+집에서 지하철역까지 멀지 않아요?
+
+》不太远，走路大概五分钟左右就到了，所以我平时上下班很方便。
+/bú tài yuǎn, zǒu lù dà gài wǔ fēn zhōng zuǒ yòu jiù dào le, suǒ yǐ wǒ píng shí shàng xià bān hěn fāng biàn/
+그리 멀지 않아요. 걸어서 대략 5분 정도면 도착해서 평소 출퇴근이 매우 편해요.
+
+2. 你昨天工作到那么晚，不累吗？
+
+/nǐ zuó tiān gōng zuò dào nà me wǎn, bù lèi ma/
+어제 그렇게 늦게까지 일했는데 안 힘들었어요?
+
+》当然累了。最近我们公司开始了新项目，所以经常加班，不过工作很重要，我只能坚持一下。
+/dāng rán lèi le. zuì jìn wǒ men gōng sī kāi shǐ le xīn xiàng mù, suǒ yǐ jīng cháng jiā bān, bú guò gōng zuò hěn zhòng yào, wǒ zhǐ néng jiān chí yí xià/
+당연히 힘들었어요. 요즘 회사에서 새 프로젝트를 시작해서 자주 야근해요. 그래도 일이 중요하니까 조금 더 버틸 수밖에 없어요.
+
+3. 我要去公园开始运动了。
+
+/wǒ yào qù gōng yuán kāi shǐ yùn dòng le/
+공원에 가서 운동 시작할 거예요.
+
+》是吗？那很好啊。俗话说，生命在于运动。运动不但对健康有帮助，还能放松心情。
+/shì ma? nà hěn hǎo a. sú huà shuō, shēng mìng zài yú yùn dòng. yùn dòng bù dàn duì jiàn kāng yǒu bāng zhù, hái néng fàng sōng xīn qíng/
+그래요? 그거 정말 좋네요. 속담에 생명은 운동에 있다고 하잖아요. 운동은 건강에 도움이 될 뿐 아니라 기분도 편하게 해줘요.
+
+4. 我剪头发了，你觉得我的发型怎么样？
+
+/wǒ jiǎn tóu fa le, nǐ jué de wǒ de fà xíng zěn me yàng/
+머리 잘랐는데, 제 헤어스타일 어때요?
+
+》我觉得挺好看的，很适合你。看起来比以前更精神，也更有气质。
+/wǒ jué de tǐng hǎo kàn de, hěn shì hé nǐ. kàn qǐ lái bǐ yǐ qián gèng jīng shén, yě gèng yǒu qì zhì/
+저는 꽤 예쁘다고 생각해요. 당신한테 잘 어울려요. 예전보다 더 산뜻해 보이고 분위기도 더 좋아 보여요.
+
+5. 你要买什么？(帽子/鞋子/袜子)
+
+/nǐ yào mǎi shén me/
+무엇을 사려고 해요? (모자/신발/양말)
+
+》我想买一双鞋子。因为最近我常常运动，所以想买一双穿起来舒服一点的。
+/wǒ xiǎng mǎi yì shuāng xié zi. yīn wèi zuì jìn wǒ cháng cháng yùn dòng, suǒ yǐ xiǎng mǎi yì shuāng chuān qǐ lái shū fu yì diǎn de/
+저는 신발 한 켤레를 사고 싶어요. 요즘 운동을 자주 해서 좀 더 편하게 신을 수 있는 걸 사고 싶어요.
+
+第四部分
+1. 你去书店买书吗？
+
+/nǐ qù shū diàn mǎi shū ma/
+서점에 가서 책을 사요?
+
+》有时候会去，不过我现在更喜欢在网上买书。因为网上买书很方便，还可以比较价格，看评价。不过如果有时间的话，我还是喜欢去书店看看，因为书店的环境很好，也比较安静。
+/yǒu shí hou huì qù, bú guò wǒ xiàn zài gèng xǐ huān zài wǎng shàng mǎi shū. yīn wèi wǎng shàng mǎi shū hěn fāng biàn, hái kě yǐ bǐ jiào jià gé, kàn píng jià. bú guò rú guǒ yǒu shí jiān de huà, wǒ hái shì xǐ huān qù shū diàn kàn kan, yīn wèi shū diàn de huán jìng hěn hǎo, yě bǐ jiào ān jìng/
+가끔은 가요. 하지만 지금은 인터넷으로 책 사는 걸 더 좋아해요. 인터넷 구매는 편하고 가격 비교와 리뷰 확인도 가능하거든요. 그래도 시간이 있으면 서점에 가는 것도 좋아해요. 서점은 분위기가 좋고 조용해서요.
+
+2. 你养过狗吗？
+
+/nǐ yǎng guò gǒu ma/
+개를 키워 본 적 있어요?
+
+》我没有养过狗，不过我很喜欢小狗。因为养宠物可以放松心情，也不会觉得孤单。以后如果有机会的话，我也想养一只。
+/wǒ méi yǒu yǎng guò gǒu, bú guò wǒ hěn xǐ huān xiǎo gǒu. yīn wèi yǎng chǒng wù kě yǐ fàng sōng xīn qíng, yě bú huì jué de gū dān. yǐ hòu rú guǒ yǒu jī huì de huà, wǒ yě xiǎng yǎng yì zhī/
+저는 개를 키워 본 적은 없지만 강아지를 매우 좋아해요. 반려동물을 키우면 마음이 편해지고 외롭지도 않거든요. 나중에 기회가 있으면 저도 한 마리 키우고 싶어요.
+
+3. 度假时，你喜欢安静的地方还是热闹的地方？
+
+/dù jià shí, nǐ xǐ huān ān jìng de dì fang hái shì rè nào de dì fang/
+휴가 때는 조용한 곳을 좋아해요, 아니면 활기찬 곳을 좋아해요?
+
+》我更喜欢安静一点的地方。因为平时工作已经很忙了，压力也比较大，所以度假的时候我想好好休息一下。安静的地方能让我放松心情，调整状态。
+/wǒ gèng xǐ huān ān jìng yì diǎn de dì fang. yīn wèi píng shí gōng zuò yǐ jīng hěn máng le, yā lì yě bǐ jiào dà, suǒ yǐ dù jià de shí hou wǒ xiǎng hǎo hǎo xiū xi yí xià. ān jìng de dì fang néng ràng wǒ fàng sōng xīn qíng, tiáo zhěng zhuàng tài/
+저는 조금 더 조용한 곳을 좋아해요. 평소에 일이 바쁘고 스트레스도 큰 편이라 휴가 때는 푹 쉬고 싶거든요. 조용한 곳은 기분을 편하게 해주고 컨디션을 조절하는 데도 도움이 돼요.
+
+4. 你在很多人面前说话容易害羞或者不好意思吗？
+
+/nǐ zài hěn duō rén miàn qián shuō huà róng yì hài xiū huò zhě bù hǎo yì si ma/
+많은 사람들 앞에서 말할 때 쉽게 부끄러워요?
+
+》以前有一点，不过现在好多了。因为我平时经常和别人沟通，所以慢慢习惯了。我觉得只要准备充分，就不用太紧张。
+/yǐ qián yǒu yì diǎn, bú guò xiàn zài hǎo duō le. yīn wèi wǒ píng shí jīng cháng hé bié rén gōu tōng, suǒ yǐ màn man xí guàn le. wǒ jué de zhǐ yào zhǔn bèi chōng fèn, jiù bú yòng tài jǐn zhāng/
+예전에는 조금 그랬지만 지금은 많이 나아졌어요. 평소에 다른 사람들과 자주 소통하다 보니 점점 익숙해졌거든요. 저는 준비만 충분하면 너무 긴장할 필요는 없다고 생각해요.
+
+5. 你的生活规律吗？
+
+/nǐ de shēng huó guī lǜ ma/
+생활이 규칙적이에요?
+
+》我觉得我的生活还算比较规律。我平时尽量早睡早起，也会定期运动。因为我觉得规律的生活习惯对健康很重要。
+/wǒ jué de wǒ de shēng huó hái suàn bǐ jiào guī lǜ. wǒ píng shí jǐn liàng zǎo shuì zǎo qǐ, yě huì dìng qī yùn dòng. yīn wèi wǒ jué de guī lǜ de shēng huó xí guàn duì jiàn kāng hěn zhòng yào/
+제 생활은 비교적 규칙적인 편이라고 생각해요. 평소 최대한 일찍 자고 일찍 일어나려고 하고 정기적으로 운동도 해요. 규칙적인 생활 습관이 건강에 매우 중요하다고 생각하기 때문이에요.
+
+第五部分
+1. 你认为最近老年人和年轻人之间的代沟问题严重吗？
+
+/nǐ rèn wéi zuì jìn lǎo nián rén hé nián qīng rén zhī jiān de dài gōu wèn tí yán zhòng ma/
+요즘 노년층과 젊은 층 사이의 세대 차이 문제가 심각하다고 생각해요?
+
+》我觉得这个问题确实比较严重。因为老年人和年轻人的成长环境、生活习惯还有想法都不一样，所以很容易产生误会。尤其是在沟通不够的时候，代沟会更明显。要解决这个问题，我觉得最重要的还是多交流、多理解。只有互相尊重，问题才能慢慢改善。
+/wǒ jué de zhè ge wèn tí què shí bǐ jiào yán zhòng. yīn wèi lǎo nián rén hé nián qīng rén de chéng zhǎng huán jìng, shēng huó xí guàn hái yǒu xiǎng fa dōu bù yí yàng, suǒ yǐ hěn róng yì chǎn shēng wù huì. yóu qí shì zài gōu tōng bù gòu de shí hou, dài gōu huì gèng míng xiǎn. yào jiě jué zhè ge wèn tí, wǒ jué de zuì zhòng yào de hái shì duō jiāo liú, duō lǐ jiě. zhǐ yǒu hù xiāng zūn zhòng, wèn tí cái néng màn man gǎi shàn/
+저는 이 문제가 확실히 비교적 심각하다고 생각해요. 노년층과 젊은 층은 성장 환경, 생활 습관, 생각이 모두 다르기 때문에 쉽게 오해가 생길 수 있어요. 특히 소통이 부족할수록 세대 차이는 더 뚜렷해져요. 이 문제를 해결하려면 가장 중요한 건 서로 더 많이 대화하고 더 많이 이해하는 것이라고 생각해요. 서로 존중해야만 문제가 조금씩 개선될 수 있어요.
+
+2. 人际关系好的人有哪些特点？
+
+/rén jì guān xì hǎo de rén yǒu nǎ xiē tè diǎn/
+대인관계가 좋은 사람들은 어떤 특징이 있어요?
+
+》我觉得人际关系好的人一般都比较真诚，也很会替别人着想。他们说话有礼貌，做事认真，而且愿意主动帮助别人。这样的人在公司或者生活中都很受欢迎。因为大家和他相处的时候会觉得很舒服，也更愿意相信他。
+/wǒ jué de rén jì guān xì hǎo de rén yì bān dōu bǐ jiào zhēn chéng, yě hěn huì tì bié rén zhe xiǎng. tā men shuō huà yǒu lǐ mào, zuò shì rèn zhēn, ér qiě yuàn yì zhǔ dòng bāng zhù bié rén. zhè yàng de rén zài gōng sī huò zhě shēng huó zhōng dōu hěn shòu huān yíng. yīn wèi dà jiā hé tā xiāng chǔ de shí hou huì jué de hěn shū fu, yě gèng yuàn yì xiāng xìn tā/
+저는 대인관계가 좋은 사람은 보통 진실하고 다른 사람 입장을 잘 생각할 줄 안다고 생각해요. 그런 사람들은 말할 때 예의가 있고 일을 성실하게 하며 먼저 나서서 다른 사람을 도와주려 해요. 이런 사람은 회사든 일상생활이든 모두에게 인기가 많아요. 함께 있으면 편안하고 더 믿고 싶어지기 때문이에요.
+
+3. 有很多人说为了健康得多吃蔬菜，你同意吗？
+
+/yǒu hěn duō rén shuō wèi le jiàn kāng děi duō chī shū cài, nǐ tóng yì ma/
+건강을 위해 채소를 많이 먹어야 한다는 말에 동의해요?
+
+》我同意。因为蔬菜对身体很好，里面有很多维生素和营养，对保持健康很有帮助。现在很多人平时吃太多快餐和方便食品，这样对身体不太好。所以我觉得为了健康，应该多吃蔬菜和水果，少吃油腻的东西。
+/wǒ tóng yì. yīn wèi shū cài duì shēn tǐ hěn hǎo, lǐ miàn yǒu hěn duō wéi shēng sù hé yíng yǎng, duì bǎo chí jiàn kāng hěn yǒu bāng zhù. xiàn zài hěn duō rén píng shí chī tài duō kuài cān hé fāng biàn shí pǐn, zhè yàng duì shēn tǐ bù tài hǎo. suǒ yǐ wǒ jué de wèi le jiàn kāng, yīng gāi duō chī shū cài hé shuǐ guǒ, shǎo chī yóu nì de dōng xi/
+저는 동의해요. 채소는 몸에 좋고 그 안에 많은 비타민과 영양분이 있어서 건강 유지에 도움이 되거든요. 요즘 많은 사람들이 패스트푸드와 인스턴트 식품을 너무 많이 먹는데, 그건 몸에 좋지 않아요. 그래서 건강을 위해서는 채소와 과일을 많이 먹고 기름진 음식은 적게 먹어야 한다고 생각해요.
+
+4. 有人说，跟网络相比，电视给人们带来的影响更大，你同意吗？
+
+/yǒu rén shuō, gēn wǎng luò xiāng bǐ, diàn shì gěi rén men dài lái de yǐng xiǎng gèng dà, nǐ tóng yì ma/
+인터넷보다 TV가 사람들에게 더 큰 영향을 준다고 하는데, 동의해요?
+
+》我不太同意。以前电视的影响可能比较大，但是现在网络的发展速度非常快，已经进入了人们生活的方方面面。大家可以通过网络看新闻、学习、购物、聊天，甚至工作，所以网络带来的影响更广，也更直接。当然，电视还是有一定影响，不过跟网络相比，我觉得现在网络更重要。
+/wǒ bú tài tóng yì. yǐ qián diàn shì de yǐng xiǎng kě néng bǐ jiào dà, dàn shì xiàn zài wǎng luò de fā zhǎn sù dù fēi cháng kuài, yǐ jīng jìn rù le rén men shēng huó de fāng fāng miàn miàn. dà jiā kě yǐ tōng guò wǎng luò kàn xīn wén, xué xí, gòu wù, liáo tiān, shèn zhì gōng zuò, suǒ yǐ wǎng luò dài lái de yǐng xiǎng gèng guǎng, yě gèng zhí jiē. dāng rán, diàn shì hái shì yǒu yí dìng yǐng xiǎng, bú guò gēn wǎng luò xiāng bǐ, wǒ jué de xiàn zài wǎng luò gèng zhòng yào/
+저는 그 말에 완전히 동의하지는 않아요. 예전에는 TV의 영향이 더 컸을 수 있지만 지금은 인터넷의 발전 속도가 매우 빨라서 이미 사람들 생활의 거의 모든 부분에 들어와 있어요. 사람들은 인터넷으로 뉴스도 보고 공부도 하고 쇼핑도 하고 대화도 하고 심지어 일도 하니까 영향 범위가 더 넓고 직접적이에요. 물론 TV도 여전히 영향이 있지만 인터넷과 비교하면 지금은 인터넷이 더 중요하다고 생각해요.
+
+第六部分
+1. 你打算过几天搬家，跟朋友说明一下，请求帮助。
+
+/nǐ dǎ suàn guò jǐ tiān bān jiā, gēn péng you shuō míng yí xià, qǐng qiú bāng zhù/
+며칠 후에 이사할 예정인데 친구에게 설명하고 도움을 요청하세요.
+
+你好，小民。我过几天要搬家了，所以想请你帮个忙。因为东西比较多，我一个人可能不太方便。如果你那天有时间的话，能不能来帮我一起搬一下？搬完以后，我请你吃饭。真的麻烦你了。
+/nǐ hǎo, xiǎo mín. wǒ guò jǐ tiān yào bān jiā le, suǒ yǐ xiǎng qǐng nǐ bāng ge máng. yīn wèi dōng xi bǐ jiào duō, wǒ yí ge rén kě néng bù tài fāng biàn. rú guǒ nǐ nà tiān yǒu shí jiān de huà, néng bù néng lái bāng wǒ yì qǐ bān yí xià? bān wán yǐ hòu, wǒ qǐng nǐ chī fàn. zhēn de má fan nǐ le/
+안녕 샤오민. 내가 며칠 후에 이사할 예정이라 좀 도와달라고 부탁하고 싶어. 짐이 좀 많아서 나 혼자서는 조금 불편할 것 같아. 네가 그날 시간이 있으면 와서 같이 옮겨줄 수 있을까? 이사 다 끝나면 내가 밥 살게. 정말 부탁해.
+
+2. 你本来打算去北京见中国朋友，但是航班晚点了，没按时起飞。给朋友打电话说明一下。
+
+/nǐ běn lái dǎ suàn qù běi jīng jiàn zhōng guó péng you, dàn shì háng bān wǎn diǎn le, méi àn shí qǐ fēi. gěi péng you dǎ diàn huà shuō míng yí xià/
+베이징에 중국 친구를 만나려고 했는데 항공편이 지연되어 제때 출발하지 못했습니다. 친구에게 전화로 설명하세요.
+
+喂，你好。我本来今天要按时去北京见你，可是现在航班晚点了，还不知道什么时候才能起飞，真不好意思。可能会比原来晚到一段时间，所以你不用着急来接我。等我到了以后，我再马上联系你。
+/wèi, nǐ hǎo. wǒ běn lái jīn tiān yào àn shí qù běi jīng jiàn nǐ, kě shì xiàn zài háng bān wǎn diǎn le, hái bù zhī dào shén me shí hou cái néng qǐ fēi, zhēn bù hǎo yì si. kě néng huì bǐ yuán lái wǎn dào yí duàn shí jiān, suǒ yǐ nǐ bú yòng zháo jí lái jiē wǒ. děng wǒ dào le yǐ hòu, wǒ zài mǎ shàng lián xì nǐ/
+여보세요 안녕. 원래 오늘 제시간에 베이징에 가서 너를 만나려고 했는데 지금 항공편이 지연돼서 언제 출발할 수 있을지 아직 모르겠어. 정말 미안해. 원래보다 좀 늦게 도착할 것 같으니까 너무 급하게 나를 마중 나올 필요는 없어. 내가 도착하면 바로 다시 연락할게.
+
+3. 你在商店买了一顶帽子，回家后发现帽子上有污点，去说明情况，解决一下。
+
+/nǐ zài shāng diàn mǎi le yì dǐng mào zi, huí jiā hòu fā xiàn mào zi shàng yǒu wū diǎn, qù shuō míng qíng kuàng, jiě jué yí xià/
+가게에서 모자를 샀는데 집에 와서 보니 얼룩이 있어요. 상황을 설명하고 해결하세요.
+
+你好，我今天在你们店里买了一顶帽子，可是回家以后才发现帽子上有污点。这让我有点不满意，因为我买的时候没有注意到。请问能不能帮我换一个新的？如果没有一样的，也可以退款。麻烦你帮我处理一下。
+/nǐ hǎo, wǒ jīn tiān zài nǐ men diàn lǐ mǎi le yì dǐng mào zi, kě shì huí jiā yǐ hòu cái fā xiàn mào zi shàng yǒu wū diǎn. zhè ràng wǒ yǒu diǎn bù mǎn yì, yīn wèi wǒ mǎi de shí hou méi yǒu zhù yì dào. qǐng wèn néng bù néng bāng wǒ huàn yí ge xīn de? rú guǒ méi yǒu yí yàng de, yě kě yǐ tuì kuǎn. má fan nǐ bāng wǒ chǔ lǐ yí xià/
+안녕하세요. 오늘 이 가게에서 모자를 하나 샀는데 집에 와서 보니 모자에 얼룩이 있더라고요. 살 때는 미처 보지 못해서 조금 불만스럽습니다. 새것으로 교환해 주실 수 있을까요? 같은 제품이 없으면 환불도 괜찮습니다. 처리 부탁드립니다.
 -----------------------------------------------------------------------------------------------
-### **1. 日常对话**  
-1. **中午一起吃饭吧**  
-   - Zhōngwǔ yīqǐ chīfàn ba  
-   - 점심 같이 먹어요  
-2. **我把钱包放在办公室里了，怎么办？**  
-   - Wǒ bǎ qiánbāo fàng zài bàngōngshì lǐ le, zěnme bàn?  
-   - 지갑을 사무실에 두고 왔어요, 어쩌죠?  
-3. **你要的颜色卖完了。（모자가게）**  
-   - Nǐ yào de yánsè mài wán le. (Màozi diàn)  
-   - 원하시는 색상은 품절되었어요. (모자 가게)  
-4. **你喜欢夏天还是喜欢冬天？**  
-   - Nǐ xǐhuān xiàtiān háishì xǐhuān dōngtiān?  
-   - 여름과 겨울 중 어떤 계절을 좋아해요?  
-5. **平时几点下班？**  
-   - Píngshí jǐ diǎn xiàbān?  
-   - 평균 몇 시에 퇴근해요?  
-### **2. 个人生活**  
-1. **你家人当中谁做菜做得最好？**  
-   - Nǐ jiārén dāngzhōng shéi zuò cài zuò de zuì hǎo?  
-   - 가족 중에서 누가 요리를 가장 잘해요?  
-2. **你学过开车吗？**  
-   - Nǐ xué guò kāichē ma?  
-   - 운전을 배운 적 있어요?  
-3. **你对美术展览感兴趣吗？**  
-   - Nǐ duì měishù zhǎnlǎn gǎn xìngqù ma?  
-   - 미술 전시회에 관심 있으세요?  
-4. **五年后，你可能过什么样的日子？**  
-   - Wǔ nián hòu, nǐ kěnéng guò shénme yàng de rìzi?  
-   - 5년 후에는 어떤 삶을 살고 있을 것 같아요?  
-5. **你们公司附近利用什么交通工具最方便？**  
-   - Nǐmen gōngsī fùjìn lìyòng shénme jiāotōng gōngjù zuì fāngbiàn?  
-   - 회사 근처에서 어떤 교통수단을 이용하는 게 가장 편리해요?  
-### **3. 观点讨论**  
-1. **去国外旅游的人越来越多，原因是什么？**  
-   - Qù guówài lǚyóu de rén yuè lái yuè duō, yuányīn shì shénme?  
-   - 해외 여행을 가는 사람들이 점점 늘어나는 이유는 뭐라고 생각해요?  
-2. **在公司工作时，哪种外语的影响最大？**  
-   - Zài gōngsī gōngzuò shí, nǎ zhǒng wàiyǔ de yǐngxiǎng zuì dà?  
-   - 회사에서 일할 때 어떤 외국어가 가장 영향력이 크다고 생각해요?  
-3. **在家工作好处多吗？你来说一说你的想法？**  
-   - Zài jiā gōngzuò hǎochù duō ma? Nǐ lái shuō yī shuō nǐ de xiǎngfǎ?  
-   - 재택근무의 장점이 많다고 생각해요? 의견을 말해보세요.  
-4. **购物时，款式重要还是质量重要？**  
-   - Gòuwù shí, kuǎnshì zhòngyào háishì zhìliàng zhòngyào?  
-   - 쇼핑할 때 디자인이 중요해요, 아니면 품질이 중요해요?  
-### **4. 情景任务**  
-1. **你在路上不小心丢了手机。给通讯公司打电话挂失。并要求暂停使用。**  
-   - Nǐ zài lù shang bù xiǎoxīn diū le shǒujī. Gěi tōngxùn gōngsī dǎ diànhuà guàshī. Bìng yāoqiú zàntíng shǐyòng.  
-   - 길에서 실수로 핸드폰을 잃어버렸어요. 통신사에 전화해 분실 신고를 하고 사용 정지를 요청하세요.  
-2. **你要参加会议，可是你的同事拜托你帮他翻译资料。会议非得参加不可，你对你的同事说明情况。并跟他说会议结束以后帮助他。**  
-   - Nǐ yào cānjiā huìyì, kěshì nǐ de tóngshì bàituō nǐ bāng tā fānyì zīliào. Huìyì fēiděi cānjiā bùkě, nǐ duì nǐ de tóngshì shuōmíng qíngkuàng. Bìng gēn tā shuō huìyì jiéshù yǐhòu bāngzhù tā.  
-   - 회의에 참석해야 하는데 동료가 자료 번역을 부탁했어요. 회의는 꼭 참석해야 하니 상황을 설명하고 회의 끝나고 도와주겠다고 말하세요.  
-3. **你的朋友有两张快要到期的餐券，想跟你一起去吃。但是那家饭馆离这儿太远了。你不太想去。请你说服一下你的朋友。**  
-   - Nǐ de péngyou yǒu liǎng zhāng kuài yào dàoqī de cānquàn, xiǎng gēn nǐ yīqǐ qù chī. Dànshì nà jiā fànguǎn lí zhèr tài yuǎn le. Nǐ bù tài xiǎng qù. Qǐng nǐ shuōfú yīxià nǐ de péngyou.  
-   - 친구가 곧 만료되는 식사 쿠폰 2장을 가지고 같이 가자고 해요. 하지만 그 식당은 여기에서 너무 멀어서 가기 싫어요. 친구를 설득해 보세요.  
----------------------------------------------------------------------------------
-### **1. 日常对话**  
-1. **你想看几点的电影？**  
-   - Nǐ xiǎng kàn jǐ diǎn de diànyǐng?  
-   - 몇 시 영화를 보고 싶어요?  
-2. **我的手机坏了，怎么办？**  
-   - Wǒ de shǒujī huài le, zěnme bàn?  
-   - 제 휴대폰이 고장 났어요, 어떻게 해야 해요?  
-3. **附近有银行吗？**  
-   - Fùjìn yǒu yínháng ma?  
-   - 근처에 은행이 있나요?  
-4. **明天的会议几点开始？**  
-   - Míngtiān de huìyì jǐ diǎn kāishǐ?  
-   - 내일 회의는 몇 시에 시작해요?  
-5. **你喜欢吃面条吗？**  
-   - Nǐ xǐhuān chī miàntiáo ma?  
-   - 면 요리 좋아해요?  
-### **2. 个人生活**  
-1. **旅行回来的时候，你主要买地方特产还是纪念品？**  
-   - Lǚxíng huílái de shíhou, nǐ zhǔyào mǎi dìfāng tèchǎn háishì jìniànpǐn?  
-   - 여행에서 돌아올 때 주로 지역 특산품을 사나요, 아니면 기념품을 사나요?  
-2. **你常常用网上银行吗？**  
-   - Nǐ chángcháng yòng wǎngshàng yínháng ma?  
-   - 인터넷 뱅킹을 자주 이용하세요?  
-### **3. 观点讨论**  
-1. **你觉得学习外语的时候，越小学习越有效果吗？**  
-   - Nǐ juédé xuéxí wàiyǔ de shíhou, yuè xiǎo xuéxí yuè yǒu xiàoguǒ ma?  
-   - 외국어를 배울 때 어릴수록 효과가 좋다고 생각하세요?  
-2. **父母定期给孩子零用钱，有什么好处？**  
-   - Fùmǔ dìngqī gěi háizi língyòngqián, yǒu shénme hǎochù?  
-   - 부모가 정기적으로 용돈을 주는 것의 장점은 무엇인가요?  
-3. **你住的地方房子价格贵吗？**  
-   - Nǐ zhù de dìfāng fángzi jiàgé guì ma?  
-   - 사는 곳의 집값이 비싼 편인가요?  
-4. **人的性格先天性影响还是后天性影响？**  
-   - Rén de xìnggé xiāntiānxìng yǐngxiǎng háishì hòutiānxìng yǐngxiǎng?  
-   - 사람의 성격은 선천적 영향이 큰가요, 아니면 후천적 영향이 큰가요?  
-### **4. 情景任务**  
-1. **朋友想换工作，但是你觉得现在的工作更好，请你劝告他。**  
-   - Péngyou xiǎng huàn gōngzuò, dànshì nǐ juédé xiànzài de gōngzuò gèng hǎo, qǐng nǐ quàngào tā.  
-   - 친구가 직장을 옮기려고 하는데, 현재 직장이 더 낫다고 생각해요. 친구에게 조언해 주세요.  
+第三部分
+1. 中午一起吃饭吧
 
-2. **工作的时候，突然肚子疼得厉害（一直疼），向上司说明一下。**  
-   - Gōngzuò de shíhou, tūrán dùzi téng de lìhai (yīzhí téng), xiàng shàngsī shuōmíng yīxià.  
-   - 일하던 중 갑자기 배가 너무 아파요(계속 아파요). 상사에게 상황을 설명하세요.  
-3. **你在商店买的电风扇，回家以后发现，拆开一看，发现坏了，请给商店打电话要求解决。**  
-   - Nǐ zài shāngdiàn mǎi de diànfēngshàn, huí jiā yǐhòu fāxiàn, chāi kāi yī kàn, fāxiàn huài le, qǐng gěi shāngdiàn dǎ diànhuà yāoqiú jiějué.  
-   - 가게에서 산 선풍기를 집에 와서 열어 보니 고장이 났어요. 가게에 전화해 해결을 요청하세요.  
----------------------------------------------------------------------------------
-### **1. 日常对话**  
-1. **你从什么时候开始上班？**  
-   - Nǐ cóng shénme shíhou kāishǐ shàngbān?  
-   - 언제부터 출근하세요?  
-2. **你会打乒乓球吗？**  
-   - Nǐ huì dǎ pīngpāngqiú ma?  
-   - 탁구 칠 줄 아세요?  
-3. **照片里的孩子真可爱，他是谁啊？**  
-   - Zhàopiàn lǐ de háizi zhēn kě'ài, tā shì shéi a?  
-   - 사진 속 아이가 정말 귀여운데, 누구예요?  
+/zhōng wǔ yì qǐ chī fàn ba/
+점심 같이 먹어요.
 
-4. **周末朋友要来做客，你能帮我做菜吗？**  
-   - Zhōumò péngyou yào lái zuòkè, nǐ néng bāng wǒ zuò cài ma?  
-   - 주말에 친구가 놀러 오는데, 요리 도와줄 수 있어요?  
-5. **下星期我要请假。**  
-   - Xià xīngqī wǒ yào qǐngjià.  
-   - 다음 주에 휴가 내려고 해요.  
-6. **这里很安静，我们一起喝咖啡吧**  
-   - Zhèlǐ hěn ānjìng, wǒmen yīqǐ hē kāfēi ba  
-   - 여기 조용하니 커피 한잔 같이 해요  
-### **2. 个人生活**  
-1. **你喜欢学新的东西吗？**  
-   - Nǐ xǐhuān xué xīn de dōngxi ma?  
-   - 새로운 것을 배우는 걸 좋아해요?  
-2. **你取得过资格证吗？/你有过准备资格证考试的经历吗？**  
-   - Nǐ qǔdé guò zīgézhèng ma?/Nǐ yǒu guò zhǔnbèi zīgézhèng kǎoshì de jīnglì ma?  
-   - 자격증을 취득한 적 있어요?/자격증 시험 준비한 경험이 있어요?  
-3. **你喜欢什么颜色的衣服？/你平时常穿什么颜色的衣服？**  
-   - Nǐ xǐhuān shénme yánsè de yīfu?/Nǐ píngshí cháng chuān shénme yánsè de yīfu?  
-   - 어떤 색 옷을 좋아해요?/평소에 어떤 색 옷을 자주 입어요?  
-4. **你家附近有大型超市吗？**  
-   - Nǐ jiā fùjìn yǒu dàxíng chāoshì ma?  
-   - 집 근처에 대형 마트 있나요?  
-5. **你容易适应学校或者公司的集体生活吗？**  
-   - Nǐ róngyì shìyìng xuéxiào huòzhě gōngsī de jítǐ shēnghuó ma?  
-   - 학교나 회사의 단체 생활에 잘 적응하시나요?  
-### **3. 观点讨论**  
-1. **你觉得朋友越多越好吗？请详细谈谈。**  
-   - Nǐ juédé péngyou yuè duō yuè hǎo ma? Qǐng xiángxì tán tán.  
-   - 친구는 많을수록 좋다고 생각하세요? 자세히 말씀해 주세요.  
-2. **在你们国家最近年轻人的就业情况怎么样？请谈谈你的看法。**  
-   - Zài nǐmen guójiā zuìjìn niánqīng rén de jiùyè qíngkuàng zěnme yàng? Qǐng tán tán nǐ de kànfǎ.  
-   - 여러분 나라에서 최근 젊은이들의 취업 상황이 어떻다고 생각하세요?  
-3. **从消费者的立场看，接触多样的广告好处多还是坏处多？请谈谈。**  
-   - Cóng xiāofèizhě de lìchǎng kàn, jiēchù duōyàng de guǎnggào hǎochù duō háishì huàichù duō? Qǐng tán tán.  
-   - 소비자 입장에서 다양한 광고를 접하는 게 좋은 점이 많나요, 나쁜 점이 많나요?  
-4. **努力和聪明哪个和学习成绩更有关系？请谈谈。**  
-   - Nǔlì hé cōngmíng nǎge hé xuéxí chéngjī gèng yǒu guānxì? Qǐng tán tán.  
-   - 노력과 똑똑함 중 어느 것이 학업 성적과 더 관련이 깊다고 생각하세요?  
-### **4. 情景任务**  
-1. **同事们邀你今晚一起吃晚饭，可是你得加班，请委婉地拒绝同事。**  
-   - Tóngshìmen yāo nǐ jīn wǎn yīqǐ chī wǎnfàn, kěshì nǐ děi jiābān, qǐng wěiwǎn de jùjué tóngshì.  
-   - 동료들이 오늘 저녁 같이 먹자고 하는데, 당신은 야근을 해야 합니다. 정중하게 거절하세요.  
-2. **你今天预约了看病，现在坐出租车去医院，可是路上太堵，所以请你给医院打电话说明情况，并改时间。**  
-   - Nǐ jīntiān yùyuē le kànbìng, xiànzài zuò chūzūchē qù yīyuàn, kěshì lù shang tài dǔ, suǒyǐ qǐng nǐ gěi yīyuàn dǎ diànhuà shuōmíng qíngkuàng, bìng gǎi shíjiān.  
-   - 오늘 병원 예약이 있는데 택시를 타고 가는 중 길이 너무 막혀요. 병원에 전화해 상황을 설명하고 시간을 변경하세요.  
-3. **你想利用周末学游泳，现在在游泳馆前台询问有关的信息。比如上课时间和学费等问题。**  
-   - Nǐ xiǎng lìyòng zhōumò xué yóuyǒng, xiànzài zài yóuyǒngguǎn qiántái xúnwèn yǒuguān de xìnxī. Bǐrú shàngkè shíjiān hé xuéfèi děng wèntí.  
-   - 주말에 수영을 배우려고 수영장 프론트에 가서 정보를 물어보세요. 수업 시간이나 수강료 등에 대해 질문하세요.  
+》好啊，我正好也有点饿了。最近工作比较忙，中午一起吃饭正好可以放松一下。你想吃什么？
+/hǎo a, wǒ zhèng hǎo yě yǒu diǎn è le. zuì jìn gōng zuò bǐ jiào máng, zhōng wǔ yì qǐ chī fàn zhèng hǎo kě yǐ fàng sōng yí xià. nǐ xiǎng chī shén me/
+좋아요. 저도 마침 좀 배가 고팠어요. 요즘 일이 좀 바빠서 점심 같이 먹으면 기분 전환도 될 것 같아요. 뭐 먹고 싶어요?
+
+2. 我把钱包放在办公室里了，怎么办？
+
+/wǒ bǎ qián bāo fàng zài bàn gōng shì lǐ le, zěn me bàn/
+지갑을 사무실에 두고 왔어요, 어쩌죠?
+
+》别着急，你先想一想是不是放在桌子上了。如果真忘在办公室里了，我们回去拿一下就可以了。
+/bié zháo jí, nǐ xiān xiǎng yì xiǎng shì bú shì fàng zài zhuō zi shàng le. rú guǒ zhēn wàng zài bàn gōng shì lǐ le, wǒ men huí qù ná yí xià jiù kě yǐ le/
+너무 걱정하지 마세요. 먼저 책상 위에 두었는지 한번 생각해 보세요. 정말 사무실에 두고 왔다면 다시 가서 가져오면 돼요.
+
+3. 你要的颜色卖完了。
+
+/nǐ yào de yán sè mài wán le/
+원하시는 색상은 품절되었어요.
+
+》是吗？太可惜了。那还有别的颜色吗？如果没有的话，我下次再来看看。
+/shì ma, tài kě xī le. nà hái yǒu bié de yán sè ma. rú guǒ méi yǒu de huà, wǒ xià cì zài lái kàn kan/
+그래요? 정말 아쉽네요. 그럼 다른 색은 있나요? 없으면 다음에 다시 와서 볼게요.
+
+4. 你喜欢夏天还是喜欢冬天？
+
+/nǐ xǐ huān xià tiān hái shì xǐ huān dōng tiān/
+여름과 겨울 중 어떤 계절을 좋아해요?
+
+》我更喜欢冬天，因为冬天比较安静，而且我很喜欢下雪的时候。你呢？
+/wǒ gèng xǐ huān dōng tiān, yīn wèi dōng tiān bǐ jiào ān jìng, ér qiě wǒ hěn xǐ huān xià xuě de shí hou. nǐ ne/
+저는 겨울을 더 좋아해요. 겨울은 비교적 조용한 느낌이 있고 눈 오는 때를 좋아하거든요. 당신은요?
+
+5. 平时几点下班？
+
+/píng shí jǐ diǎn xià bān/
+평소 몇 시에 퇴근해요?
+
+》一般五点左右下班，不过最近公司比较忙，有时候也会加班。
+/yì bān wǔ diǎn zuǒ yòu xià bān, bú guò zuì jìn gōng sī bǐ jiào máng, yǒu shí hou yě huì jiā bān/
+보통은 5시쯤 퇴근해요. 하지만 요즘 회사가 좀 바빠서 가끔 야근도 해요.
+
+第四部分
+1. 你家人当中谁做菜做得最好？
+
+/nǐ jiā rén dāng zhōng shéi zuò cài zuò de zuì hǎo/
+가족 중에서 누가 요리를 가장 잘해요?
+
+》我觉得我妈妈做菜做得最好。因为她做的菜不但味道很好，而且很有家的感觉。我从小就很喜欢吃她做的饭。
+/wǒ jué de wǒ mā ma zuò cài zuò de zuì hǎo. yīn wèi tā zuò de cài bú dàn wèi dào hěn hǎo, ér qiě hěn yǒu jiā de gǎn jué. wǒ cóng xiǎo jiù hěn xǐ huān chī tā zuò de fàn/
+저는 우리 엄마가 요리를 가장 잘한다고 생각해요. 엄마가 만든 음식은 맛도 좋고 집밥 느낌도 나거든요. 저는 어릴 때부터 엄마가 해준 밥을 아주 좋아했어요.
+
+2. 你学过开车吗？
+
+/nǐ xué guò kāi chē ma/
+운전을 배운 적 있어요?
+
+》我学过开车，不过现在开得不算很多。因为平时坐地铁更方便，不用担心堵车。
+/wǒ xué guò kāi chē, bú guò xiàn zài kāi de bú suàn hěn duō. yīn wèi píng shí zuò dì tiě gèng fāng biàn, bú yòng dān xīn dǔ chē/
+운전을 배운 적은 있어요. 하지만 지금은 그렇게 자주 운전하지는 않아요. 평소에는 지하철이 더 편하고 차 막힐 걱정도 없거든요.
+
+3. 你对美术展览感兴趣吗？
+
+/nǐ duì měi shù zhǎn lǎn gǎn xìng qù ma/
+미술 전시회에 관심 있으세요?
+
+》我对美术展览还挺感兴趣的。因为去看展览不仅能放松心情，还能开阔眼界。要是有机会的话，我很想去看看。
+/wǒ duì měi shù zhǎn lǎn hái tǐng gǎn xìng qù de. yīn wèi qù kàn zhǎn lǎn bú jǐn néng fàng sōng xīn qíng, hái néng kāi kuò yǎn jiè. yào shì yǒu jī huì de huà, wǒ hěn xiǎng qù kàn kan/
+저는 미술 전시에 꽤 관심이 있어요. 전시를 보러 가면 기분도 편해지고 시야도 넓어지거든요. 기회가 있으면 꼭 가보고 싶어요.
+
+4. 五年后，你可能过什么样的日子？
+
+/wǔ nián hòu, nǐ kě néng guò shén me yàng de rì zi/
+5년 후에는 어떤 삶을 살고 있을 것 같아요?
+
+》我觉得五年以后，我可能会过比较稳定的生活。希望工作顺利，身体健康，也有更多时间陪家人。
+/wǒ jué de wǔ nián yǐ hòu, wǒ kě néng huì guò bǐ jiào wěn dìng de shēng huó. xī wàng gōng zuò shùn lì, shēn tǐ jiàn kāng, yě yǒu gèng duō shí jiān péi jiā rén/
+저는 5년 후에는 비교적 안정적인 삶을 살고 있을 것 같아요. 일이 잘되고 건강도 좋고 가족과 함께할 시간도 더 많았으면 좋겠어요.
+
+5. 你们公司附近利用什么交通工具最方便？
+
+/nǐ men gōng sī fù jìn lì yòng shén me jiāo tōng gōng jù zuì fāng biàn/
+회사 근처에서 어떤 교통수단을 이용하는 게 가장 편리해요?
+
+》我觉得坐地铁最方便。因为地铁又快又准时，而且不用担心堵车，平时上下班很适合。
+/wǒ jué de zuò dì tiě zuì fāng biàn. yīn wèi dì tiě yòu kuài yòu zhǔn shí, ér qiě bú yòng dān xīn dǔ chē, píng shí shàng xià bān hěn shì hé/
+저는 지하철이 가장 편리하다고 생각해요. 지하철은 빠르고 시간도 정확하고 막힐 걱정도 없어서 평소 출퇴근에 아주 잘 맞아요.
+
+第五部分
+1. 去国外旅游的人越来越多，原因是什么？
+
+/qù guó wài lǚ yóu de rén yuè lái yuè duō, yuán yīn shì shén me/
+해외 여행을 가는 사람들이 점점 늘어나는 이유는 뭐라고 생각해요?
+
+》我觉得原因有很多。首先，随着经济的发展，人们的生活水平越来越高，所以有条件去国外旅行。其次，现在交通越来越方便，坐飞机又快又安全。另外，很多人想通过旅行增长见识，开阔眼界，也想了解不同国家的文化。可以说，去国外旅游既能放松心情，又能学到很多东西，所以越来越受欢迎。
+/wǒ jué de yuán yīn yǒu hěn duō. shǒu xiān, suí zhe jīng jì de fā zhǎn, rén men de shēng huó shuǐ píng yuè lái yuè gāo, suǒ yǐ yǒu tiáo jiàn qù guó wài lǚ xíng. qí cì, xiàn zài jiāo tōng yuè lái yuè fāng biàn, zuò fēi jī yòu kuài yòu ān quán. lìng wài, hěn duō rén xiǎng tōng guò lǚ xíng zēng zhǎng jiàn shi, kāi kuò yǎn jiè, yě xiǎng liǎo jiě bù tóng guó jiā de wén huà. kě yǐ shuō, qù guó wài lǚ yóu jì néng fàng sōng xīn qíng, yòu néng xué dào hěn duō dōng xi, suǒ yǐ yuè lái yuè shòu huān yíng/
+저는 이유가 많다고 생각해요. 먼저 경제가 발전하면서 사람들의 생활 수준이 높아져 해외여행을 갈 수 있는 조건이 생겼어요. 둘째, 지금은 교통이 점점 더 편리해져서 비행기를 타는 것도 빠르고 안전해요. 또 많은 사람들은 여행을 통해 견문을 넓히고 시야를 넓히며 다른 나라의 문화를 알고 싶어 해요. 해외여행은 기분 전환도 되고 많은 것도 배울 수 있어서 점점 더 인기를 얻는다고 생각해요.
+
+2. 在公司工作时，哪种外语的影响最大？
+
+/zài gōng sī gōng zuò shí, nǎ zhǒng wài yǔ de yǐng xiǎng zuì dà/
+회사에서 일할 때 어떤 외국어가 가장 영향력이 크다고 생각해요?
+
+》我觉得英语的影响最大。因为现在很多公司都有国际业务，平时开会、发邮件、跟外国客户沟通的时候，都可能会用到英语。会英语的话，不但工作更方便，而且机会也更多。当然，如果会别的外语，比如汉语，也很有帮助。不过从整体来看，我觉得英语还是最重要的。
+/wǒ jué de yīng yǔ de yǐng xiǎng zuì dà. yīn wèi xiàn zài hěn duō gōng sī dōu yǒu guó jì yè wù, píng shí kāi huì, fā yóu jiàn, gēn wài guó kè hù gōu tōng de shí hou, dōu kě néng huì yòng dào yīng yǔ. huì yīng yǔ de huà, bú dàn gōng zuò gèng fāng biàn, ér qiě jī huì yě gèng duō. dāng rán, rú guǒ huì bié de wài yǔ, bǐ rú hàn yǔ, yě hěn yǒu bāng zhù. bú guò cóng zhěng tǐ lái kàn, wǒ jué de yīng yǔ hái shì zuì zhòng yào de/
+저는 영어의 영향이 가장 크다고 생각해요. 요즘 많은 회사들이 국제 업무를 하고 있어서 회의, 이메일, 외국 고객과의 소통에서 영어를 사용할 일이 많거든요. 영어를 할 줄 알면 일하기 더 편하고 기회도 더 많아져요. 물론 다른 외국어, 예를 들면 중국어도 도움이 많이 돼요. 하지만 전체적으로 보면 영어가 가장 중요하다고 생각해요.
+
+3. 在家工作好处多吗？你来说一说你的想法？
+
+/zài jiā gōng zuò hǎo chù duō ma, nǐ lái shuō yì shuō nǐ de xiǎng fa/
+재택근무의 장점이 많다고 생각해요? 의견을 말해보세요.
+
+》我觉得在家工作确实有不少好处。比如说，不用花很多时间上下班，也可以自己安排时间，生活会比较方便。尤其是对有孩子的人来说，在家工作还能节省很多精力。不过，凡事有利有弊。在家工作虽然自由，但是如果自制力不够，也容易降低效率，而且和同事沟通没有那么方便。所以我觉得在家工作有好处，但并不一定适合所有人。
+/wǒ jué de zài jiā gōng zuò què shí yǒu bú shǎo hǎo chù. bǐ rú shuō, bú yòng huā hěn duō shí jiān shàng xià bān, yě kě yǐ zì jǐ ān pái shí jiān, shēng huó huì bǐ jiào fāng biàn. yóu qí shì duì yǒu hái zi de rén lái shuō, zài jiā gōng zuò hái néng jié shěng hěn duō jīng lì. bú guò, fán shì yǒu lì yǒu bì. zài jiā gōng zuò suī rán zì yóu, dàn shì rú guǒ zì zhì lì bù gòu, yě róng yì jiàng dī xiào lǜ, ér qiě hé tóng shì gōu tōng méi yǒu nà me fāng biàn. suǒ yǐ wǒ jué de zài jiā gōng zuò yǒu hǎo chù, dàn bìng bú yí dìng shì hé suǒ yǒu rén/
+저는 재택근무에 확실히 적지 않은 장점이 있다고 생각해요. 예를 들어 출퇴근에 시간을 많이 쓰지 않아도 되고, 시간을 스스로 조절할 수 있어서 생활이 더 편해질 수 있어요. 특히 아이가 있는 사람들에게는 재택근무가 많은 에너지를 절약하게 해줄 수도 있어요. 하지만 모든 일에는 장단점이 있어요. 재택근무는 자유롭지만 자제력이 부족하면 효율이 떨어질 수 있고 동료들과 소통하기도 그렇게 편하지 않을 수 있어요. 그래서 재택근무는 장점이 있지만 모든 사람에게 꼭 맞는 것은 아니라고 생각해요.
+
+4. 购物时，款式重要还是质量重要？
+
+/gòu wù shí, kuǎn shì zhòng yào hái shì zhì liàng zhòng yào/
+쇼핑할 때 디자인이 중요해요, 아니면 품질이 중요해요?
+
+》如果一定要在这两个方面之间做选择，我觉得质量更重要。因为款式虽然影响第一印象，但是如果质量不好，东西用不了多久就坏了，那就得不偿失了。相反，质量好的东西虽然可能看起来普通一点，可是更耐用，也更实用。从长远来看，我觉得买东西还是应该先考虑质量，然后再看款式。
+/rú guǒ yí dìng yào zài zhè liǎng ge fāng miàn zhī jiān zuò xuǎn zé, wǒ jué de zhì liàng gèng zhòng yào. yīn wèi kuǎn shì suī rán yǐng xiǎng dì yī yìn xiàng, dàn shì rú guǒ zhì liàng bù hǎo, dōng xi yòng bù liǎo duō jiǔ jiù huài le, nà jiù dé bù cháng shī le. xiāng fǎn, zhì liàng hǎo de dōng xi suī rán kě néng kàn qǐ lái pǔ tōng yì diǎn, kě shì gèng nài yòng, yě gèng shí yòng. cóng cháng yuǎn lái kàn, wǒ jué de mǎi dōng xi hái shì yīng gāi xiān kǎo lǜ zhì liàng, rán hòu zài kàn kuǎn shì/
+꼭 이 두 가지 중 하나를 골라야 한다면 저는 품질이 더 중요하다고 생각해요. 디자인은 첫인상에 영향을 줄 수 있지만 품질이 좋지 않으면 오래 쓰지도 못하고 금방 망가질 수 있어서 오히려 손해가 더 커질 수 있거든요. 반대로 품질 좋은 물건은 조금 평범해 보일 수 있어도 더 오래가고 실용적이에요. 장기적으로 보면 물건을 살 때는 먼저 품질을 보고 그다음 디자인을 보는 게 맞다고 생각해요.
+
+第六部分
+1. 你在路上不小心丢了手机。给通讯公司打电话挂失。并要求暂停使用。
+
+/nǐ zài lù shang bù xiǎo xīn diū le shǒu jī. gěi tōng xùn gōng sī dǎ diàn huà guà shī. bìng yāo qiú zàn tíng shǐ yòng/
+길에서 실수로 핸드폰을 잃어버렸어요. 통신사에 전화해 분실 신고를 하고 사용 정지를 요청하세요.
+
+喂，您好。请问是通讯公司吗？我刚才在路上不小心把手机丢了，现在很着急。麻烦你先帮我挂失，并且暂停使用，好吗？因为我担心别人捡到以后会乱用。我的手机号码是*，请你帮我尽快处理一下，谢谢。**
+/wèi, nín hǎo. qǐng wèn shì tōng xùn gōng sī ma. wǒ gāng cái zài lù shang bù xiǎo xīn bǎ shǒu jī diū le, xiàn zài hěn zháo jí. má fan nǐ xiān bāng wǒ guà shī, bìng qiě zàn tíng shǐ yòng, hǎo ma. yīn wèi wǒ dān xīn bié rén jiǎn dào yǐ hòu huì luàn yòng. wǒ de shǒu jī hào mǎ shì ***, qǐng nǐ bāng wǒ jǐn kuài chǔ lǐ yí xià, xiè xie/
+여보세요, 안녕하세요. 통신사 맞나요? 방금 길에서 실수로 휴대폰을 잃어버려서 지금 매우 급합니다. 먼저 분실 신고를 해주시고 사용도 정지해 주실 수 있을까요? 다른 사람이 주운 뒤 함부로 사용할까 봐 걱정됩니다. 제 휴대폰 번호는 ***입니다. 빠르게 처리 부탁드립니다. 감사합니다.
+
+2. 你要参加会议，可是你的同事拜托你帮他翻译资料。会议非得参加不可，你对你的同事说明情况。并跟他说会议结束以后帮助他。
+
+/nǐ yào cān jiā huì yì, kě shì nǐ de tóng shì bài tuō nǐ bāng tā fān yì zī liào. huì yì fēi děi cān jiā bù kě, nǐ duì nǐ de tóng shì shuō míng qíng kuàng. bìng gēn tā shuō huì yì jié shù yǐ hòu bāng zhù tā/
+회의에 참석해야 하는데 동료가 자료 번역을 부탁했어요. 회의는 꼭 참석해야 하니 상황을 설명하고 회의 끝나고 도와주겠다고 말하세요.
+
+不好意思，我本来想马上帮你翻译资料，可是我现在得去参加会议，这个会议非常重要，我不能不去。你先别着急，等会议结束以后，我马上回来帮你。要是你愿意的话，你可以先把资料发给我，我开完会以后会第一时间处理。
+/bù hǎo yì si, wǒ běn lái xiǎng mǎ shàng bāng nǐ fān yì zī liào, kě shì wǒ xiàn zài děi qù cān jiā huì yì, zhè ge huì yì fēi cháng zhòng yào, wǒ bù néng bù qù. nǐ xiān bié zháo jí, děng huì yì jié shù yǐ hòu, wǒ mǎ shàng huí lái bāng nǐ. yào shì nǐ yuàn yì de huà, nǐ kě yǐ xiān bǎ zī liào fā gěi wǒ, wǒ kāi wán huì yǐ hòu huì dì yī shí jiān chǔ lǐ/
+미안해요. 원래는 바로 자료 번역을 도와주고 싶었는데 지금은 회의에 참석해야 해요. 이 회의는 아주 중요해서 꼭 가야 하거든요. 너무 급해하지 말고 회의가 끝난 뒤에 바로 돌아와서 도와줄게요. 괜찮다면 먼저 자료를 저에게 보내 주세요. 회의 끝나자마자 가장 먼저 처리할게요.
+
+3. 你的朋友有两张快要到期的餐券，想跟你一起去吃。但是那家饭馆离这儿太远了。你不太想去。请你说服一下你的朋友。
+
+/nǐ de péng you yǒu liǎng zhāng kuài yào dào qī de cān quàn, xiǎng gēn nǐ yì qǐ qù chī. dàn shì nà jiā fàn guǎn lí zhèr tài yuǎn le. nǐ bù tài xiǎng qù. qǐng nǐ shuō fú yí xià nǐ de péng you/
+친구가 곧 만료되는 식사 쿠폰 2장을 가지고 같이 가자고 해요. 하지만 그 식당은 여기에서 너무 멀어서 가기 싫어요. 친구를 설득해 보세요.
+
+我知道那两张餐券快到期了，确实有点可惜。不过那家饭馆离这儿太远了，来回要花很多时间，而且最近我也比较累，不太想跑那么远。要不然你看看能不能约离那边近一点的朋友一起去，或者我们改天找个更方便的地方吃饭，我请客，怎么样？
+/wǒ zhī dào nà liǎng zhāng cān quàn kuài dào qī le, què shí yǒu diǎn kě xī. bú guò nà jiā fàn guǎn lí zhèr tài yuǎn le, lái huí yào huā hěn duō shí jiān, ér qiě zuì jìn wǒ yě bǐ jiào lèi, bù tài xiǎng pǎo nà me yuǎn. yào bú rán nǐ kàn kan néng bù néng yuē lí nà biān jìn yì diǎn de péng you yì qǐ qù, huò zhě wǒ men gǎi tiān zhǎo ge gèng fāng biàn de dì fang chī fàn, wǒ qǐng kè, zěn me yàng/
+그 식사 쿠폰 두 장이 곧 만료된다는 건 알아요. 정말 좀 아깝긴 해요. 하지만 그 식당은 여기서 너무 멀어서 왕복하는 데 시간이 많이 걸리고, 저도 요즘 좀 피곤해서 그렇게 멀리 가고 싶지는 않아요. 그러면 그쪽 가까이에 사는 다른 친구를 같이 부르거나, 아니면 우리 다음에 더 편한 곳에서 밥 먹는 건 어때요? 그때는 제가 살게요.
+---------------------------------------------------------------------------------
+第三部分
+1. 中午一起吃饭吧
+
+/zhōng wǔ yì qǐ chī fàn ba/
+점심 같이 먹어요.
+
+》好啊，我正好也有点饿了。最近工作比较忙，中午一起吃饭正好可以放松心情。你想吃什么？
+/hǎo a, wǒ zhèng hǎo yě yǒu diǎn è le. zuì jìn gōng zuò bǐ jiào máng, zhōng wǔ yì qǐ chī fàn zhèng hǎo kě yǐ fàng sōng xīn qíng. nǐ xiǎng chī shén me/
+좋아요. 저도 마침 좀 배가 고팠어요. 요즘 일이 좀 바빠서 점심 같이 먹으면 기분도 풀 수 있을 것 같아요. 뭐 먹고 싶어요?
+
+2. 我把钱包放在办公室里了，怎么办？
+
+/wǒ bǎ qián bāo fàng zài bàn gōng shì lǐ le, zěn me bàn/
+지갑을 사무실에 두고 왔어요, 어쩌죠?
+
+》别着急，你先想一想是不是放在桌子上了。如果真忘在办公室里了，我们回去拿一下就可以了。
+/bié zháo jí, nǐ xiān xiǎng yì xiǎng shì bú shì fàng zài zhuō zi shàng le. rú guǒ zhēn wàng zài bàn gōng shì lǐ le, wǒ men huí qù ná yí xià jiù kě yǐ le/
+너무 걱정하지 마세요. 먼저 책상 위에 두었는지 한번 생각해 보세요. 정말 사무실에 두고 왔다면 다시 가서 가져오면 돼요.
+
+3. 你要的颜色卖完了。
+
+/nǐ yào de yán sè mài wán le/
+원하시는 색상은 품절되었어요.
+
+》是吗？太可惜了。那还有别的颜色吗？如果没有的话，我下次再来看看。
+/shì ma, tài kě xī le. nà hái yǒu bié de yán sè ma. rú guǒ méi yǒu de huà, wǒ xià cì zài lái kàn kan/
+그래요? 정말 아쉽네요. 그럼 다른 색은 있나요? 없으면 다음에 다시 와서 볼게요.
+
+4. 你喜欢夏天还是喜欢冬天？
+
+/nǐ xǐ huān xià tiān hái shì xǐ huān dōng tiān/
+여름과 겨울 중 어떤 계절을 좋아해요?
+
+》我更喜欢冬天，因为冬天比较安静，而且我很喜欢下雪的时候。你呢？
+/wǒ gèng xǐ huān dōng tiān, yīn wèi dōng tiān bǐ jiào ān jìng, ér qiě wǒ hěn xǐ huān xià xuě de shí hou. nǐ ne/
+저는 겨울을 더 좋아해요. 겨울은 비교적 조용한 느낌이 있고 눈 오는 때를 좋아하거든요. 당신은요?
+
+5. 平时几点下班？
+
+/píng shí jǐ diǎn xià bān/
+평소 몇 시에 퇴근해요?
+
+》一般五点左右下班，不过最近公司比较忙，有时候也会加班。
+/yì bān wǔ diǎn zuǒ yòu xià bān, bú guò zuì jìn gōng sī bǐ jiào máng, yǒu shí hou yě huì jiā bān/
+보통은 5시쯤 퇴근해요. 하지만 요즘 회사가 좀 바빠서 가끔 야근도 해요.
+
+第四部分
+1. 你家人当中谁做菜做得最好？
+
+/nǐ jiā rén dāng zhōng shéi zuò cài zuò de zuì hǎo/
+가족 중에서 누가 요리를 가장 잘해요?
+
+》我觉得我妈妈做菜做得最好。因为她做的菜不但味道很好，而且很有家的感觉，所以我从小就很喜欢吃她做的饭。
+/wǒ jué de wǒ mā ma zuò cài zuò de zuì hǎo. yīn wèi tā zuò de cài bú dàn wèi dào hěn hǎo, ér qiě hěn yǒu jiā de gǎn jué, suǒ yǐ wǒ cóng xiǎo jiù hěn xǐ huān chī tā zuò de fàn/
+저는 우리 엄마가 요리를 가장 잘한다고 생각해요. 엄마가 만든 음식은 맛도 좋고 집밥 느낌도 나서 저는 어릴 때부터 엄마가 해준 밥을 아주 좋아했어요.
+
+2. 你学过开车吗？
+
+/nǐ xué guò kāi chē ma/
+운전을 배운 적 있어요?
+
+》我学过开车，不过现在开得不算很多。因为平时坐地铁更方便，不但又快又准时，而且不用担心堵车。
+/wǒ xué guò kāi chē, bú guò xiàn zài kāi de bú suàn hěn duō. yīn wèi píng shí zuò dì tiě gèng fāng biàn, bú dàn yòu kuài yòu zhǔn shí, ér qiě bú yòng dān xīn dǔ chē/
+운전을 배운 적은 있어요. 하지만 지금은 그렇게 자주 운전하지는 않아요. 평소에는 지하철이 더 편한데, 빠르고 시간도 정확할 뿐 아니라 차 막힐 걱정도 없거든요.
+
+3. 你对美术展览感兴趣吗？
+
+/nǐ duì měi shù zhǎn lǎn gǎn xìng qù ma/
+미술 전시회에 관심 있으세요?
+
+》我对美术展览还挺感兴趣的。因为去看展览不但能放松心情，而且能开阔眼界，所以要是有机会的话，我很想去看看。
+/wǒ duì měi shù zhǎn lǎn hái tǐng gǎn xìng qù de. yīn wèi qù kàn zhǎn lǎn bú dàn néng fàng sōng xīn qíng, ér qiě néng kāi kuò yǎn jiè, suǒ yǐ yào shì yǒu jī huì de huà, wǒ hěn xiǎng qù kàn kan/
+저는 미술 전시에 꽤 관심이 있어요. 전시를 보러 가면 기분도 편해지고 시야도 넓어지기 때문에 기회가 있으면 꼭 가보고 싶어요.
+
+4. 五年后，你可能过什么样的日子？
+
+/wǔ nián hòu, nǐ kě néng guò shén me yàng de rì zi/
+5년 후에는 어떤 삶을 살고 있을 것 같아요?
+
+》我觉得五年以后，我可能会过比较稳定的生活。希望工作顺利，身体健康，而且有更多时间陪家人，我觉得这样的生活很好。
+/wǒ jué de wǔ nián yǐ hòu, wǒ kě néng huì guò bǐ jiào wěn dìng de shēng huó. xī wàng gōng zuò shùn lì, shēn tǐ jiàn kāng, ér qiě yǒu gèng duō shí jiān péi jiā rén, wǒ jué de zhè yàng de shēng huó hěn hǎo/
+저는 5년 후에는 비교적 안정적인 삶을 살고 있을 것 같아요. 일이 잘되고 건강도 좋고 가족과 함께할 시간도 더 많았으면 좋겠어요. 저는 그런 생활이 아주 좋다고 생각해요.
+
+5. 你们公司附近利用什么交通工具最方便？
+
+/nǐ men gōng sī fù jìn lì yòng shén me jiāo tōng gōng jù zuì fāng biàn/
+회사 근처에서 어떤 교통수단을 이용하는 게 가장 편리해요?
+
+》我觉得坐地铁最方便。因为地铁不但又快又准时，而且不用担心堵车，平时上下班很适合。
+/wǒ jué de zuò dì tiě zuì fāng biàn. yīn wèi dì tiě bú dàn yòu kuài yòu zhǔn shí, ér qiě bú yòng dān xīn dǔ chē, píng shí shàng xià bān hěn shì hé/
+저는 지하철이 가장 편리하다고 생각해요. 지하철은 빠르고 시간도 정확할 뿐 아니라 막힐 걱정도 없어서 평소 출퇴근에 아주 잘 맞아요.
+
+第五部分
+1. 去国外旅游的人越来越多，原因是什么？
+
+/qù guó wài lǚ yóu de rén yuè lái yuè duō, yuán yīn shì shén me/
+해외 여행을 가는 사람들이 점점 늘어나는 이유는 뭐라고 생각해요?
+
+》我觉得原因有很多。首先，随着经济的发展，人们的生活水平越来越高，所以有条件去国外旅行。其次，现在交通越来越方便，坐飞机又快又安全。另外，很多人想通过旅行增长见识，开阔眼界，也想了解不同国家的文化。不过，凡事有利有弊，出国旅游虽然花钱比较多，但是从长远来看，我觉得好处还是更多。
+/wǒ jué de yuán yīn yǒu hěn duō. shǒu xiān, suí zhe jīng jì de fā zhǎn, rén men de shēng huó shuǐ píng yuè lái yuè gāo, suǒ yǐ yǒu tiáo jiàn qù guó wài lǚ xíng. qí cì, xiàn zài jiāo tōng yuè lái yuè fāng biàn, zuò fēi jī yòu kuài yòu ān quán. lìng wài, hěn duō rén xiǎng tōng guò lǚ xíng zēng zhǎng jiàn shi, kāi kuò yǎn jiè, yě xiǎng liǎo jiě bù tóng guó jiā de wén huà. bú guò, fán shì yǒu lì yǒu bì, chū guó lǚ yóu suī rán huā qián bǐ jiào duō, dàn shì cóng cháng yuǎn lái kàn, wǒ jué de hǎo chù hái shì gèng duō/
+저는 이유가 많다고 생각해요. 먼저 경제가 발전하면서 사람들의 생활 수준이 높아져 해외여행을 갈 수 있는 조건이 생겼어요. 둘째, 지금은 교통이 점점 더 편리해져서 비행기를 타는 것도 빠르고 안전해요. 또 많은 사람들은 여행을 통해 견문을 넓히고 시야를 넓히며 다른 나라의 문화를 알고 싶어 해요. 하지만 모든 일에는 장단점이 있듯이 해외여행은 돈이 좀 많이 들기는 해요. 그래도 장기적으로 보면 장점이 더 많다고 생각해요.
+
+2. 在公司工作时，哪种外语的影响最大？
+
+/zài gōng sī gōng zuò shí, nǎ zhǒng wài yǔ de yǐng xiǎng zuì dà/
+회사에서 일할 때 어떤 외국어가 가장 영향력이 크다고 생각해요?
+
+》我觉得英语的影响最大。因为现在很多公司都有国际业务，平时开会、发邮件、跟外国客户沟通的时候，都可能会用到英语。会英语的话，不但工作更方便，而且机会也更多。当然，如果会别的外语，比如汉语，也很有帮助。不过从整体来看，我觉得英语还是最重要的。
+/wǒ jué de yīng yǔ de yǐng xiǎng zuì dà. yīn wèi xiàn zài hěn duō gōng sī dōu yǒu guó jì yè wù, píng shí kāi huì, fā yóu jiàn, gēn wài guó kè hù gōu tōng de shí hou, dōu kě néng huì yòng dào yīng yǔ. huì yīng yǔ de huà, bú dàn gōng zuò gèng fāng biàn, ér qiě jī huì yě gèng duō. dāng rán, rú guǒ huì bié de wài yǔ, bǐ rú hàn yǔ, yě hěn yǒu bāng zhù. bú guò cóng zhěng tǐ lái kàn, wǒ jué de yīng yǔ hái shì zuì zhòng yào de/
+저는 영어의 영향이 가장 크다고 생각해요. 요즘 많은 회사들이 국제 업무를 하고 있어서 회의, 이메일, 외국 고객과의 소통에서 영어를 사용할 일이 많거든요. 영어를 할 줄 알면 일하기 더 편할 뿐 아니라 기회도 더 많아져요. 물론 다른 외국어, 예를 들면 중국어도 도움이 많이 돼요. 하지만 전체적으로 보면 영어가 가장 중요하다고 생각해요.
+
+3. 在家工作好处多吗？你来说一说你的想法？
+
+/zài jiā gōng zuò hǎo chù duō ma, nǐ lái shuō yì shuō nǐ de xiǎng fa/
+재택근무의 장점이 많다고 생각해요? 의견을 말해보세요.
+
+》我觉得在家工作确实有不少好处。比如说，不用花很多时间上下班，也可以自己安排时间，生活会比较方便。尤其是对有孩子的人来说，在家工作还能节省很多精力。不过，凡事有利有弊。在家工作虽然自由，但是如果自制力不够，也容易降低效率，而且和同事沟通没有那么方便。所以我觉得在家工作有好处，但并不一定适合所有人。
+/wǒ jué de zài jiā gōng zuò què shí yǒu bú shǎo hǎo chù. bǐ rú shuō, bú yòng huā hěn duō shí jiān shàng xià bān, yě kě yǐ zì jǐ ān pái shí jiān, shēng huó huì bǐ jiào fāng biàn. yóu qí shì duì yǒu hái zi de rén lái shuō, zài jiā gōng zuò hái néng jié shěng hěn duō jīng lì. bú guò, fán shì yǒu lì yǒu bì. zài jiā gōng zuò suī rán zì yóu, dàn shì rú guǒ zì zhì lì bù gòu, yě róng yì jiàng dī xiào lǜ, ér qiě hé tóng shì gōu tōng méi yǒu nà me fāng biàn. suǒ yǐ wǒ jué de zài jiā gōng zuò yǒu hǎo chù, dàn bìng bú yí dìng shì hé suǒ yǒu rén/
+저는 재택근무에 확실히 적지 않은 장점이 있다고 생각해요. 예를 들어 출퇴근에 시간을 많이 쓰지 않아도 되고, 시간을 스스로 조절할 수 있어서 생활이 더 편해질 수 있어요. 특히 아이가 있는 사람들에게는 재택근무가 많은 에너지를 절약하게 해줄 수도 있어요. 하지만 모든 일에는 장단점이 있어요. 재택근무는 자유롭지만 자제력이 부족하면 효율이 떨어질 수 있고 동료들과 소통하기도 그렇게 편하지 않을 수 있어요. 그래서 재택근무는 장점이 있지만 모든 사람에게 꼭 맞는 것은 아니라고 생각해요.
+
+4. 购物时，款式重要还是质量重要？
+
+/gòu wù shí, kuǎn shì zhòng yào hái shì zhì liàng zhòng yào/
+쇼핑할 때 디자인이 중요해요, 아니면 품질이 중요해요?
+
+》如果一定要在这两个方面之间做选择，我觉得质量更重要。因为款式虽然影响第一印象，但是如果质量不好，东西用不了多久就坏了，那就得不偿失了。相反，质量好的东西虽然可能看起来普通一点，可是更耐用，也更实用。从长远来看，我觉得买东西还是应该先考虑质量，然后再看款式。
+/rú guǒ yí dìng yào zài zhè liǎng ge fāng miàn zhī jiān zuò xuǎn zé, wǒ jué de zhì liàng gèng zhòng yào. yīn wèi kuǎn shì suī rán yǐng xiǎng dì yī yìn xiàng, dàn shì rú guǒ zhì liàng bù hǎo, dōng xi yòng bù liǎo duō jiǔ jiù huài le, nà jiù dé bù cháng shī le. xiāng fǎn, zhì liàng hǎo de dōng xi suī rán kě néng kàn qǐ lái pǔ tōng yì diǎn, kě shì gèng nài yòng, yě gèng shí yòng. cóng cháng yuǎn lái kàn, wǒ jué de mǎi dōng xi hái shì yīng gāi xiān kǎo lǜ zhì liàng, rán hòu zài kàn kuǎn shì/
+꼭 이 두 가지 중 하나를 골라야 한다면 저는 품질이 더 중요하다고 생각해요. 디자인은 첫인상에 영향을 줄 수 있지만 품질이 좋지 않으면 오래 쓰지도 못하고 금방 망가질 수 있어서 오히려 손해가 더 커질 수 있거든요. 반대로 품질 좋은 물건은 조금 평범해 보일 수 있어도 더 오래가고 실용적이에요. 장기적으로 보면 물건을 살 때는 먼저 품질을 보고 그다음 디자인을 보는 게 맞다고 생각해요.
+
+第六部分
+1. 你在路上不小心丢了手机。给通讯公司打电话挂失。并要求暂停使用。
+
+/nǐ zài lù shang bù xiǎo xīn diū le shǒu jī. gěi tōng xùn gōng sī dǎ diàn huà guà shī. bìng yāo qiú zàn tíng shǐ yòng/
+길에서 실수로 핸드폰을 잃어버렸어요. 통신사에 전화해 분실 신고를 하고 사용 정지를 요청하세요.
+
+》喂，您好。请问是通讯公司吗？我刚才在路上不小心把手机丢了，现在很着急。麻烦你先帮我挂失，并且暂停使用，好吗？因为我担心别人捡到以后会乱用。我的手机号码是***，请你帮我尽快处理一下，谢谢。
+/wèi, nín hǎo. qǐng wèn shì tōng xùn gōng sī ma. wǒ gāng cái zài lù shang bù xiǎo xīn bǎ shǒu jī diū le, xiàn zài hěn zháo jí. má fan nǐ xiān bāng wǒ guà shī, bìng qiě zàn tíng shǐ yòng, hǎo ma. yīn wèi wǒ dān xīn bié rén jiǎn dào yǐ hòu huì luàn yòng. wǒ de shǒu jī hào mǎ shì ***, qǐng nǐ bāng wǒ jǐn kuài chǔ lǐ yí xià, xiè xie/
+여보세요, 안녕하세요. 통신사 맞나요? 방금 길에서 실수로 휴대폰을 잃어버려서 지금 매우 급합니다. 먼저 분실 신고를 해주시고 사용도 정지해 주실 수 있을까요? 다른 사람이 주운 뒤 함부로 사용할까 봐 걱정됩니다. 제 휴대폰 번호는 ***입니다. 빠르게 처리 부탁드립니다. 감사합니다.
+
+2. 你要参加会议，可是你的同事拜托你帮他翻译资料。会议非得参加不可，你对你的同事说明情况。并跟他说会议结束以后帮助他。
+
+/nǐ yào cān jiā huì yì, kě shì nǐ de tóng shì bài tuō nǐ bāng tā fān yì zī liào. huì yì fēi děi cān jiā bù kě, nǐ duì nǐ de tóng shì shuō míng qíng kuàng. bìng gēn tā shuō huì yì jié shù yǐ hòu bāng zhù tā/
+회의에 참석해야 하는데 동료가 자료 번역을 부탁했어요. 회의는 꼭 참석해야 하니 상황을 설명하고 회의 끝나고 도와주겠다고 말하세요.
+
+》不好意思，我本来想马上帮你翻译资料，可是我现在得去参加会议，这个会议非常重要，我不能不去。你先别着急，等会议结束以后，我马上回来帮你。要是你愿意的话，你可以先把资料发给我，我开完会以后会第一时间处理。
+/bù hǎo yì si, wǒ běn lái xiǎng mǎ shàng bāng nǐ fān yì zī liào, kě shì wǒ xiàn zài děi qù cān jiā huì yì, zhè ge huì yì fēi cháng zhòng yào, wǒ bù néng bù qù. nǐ xiān bié zháo jí, děng huì yì jié shù yǐ hòu, wǒ mǎ shàng huí lái bāng nǐ. yào shì nǐ yuàn yì de huà, nǐ kě yǐ xiān bǎ zī liào fā gěi wǒ, wǒ kāi wán huì yǐ hòu huì dì yī shí jiān chǔ lǐ/
+미안해요. 원래는 바로 자료 번역을 도와주고 싶었는데 지금은 회의에 참석해야 해요. 이 회의는 아주 중요해서 꼭 가야 하거든요. 너무 급해하지 말고 회의가 끝난 뒤에 바로 돌아와서 도와줄게요. 괜찮다면 먼저 자료를 저에게 보내 주세요. 회의 끝나자마자 가장 먼저 처리할게요.
+
+3. 你的朋友有两张快要到期的餐券，想跟你一起去吃。但是那家饭馆离这儿太远了。你不太想去。请你说服一下你的朋友。
+
+/nǐ de péng you yǒu liǎng zhāng kuài yào dào qī de cān quàn, xiǎng gēn nǐ yì qǐ qù chī. dàn shì nà jiā fàn guǎn lí zhèr tài yuǎn le. nǐ bù tài xiǎng qù. qǐng nǐ shuō fú yí xià nǐ de péng you/
+친구가 곧 만료되는 식사 쿠폰 2장을 가지고 같이 가자고 해요. 하지만 그 식당은 여기에서 너무 멀어서 가기 싫어요. 친구를 설득해 보세요.
+
+》我知道那两张餐券快到期了，确实有点可惜。不过那家饭馆离这儿太远了，来回要花很多时间，而且最近我也比较累，不太想跑那么远。要不然你看看能不能约离那边近一点的朋友一起去，或者我们改天找个更方便的地方吃饭，我请客，怎么样？
+/wǒ zhī dào nà liǎng zhāng cān quàn kuài dào qī le, què shí yǒu diǎn kě xī. bú guò nà jiā fàn guǎn lí zhèr tài yuǎn le, lái huí yào huā hěn duō shí jiān, ér qiě zuì jìn wǒ yě bǐ jiào lèi, bù tài xiǎng pǎo nà me yuǎn. yào bú rán nǐ kàn kan néng bù néng yuē lí nà biān jìn yì diǎn de péng you yì qǐ qù, huò zhě wǒ men gǎi tiān zhǎo ge gèng fāng biàn de dì fang chī fàn, wǒ qǐng kè, zěn me yàng/
+그 식사 쿠폰 두 장이 곧 만료된다는 건 알아요. 정말 좀 아깝긴 해요. 하지만 그 식당은 여기서 너무 멀어서 왕복하는 데 시간이 많이 걸리고, 저도 요즘 좀 피곤해서 그렇게 멀리 가고 싶지는 않아요. 그러면 그쪽 가까이에 사는 다른 친구를 같이 부르거나, 아니면 우리 다음에 더 편한 곳에서 밥 먹는 건 어때요? 그때는 제가 살게요.
+---------------------------------------------------------------------------------
+第三部分
+1. 你从什么时候开始上班？
+
+/nǐ cóng shén me shí hou kāi shǐ shàng bān/
+언제부터 출근하세요?
+
+》我从下个星期开始上班。因为最近我正在准备上班需要的东西，所以有点忙。
+/wǒ cóng xià ge xīng qī kāi shǐ shàng bān. yīn wèi zuì jìn wǒ zhèng zài zhǔn bèi shàng bān xū yào de dōng xi, suǒ yǐ yǒu diǎn máng/
+저는 다음 주부터 출근해요. 요즘 출근에 필요한 것들을 준비하고 있어서 조금 바빠요.
+
+2. 你会打乒乓球吗？
+
+/nǐ huì dǎ pīng pāng qiú ma/
+탁구 칠 줄 아세요?
+
+》我会打一点儿。因为我平时很喜欢运动，俗话说，生命在于运动，所以有时候我会跟朋友一起打乒乓球。
+/wǒ huì dǎ yì diǎn er. yīn wèi wǒ píng shí hěn xǐ huān yùn dòng, sú huà shuō, shēng mìng zài yú yùn dòng, suǒ yǐ yǒu shí hou wǒ huì gēn péng you yì qǐ dǎ pīng pāng qiú/
+저는 조금 칠 줄 알아요. 평소 운동을 좋아하고 속담에 생명은 운동에 있다고 하잖아요. 그래서 가끔 친구들과 같이 탁구를 쳐요.
+
+3. 照片里的孩子真可爱，他是谁啊？
+
+/zhào piàn lǐ de hái zi zhēn kě ài, tā shì shéi a/
+사진 속 아이가 정말 귀여운데, 누구예요?
+
+》他是我哥哥的孩子。因为他很活泼，也很可爱，所以我们家人都很喜欢他。
+/tā shì wǒ gē ge de hái zi. yīn wèi tā hěn huó pō, yě hěn kě ài, suǒ yǐ wǒ men jiā rén dōu hěn xǐ huān tā/
+그 아이는 제 형의 아이예요. 아주 활발하고 귀여워서 우리 가족이 다 좋아해요.
+
+4. 周末朋友要来做客，你能帮我做菜吗？
+
+/zhōu mò péng you yào lái zuò kè, nǐ néng bāng wǒ zuò cài ma/
+주말에 친구가 놀러 오는데, 요리 도와줄 수 있어요?
+
+》可以啊，不过我不太会做菜。要是你不介意的话，我可以帮你洗菜，准备材料。
+/kě yǐ a, bú guò wǒ bú tài huì zuò cài. yào shì nǐ bù jiè yì de huà, wǒ kě yǐ bāng nǐ xǐ cài, zhǔn bèi cái liào/
+그럼요. 다만 저는 요리를 아주 잘하지는 못해요. 괜찮다면 채소를 씻고 재료 준비하는 건 도와줄 수 있어요.
+
+5. 下星期我要请假。
+
+/xià xīng qī wǒ yào qǐng jià/
+다음 주에 휴가 내려고 해요.
+
+》是吗？没关系，你提前说明一下就可以了。请几天假？
+/shì ma. méi guān xi, nǐ tí qián shuō míng yí xià jiù kě yǐ le. qǐng jǐ tiān jià/
+그래요? 괜찮아요. 미리 설명만 하면 돼요. 며칠 휴가를 낼 거예요?
+
+6. 这里很安静，我们一起喝咖啡吧。
+
+/zhè lǐ hěn ān jìng, wǒ men yì qǐ hē kā fēi ba/
+여기 조용하니 커피 한잔 같이 해요.
+
+》好啊，这里环境很好，也很安静，正好可以一边喝咖啡一边聊天儿。
+/hǎo a, zhè lǐ huán jìng hěn hǎo, yě hěn ān jìng, zhèng hǎo kě yǐ yì biān hē kā fēi yì biān liáo tiān er/
+좋아요. 여기 분위기도 좋고 조용해서 커피를 마시면서 이야기하기 딱 좋네요.
+
+第四部分
+1. 你喜欢学新的东西吗？
+
+/nǐ xǐ huān xué xīn de dōng xi ma/
+새로운 것을 배우는 걸 좋아해요?
+
+》我很喜欢学新的东西。因为学习新的东西不但能增长见识，而且能开阔眼界。对我来说，这也是一种自我开发。
+/wǒ hěn xǐ huān xué xīn de dōng xi. yīn wèi xué xí xīn de dōng xi bú dàn néng zēng zhǎng jiàn shi, ér qiě néng kāi kuò yǎn jiè. duì wǒ lái shuō, zhè yě shì yì zhǒng zì wǒ kāi fā/
+저는 새로운 것을 배우는 걸 아주 좋아해요. 새로운 것을 배우면 견문을 넓힐 수 있을 뿐 아니라 시야도 넓어지거든요. 저에게는 이것도 자기계발의 한 방식이에요.
+
+2. 你取得过资格证吗？/你有过准备资格证考试的经历吗？
+
+/nǐ qǔ dé guò zī gé zhèng ma / nǐ yǒu guò zhǔn bèi zī gé zhèng kǎo shì de jīng lì ma/
+자격증을 취득한 적 있어요? / 자격증 시험 준비한 경험이 있어요?
+
+》我有过准备资格证考试的经历。因为现在竞争很激烈，所以很多人都在准备各种各样的资格证。我觉得这样不但能提高能力，而且对找工作也很有帮助。
+/wǒ yǒu guò zhǔn bèi zī gé zhèng kǎo shì de jīng lì. yīn wèi xiàn zài jìng zhēng hěn jī liè, suǒ yǐ hěn duō rén dōu zài zhǔn bèi gè zhǒng gè yàng de zī gé zhèng. wǒ jué de zhè yàng bú dàn néng tí gāo néng lì, ér qiě duì zhǎo gōng zuò yě hěn yǒu bāng zhù/
+저는 자격증 시험을 준비해 본 경험이 있어요. 요즘 경쟁이 아주 치열해서 많은 사람들이 여러 자격증을 준비하거든요. 저는 이게 능력을 높이는 데도 도움이 되고 취업에도 큰 도움이 된다고 생각해요.
+
+3. 你喜欢什么颜色的衣服？/你平时常穿什么颜色的衣服？
+
+/nǐ xǐ huān shén me yán sè de yī fu / nǐ píng shí cháng chuān shén me yán sè de yī fu/
+어떤 색 옷을 좋아해요? / 평소에 어떤 색 옷을 자주 입어요?
+
+》我平时比较喜欢穿黑色或者白色的衣服。因为这样的颜色看起来比较简单，也很适合我，而且搭配起来很方便。
+/wǒ píng shí bǐ jiào xǐ huān chuān hēi sè huò zhě bái sè de yī fu. yīn wèi zhè yàng de yán sè kàn qǐ lái bǐ jiào jiǎn dān, yě hěn shì hé wǒ, ér qiě dā pèi qǐ lái hěn fāng biàn/
+저는 평소 검은색이나 흰색 옷을 비교적 좋아해요. 이런 색은 깔끔해 보이고 저한테도 잘 어울리며 코디하기도 편하거든요.
+
+4. 你家附近有大型超市吗？
+
+/nǐ jiā fù jìn yǒu dà xíng chāo shì ma/
+집 근처에 대형 마트 있나요?
+
+》我家附近有大型超市，走路大概十分钟左右，很方便。平时买水果、蔬菜或者生活用品的时候，我常常去那里。
+/wǒ jiā fù jìn yǒu dà xíng chāo shì, zǒu lù dà gài shí fēn zhōng zuǒ yòu, hěn fāng biàn. píng shí mǎi shuǐ guǒ, shū cài huò zhě shēng huó yòng pǐn de shí hou, wǒ cháng cháng qù nà lǐ/
+저희 집 근처에는 대형 마트가 있어요. 걸어서 대략 10분 정도라서 아주 편해요. 평소 과일, 채소, 생활용품을 살 때 자주 거기로 가요.
+
+5. 你容易适应学校或者公司的集体生活吗？
+
+/nǐ róng yì shì yìng xué xiào huò zhě gōng sī de jí tǐ shēng huó ma/
+학교나 회사의 단체 생활에 잘 적응하시나요?
+
+》我觉得我比较容易适应集体生活。因为我的性格比较外向，活泼开朗，也喜欢跟别人沟通，所以不管是在学校还是在公司，我都能比较快地适应环境。
+/wǒ jué de wǒ bǐ jiào róng yì shì yìng jí tǐ shēng huó. yīn wèi wǒ de xìng gé bǐ jiào wài xiàng, huó pō kāi lǎng, yě xǐ huān gēn bié rén gōu tōng, suǒ yǐ bù guǎn shì zài xué xiào hái shì zài gōng sī, wǒ dōu néng bǐ jiào kuài de shì yìng huán jìng/
+저는 단체 생활에 비교적 잘 적응하는 편이라고 생각해요. 제 성격이 외향적이고 활발하고 밝으며 다른 사람과 소통하는 것도 좋아해서 학교든 회사든 비교적 빨리 적응할 수 있어요.
+
+第五部分
+1. 你觉得朋友越多越好吗？请详细谈谈。
+
+/nǐ jué de péng you yuè duō yuè hǎo ma qǐng xiáng xì tán tán/
+친구는 많을수록 좋다고 생각하세요? 자세히 말씀해 주세요.
+
+》我觉得朋友多当然有好处。俗话说，朋友多了路好走。因为朋友多的话，遇到困难的时候可以互相帮助，也可以放松心情。不过，我觉得朋友并不是越多越好，最重要的是关系要真诚，能互相信任。从长远来看，我觉得朋友的数量很重要，但是朋友的质量更重要。
+/wǒ jué de péng you duō dāng rán yǒu hǎo chù. sú huà shuō, péng you duō le lù hǎo zǒu. yīn wèi péng you duō de huà, yù dào kùn nan de shí hou kě yǐ hù xiāng bāng zhù, yě kě yǐ fàng sōng xīn qíng. bú guò, wǒ jué de péng you bìng bú shì yuè duō yuè hǎo, zuì zhòng yào de shì guān xì yào zhēn chéng, néng hù xiāng xìn rèn. cóng cháng yuǎn lái kàn, wǒ jué de péng you de shù liàng hěn zhòng yào, dàn shì péng you de zhì liàng gèng zhòng yào/
+저는 친구가 많은 것은 분명 장점이 있다고 생각해요. 속담에 친구가 많으면 길이 넓어진다고 하잖아요. 친구가 많으면 어려움을 만났을 때 서로 도와줄 수 있고 마음도 편하게 할 수 있어요. 하지만 친구는 많다고 해서 무조건 좋은 건 아니라고 생각해요. 가장 중요한 것은 관계가 진실하고 서로 믿을 수 있는가예요. 장기적으로 보면 친구의 수량도 중요하지만 친구의 질이 더 중요하다고 생각해요.
+
+2. 在你们国家最近年轻人的就业情况怎么样？请谈谈你的看法。
+
+/zài nǐ men guó jiā zuì jìn nián qīng rén de jiù yè qíng kuàng zěn me yàng qǐng tán tán nǐ de kàn fǎ/
+여러분 나라에서 최근 젊은이들의 취업 상황이 어떻다고 생각하세요?
+
+》我觉得最近年轻人的就业情况不太轻松。因为现在竞争非常激烈，很多年轻人毕业以后不但要准备面试，而且要准备各种各样的资格证和外语考试。不过，随着社会的发展，也出现了很多新的工作机会。所以我觉得虽然找工作不容易，但是如果认真准备，不断提高自己的能力，还是有机会的。
+/wǒ jué de zuì jìn nián qīng rén de jiù yè qíng kuàng bú tài qīng sōng. yīn wèi xiàn zài jìng zhēng fēi cháng jī liè, hěn duō nián qīng rén bì yè yǐ hòu bú dàn yào zhǔn bèi miàn shì, ér qiě yào zhǔn bèi gè zhǒng gè yàng de zī gé zhèng hé wài yǔ kǎo shì. bú guò, suí zhe shè huì de fā zhǎn, yě chū xiàn le hěn duō xīn de gōng zuò jī huì. suǒ yǐ wǒ jué de suī rán zhǎo gōng zuò bú róng yì, dàn shì rú guǒ rèn zhēn zhǔn bèi, bú duàn tí gāo zì jǐ de néng lì, hái shì yǒu jī huì de/
+저는 최근 젊은이들의 취업 상황이 그리 쉽지 않다고 생각해요. 지금은 경쟁이 매우 치열해서 많은 젊은이들이 졸업 후 면접뿐 아니라 여러 자격증과 외국어 시험도 준비해야 하거든요. 하지만 사회가 발전하면서 새로운 일자리도 많이 생기고 있어요. 그래서 취업이 쉽지는 않지만, 성실하게 준비하고 계속 능력을 키우면 여전히 기회는 있다고 생각해요.
+
+3. 从消费者的立场看，接触多样的广告好处多还是坏处多？请谈谈。
+
+/cóng xiāo fèi zhě de lì chǎng kàn, jiē chù duō yàng de guǎng gào hǎo chù duō hái shì huài chù duō qǐng tán tán/
+소비자 입장에서 다양한 광고를 접하는 게 좋은 점이 많나요, 나쁜 점이 많나요?
+
+》凡事有利有弊，我觉得广告也是这样。从消费者的立场来看，广告的好处是可以让我们了解更多产品信息，也可以比较价格和质量。不过，广告看得太多的话，也容易让人冲动消费，浪费时间，浪费钱。所以我觉得广告有好处，但是如果太多的话，坏处也不少。从整体来看，我觉得应该理性地看广告。
+/fán shì yǒu lì yǒu bì, wǒ jué de guǎng gào yě shì zhè yàng. cóng xiāo fèi zhě de lì chǎng lái kàn, guǎng gào de hǎo chù shì kě yǐ ràng wǒ men liǎo jiě gèng duō chǎn pǐn xìn xī, yě kě yǐ bǐ jiào jià gé hé zhì liàng. bú guò, guǎng gào kàn de tài duō de huà, yě róng yì ràng rén chōng dòng xiāo fèi, làng fèi shí jiān, làng fèi qián. suǒ yǐ wǒ jué de guǎng gào yǒu hǎo chù, dàn shì rú guǒ tài duō de huà, huài chù yě bú shǎo. cóng zhěng tǐ lái kàn, wǒ jué de yīng gāi lǐ xìng de kàn guǎng gào/
+모든 일에는 장단점이 있고 광고도 마찬가지라고 생각해요. 소비자 입장에서 광고의 장점은 더 많은 제품 정보를 알게 해 주고 가격과 품질 비교도 가능하게 해준다는 거예요. 하지만 광고를 너무 많이 보면 충동구매를 하게 되고 시간과 돈을 낭비할 수도 있어요. 그래서 광고는 장점도 있지만 너무 많으면 단점도 적지 않다고 생각해요. 전체적으로 보면 광고는 이성적으로 받아들이는 게 중요하다고 생각해요.
+
+4. 努力和聪明哪个和学习成绩更有关系？请谈谈。
+
+/nǔ lì hé cōng míng nǎ ge hé xué xí chéng jì gèng yǒu guān xì qǐng tán tán/
+노력과 똑똑함 중 어느 것이 학업 성적과 더 관련이 깊다고 생각하세요?
+
+》如果一定要在这两个方面之间做选择，我觉得努力更重要。因为聪明当然很重要，但是如果不努力，再聪明也很难取得好成绩。相反，努力的人虽然可能开始得慢一点，可是只要坚持下去，成绩还是会慢慢提高。所以我觉得学习成绩和努力的关系更大，聪明只是其中一个因素。
+/rú guǒ yí dìng yào zài zhè liǎng ge fāng miàn zhī jiān zuò xuǎn zé, wǒ jué de nǔ lì gèng zhòng yào. yīn wèi cōng míng dāng rán hěn zhòng yào, dàn shì rú guǒ bù nǔ lì, zài cōng míng yě hěn nán qǔ dé hǎo chéng jì. xiāng fǎn, nǔ lì de rén suī rán kě néng kāi shǐ de màn yì diǎn, kě shì zhǐ yào jiān chí xià qù, chéng jì hái shì huì màn man tí gāo. suǒ yǐ wǒ jué de xué xí chéng jì hé nǔ lì de guān xì gèng dà, cōng míng zhǐ shì qí zhōng yí ge yīn sù/
+꼭 이 두 가지 중 하나를 골라야 한다면 저는 노력이 더 중요하다고 생각해요. 똑똑함도 물론 중요하지만 노력하지 않으면 아무리 똑똑해도 좋은 성적을 얻기 어렵거든요. 반대로 노력하는 사람은 시작은 조금 느릴 수 있어도 계속 꾸준히 하면 성적이 점점 올라가요. 그래서 저는 학업 성적은 노력과의 관련이 더 크고, 똑똑함은 여러 요소 중 하나일 뿐이라고 생각해요.
+
+第六部分
+1. 同事们邀你今晚一起吃晚饭，可是你得加班，请委婉地拒绝同事。
+
+/tóng shì men yāo nǐ jīn wǎn yì qǐ chī wǎn fàn, kě shì nǐ děi jiā bān, qǐng wěi wǎn de jù jué tóng shì/
+동료들이 오늘 저녁 같이 먹자고 하는데, 당신은 야근을 해야 합니다. 정중하게 거절하세요.
+
+》不好意思，我本来很想跟你们一起去吃晚饭，可是今天我得加班。最近公司开始了新项目，所以工作比较忙。我先把手上的事情处理好，下次有机会的话，我一定跟你们一起去。
+/bù hǎo yì si, wǒ běn lái hěn xiǎng gēn nǐ men yì qǐ qù chī wǎn fàn, kě shì jīn tiān wǒ děi jiā bān. zuì jìn gōng sī kāi shǐ le xīn xiàng mù, suǒ yǐ gōng zuò bǐ jiào máng. wǒ xiān bǎ shǒu shàng de shì qing chǔ lǐ hǎo, xià cì yǒu jī huì de huà, wǒ yí dìng gēn nǐ men yì qǐ qù/
+미안해요. 원래는 여러분과 같이 저녁을 먹으러 가고 싶었는데 오늘은 야근을 해야 해요. 요즘 회사에서 새 프로젝트를 시작해서 일이 좀 바쁘거든요. 먼저 손에 있는 일을 처리하고 다음에 기회가 있으면 꼭 같이 갈게요.
+
+2. 你今天预约了看病，现在坐出租车去医院，可是路上太堵，所以请你给医院打电话说明情况，并改时间。
+
+/nǐ jīn tiān yù yuē le kàn bìng, xiàn zài zuò chū zū chē qù yī yuàn, kě shì lù shang tài dǔ, suǒ yǐ qǐng nǐ gěi yī yuàn dǎ diàn huà shuō míng qíng kuàng, bìng gǎi shí jiān/
+오늘 병원 예약이 있는데 택시를 타고 가는 중 길이 너무 막혀요. 병원에 전화해 상황을 설명하고 시간을 변경하세요.
+
+》喂，您好。请问是医院吗？我今天预约了看病，现在正在坐出租车去医院，可是路上太堵了，可能不能按时到，真不好意思。我想问一下，能不能帮我改一下时间？如果可以的话，我想晚一点儿过去。麻烦你帮我确认一下，谢谢。
+/wèi, nín hǎo. qǐng wèn shì yī yuàn ma. wǒ jīn tiān yù yuē le kàn bìng, xiàn zài zhèng zài zuò chū zū chē qù yī yuàn, kě shì lù shang tài dǔ le, kě néng bù néng àn shí dào, zhēn bù hǎo yì si. wǒ xiǎng wèn yí xià, néng bù néng bāng wǒ gǎi yí xià shí jiān. rú guǒ kě yǐ de huà, wǒ xiǎng wǎn yì diǎn er guò qù. má fan nǐ bāng wǒ què rèn yí xià, xiè xie/
+여보세요, 안녕하세요. 병원 맞나요? 오늘 진료 예약이 있는데 지금 택시를 타고 병원에 가는 중이에요. 그런데 길이 너무 막혀서 제시간에 도착하지 못할 것 같아요. 정말 죄송합니다. 시간을 조금 바꿔주실 수 있는지 여쭤보고 싶어요. 가능하다면 조금 늦게 가고 싶습니다. 확인 부탁드립니다. 감사합니다.
+
+3. 你想利用周末学游泳，现在在游泳馆前台询问有关的信息。比如上课时间和学费等问题。
+
+/nǐ xiǎng lì yòng zhōu mò xué yóu yǒng, xiàn zài zài yóu yǒng guǎn qián tái xún wèn yǒu guān de xìn xī. bǐ rú shàng kè shí jiān hé xué fèi děng wèn tí/
+주말에 수영을 배우려고 수영장 프론트에 가서 정보를 물어보세요. 수업 시간이나 수강료 등에 대해 질문하세요.
+
+》你好，我想利用周末学游泳，所以想问一下有关的信息。请问上课时间是什么时候？一个星期上几次课？学费多少钱？如果可以的话，请你给我简单介绍一下。
+/nǐ hǎo, wǒ xiǎng lì yòng zhōu mò xué yóu yǒng, suǒ yǐ xiǎng wèn yí xià yǒu guān de xìn xī. qǐng wèn shàng kè shí jiān shì shén me shí hou. yí ge xīng qī shàng jǐ cì kè. xué fèi duō shao qián. rú guǒ kě yǐ de huà, qǐng nǐ gěi wǒ jiǎn dān jiè shào yí xià/
+안녕하세요. 주말을 이용해서 수영을 배우고 싶어서 관련 정보를 좀 여쭤보려고 해요. 수업 시간은 언제인지, 일주일에 몇 번 수업하는지, 수강료는 얼마인지 알고 싶어요. 가능하면 간단히 소개해 주세요.
+---------------------------------------------------------------------------------
+第三部分
+1. 你从什么时候开始上班？
+
+/nǐ cóng shén me shí hou kāi shǐ shàng bān/
+언제부터 출근하세요?
+
+》我从下个星期开始上班。因为最近我正在准备上班需要的东西，所以有点忙。
+/wǒ cóng xià ge xīng qī kāi shǐ shàng bān. yīn wèi zuì jìn wǒ zhèng zài zhǔn bèi shàng bān xū yào de dōng xi, suǒ yǐ yǒu diǎn máng/
+저는 다음 주부터 출근해요. 요즘 출근에 필요한 것들을 준비하고 있어서 조금 바빠요.
+
+2. 你会打乒乓球吗？
+
+/nǐ huì dǎ pīng pāng qiú ma/
+탁구 칠 줄 아세요?
+
+》我会打一点儿。因为我平时很喜欢运动，俗话说，生命在于运动，所以有时候我会跟朋友一起打乒乓球。
+/wǒ huì dǎ yì diǎn er. yīn wèi wǒ píng shí hěn xǐ huān yùn dòng, sú huà shuō, shēng mìng zài yú yùn dòng, suǒ yǐ yǒu shí hou wǒ huì gēn péng you yì qǐ dǎ pīng pāng qiú/
+저는 조금 칠 줄 알아요. 평소 운동을 좋아하고 속담에 생명은 운동에 있다고 하잖아요. 그래서 가끔 친구들과 같이 탁구를 쳐요.
+
+3. 照片里的孩子真可爱，他是谁啊？
+
+/zhào piàn lǐ de hái zi zhēn kě ài, tā shì shéi a/
+사진 속 아이가 정말 귀여운데, 누구예요?
+
+》他是我哥哥的孩子。因为他很活泼，也很可爱，所以我们家人都很喜欢他。
+/tā shì wǒ gē ge de hái zi. yīn wèi tā hěn huó pō, yě hěn kě ài, suǒ yǐ wǒ men jiā rén dōu hěn xǐ huān tā/
+그 아이는 제 형의 아이예요. 아주 활발하고 귀여워서 우리 가족이 다 좋아해요.
+
+4. 周末朋友要来做客，你能帮我做菜吗？
+
+/zhōu mò péng you yào lái zuò kè, nǐ néng bāng wǒ zuò cài ma/
+주말에 친구가 놀러 오는데, 요리 도와줄 수 있어요?
+
+》可以啊，不过我不太会做菜。要是你不介意的话，我可以帮你洗菜，准备材料。
+/kě yǐ a, bú guò wǒ bú tài huì zuò cài. yào shì nǐ bù jiè yì de huà, wǒ kě yǐ bāng nǐ xǐ cài, zhǔn bèi cái liào/
+그럼요. 다만 저는 요리를 아주 잘하지는 못해요. 괜찮다면 채소를 씻고 재료 준비하는 건 도와줄 수 있어요.
+
+5. 下星期我要请假。
+
+/xià xīng qī wǒ yào qǐng jià/
+다음 주에 휴가 내려고 해요.
+
+》是吗？没关系，你提前说明一下就可以了。请几天假？
+/shì ma. méi guān xi, nǐ tí qián shuō míng yí xià jiù kě yǐ le. qǐng jǐ tiān jià/
+그래요? 괜찮아요. 미리 설명만 하면 돼요. 며칠 휴가를 낼 거예요?
+
+6. 这里很安静，我们一起喝咖啡吧。
+
+/zhè lǐ hěn ān jìng, wǒ men yì qǐ hē kā fēi ba/
+여기 조용하니 커피 한잔 같이 해요.
+
+》好啊，这里环境很好，也很安静，正好可以一边喝咖啡一边聊天儿。
+/hǎo a, zhè lǐ huán jìng hěn hǎo, yě hěn ān jìng, zhèng hǎo kě yǐ yì biān hē kā fēi yì biān liáo tiān er/
+좋아요. 여기 분위기도 좋고 조용해서 커피를 마시면서 이야기하기 딱 좋네요.
+
+第四部分
+1. 你喜欢学新的东西吗？
+
+/nǐ xǐ huān xué xīn de dōng xi ma/
+새로운 것을 배우는 걸 좋아해요?
+
+》我很喜欢学新的东西。因为学习新的东西不但能增长见识，而且能开阔眼界。对我来说，这也是一种自我开发。
+/wǒ hěn xǐ huān xué xīn de dōng xi. yīn wèi xué xí xīn de dōng xi bú dàn néng zēng zhǎng jiàn shi, ér qiě néng kāi kuò yǎn jiè. duì wǒ lái shuō, zhè yě shì yì zhǒng zì wǒ kāi fā/
+저는 새로운 것을 배우는 걸 아주 좋아해요. 새로운 것을 배우면 견문을 넓힐 수 있을 뿐 아니라 시야도 넓어지거든요. 저에게는 이것도 자기계발의 한 방식이에요.
+
+2. 你取得过资格证吗？/你有过准备资格证考试的经历吗？
+
+/nǐ qǔ dé guò zī gé zhèng ma / nǐ yǒu guò zhǔn bèi zī gé zhèng kǎo shì de jīng lì ma/
+자격증을 취득한 적 있어요? / 자격증 시험 준비한 경험이 있어요?
+
+》我有过准备资格证考试的经历。因为现在竞争很激烈，所以很多人都在准备各种各样的资格证。我觉得这样不但能提高能力，而且对找工作也很有帮助。
+/wǒ yǒu guò zhǔn bèi zī gé zhèng kǎo shì de jīng lì. yīn wèi xiàn zài jìng zhēng hěn jī liè, suǒ yǐ hěn duō rén dōu zài zhǔn bèi gè zhǒng gè yàng de zī gé zhèng. wǒ jué de zhè yàng bú dàn néng tí gāo néng lì, ér qiě duì zhǎo gōng zuò yě hěn yǒu bāng zhù/
+저는 자격증 시험을 준비해 본 경험이 있어요. 요즘 경쟁이 아주 치열해서 많은 사람들이 여러 자격증을 준비하거든요. 저는 이게 능력을 높이는 데도 도움이 되고 취업에도 큰 도움이 된다고 생각해요.
+
+3. 你喜欢什么颜色的衣服？/你平时常穿什么颜色的衣服？
+
+/nǐ xǐ huān shén me yán sè de yī fu / nǐ píng shí cháng chuān shén me yán sè de yī fu/
+어떤 색 옷을 좋아해요? / 평소에 어떤 색 옷을 자주 입어요?
+
+》我平时比较喜欢穿黑色或者白色的衣服。因为这样的颜色看起来比较简单，也很适合我，而且搭配起来很方便。
+/wǒ píng shí bǐ jiào xǐ huān chuān hēi sè huò zhě bái sè de yī fu. yīn wèi zhè yàng de yán sè kàn qǐ lái bǐ jiào jiǎn dān, yě hěn shì hé wǒ, ér qiě dā pèi qǐ lái hěn fāng biàn/
+저는 평소 검은색이나 흰색 옷을 비교적 좋아해요. 이런 색은 깔끔해 보이고 저한테도 잘 어울리며 코디하기도 편하거든요.
+
+4. 你家附近有大型超市吗？
+
+/nǐ jiā fù jìn yǒu dà xíng chāo shì ma/
+집 근처에 대형 마트 있나요?
+
+》我家附近有大型超市，走路大概十分钟左右，很方便。平时买水果、蔬菜或者生活用品的时候，我常常去那里。
+/wǒ jiā fù jìn yǒu dà xíng chāo shì, zǒu lù dà gài shí fēn zhōng zuǒ yòu, hěn fāng biàn. píng shí mǎi shuǐ guǒ, shū cài huò zhě shēng huó yòng pǐn de shí hou, wǒ cháng cháng qù nà lǐ/
+저희 집 근처에는 대형 마트가 있어요. 걸어서 대략 10분 정도라서 아주 편해요. 평소 과일, 채소, 생활용품을 살 때 자주 거기로 가요.
+
+5. 你容易适应学校或者公司的集体生活吗？
+
+/nǐ róng yì shì yìng xué xiào huò zhě gōng sī de jí tǐ shēng huó ma/
+학교나 회사의 단체 생활에 잘 적응하시나요?
+
+》我觉得我比较容易适应集体生活。因为我的性格比较外向，活泼开朗，也喜欢跟别人沟通，所以不管是在学校还是在公司，我都能比较快地适应环境。
+/wǒ jué de wǒ bǐ jiào róng yì shì yìng jí tǐ shēng huó. yīn wèi wǒ de xìng gé bǐ jiào wài xiàng, huó pō kāi lǎng, yě xǐ huān gēn bié rén gōu tōng, suǒ yǐ bù guǎn shì zài xué xiào hái shì zài gōng sī, wǒ dōu néng bǐ jiào kuài de shì yìng huán jìng/
+저는 단체 생활에 비교적 잘 적응하는 편이라고 생각해요. 제 성격이 외향적이고 활발하고 밝으며 다른 사람과 소통하는 것도 좋아해서 학교든 회사든 비교적 빨리 적응할 수 있어요.
+
+第五部分
+1. 你觉得朋友越多越好吗？请详细谈谈。
+
+/nǐ jué de péng you yuè duō yuè hǎo ma qǐng xiáng xì tán tán/
+친구는 많을수록 좋다고 생각하세요? 자세히 말씀해 주세요.
+
+》我觉得朋友多当然有好处。俗话说，朋友多了路好走。因为朋友多的话，遇到困难的时候可以互相帮助，也可以放松心情。不过，我觉得朋友并不是越多越好，最重要的是关系要真诚，能互相信任。从长远来看，我觉得朋友的数量很重要，但是朋友的质量更重要。
+/wǒ jué de péng you duō dāng rán yǒu hǎo chù. sú huà shuō, péng you duō le lù hǎo zǒu. yīn wèi péng you duō de huà, yù dào kùn nan de shí hou kě yǐ hù xiāng bāng zhù, yě kě yǐ fàng sōng xīn qíng. bú guò, wǒ jué de péng you bìng bú shì yuè duō yuè hǎo, zuì zhòng yào de shì guān xì yào zhēn chéng, néng hù xiāng xìn rèn. cóng cháng yuǎn lái kàn, wǒ jué de péng you de shù liàng hěn zhòng yào, dàn shì péng you de zhì liàng gèng zhòng yào/
+저는 친구가 많은 것은 분명 장점이 있다고 생각해요. 속담에 친구가 많으면 길이 넓어진다고 하잖아요. 친구가 많으면 어려움을 만났을 때 서로 도와줄 수 있고 마음도 편하게 할 수 있어요. 하지만 친구는 많다고 해서 무조건 좋은 건 아니라고 생각해요. 가장 중요한 것은 관계가 진실하고 서로 믿을 수 있는가예요. 장기적으로 보면 친구의 수량도 중요하지만 친구의 질이 더 중요하다고 생각해요.
+
+2. 在你们国家最近年轻人的就业情况怎么样？请谈谈你的看法。
+
+/zài nǐ men guó jiā zuì jìn nián qīng rén de jiù yè qíng kuàng zěn me yàng qǐng tán tán nǐ de kàn fǎ/
+여러분 나라에서 최근 젊은이들의 취업 상황이 어떻다고 생각하세요?
+
+》我觉得最近年轻人的就业情况不太轻松。因为现在竞争非常激烈，很多年轻人毕业以后不但要准备面试，而且要准备各种各样的资格证和外语考试。不过，随着社会的发展，也出现了很多新的工作机会。所以我觉得虽然找工作不容易，但是如果认真准备，不断提高自己的能力，还是有机会的。
+/wǒ jué de zuì jìn nián qīng rén de jiù yè qíng kuàng bú tài qīng sōng. yīn wèi xiàn zài jìng zhēng fēi cháng jī liè, hěn duō nián qīng rén bì yè yǐ hòu bú dàn yào zhǔn bèi miàn shì, ér qiě yào zhǔn bèi gè zhǒng gè yàng de zī gé zhèng hé wài yǔ kǎo shì. bú guò, suí zhe shè huì de fā zhǎn, yě chū xiàn le hěn duō xīn de gōng zuò jī huì. suǒ yǐ wǒ jué de suī rán zhǎo gōng zuò bú róng yì, dàn shì rú guǒ rèn zhēn zhǔn bèi, bú duàn tí gāo zì jǐ de néng lì, hái shì yǒu jī huì de/
+저는 최근 젊은이들의 취업 상황이 그리 쉽지 않다고 생각해요. 지금은 경쟁이 매우 치열해서 많은 젊은이들이 졸업 후 면접뿐 아니라 여러 자격증과 외국어 시험도 준비해야 하거든요. 하지만 사회가 발전하면서 새로운 일자리도 많이 생기고 있어요. 그래서 취업이 쉽지는 않지만, 성실하게 준비하고 계속 능력을 키우면 여전히 기회는 있다고 생각해요.
+
+3. 从消费者的立场看，接触多样的广告好处多还是坏处多？请谈谈。
+
+/cóng xiāo fèi zhě de lì chǎng kàn, jiē chù duō yàng de guǎng gào hǎo chù duō hái shì huài chù duō qǐng tán tán/
+소비자 입장에서 다양한 광고를 접하는 게 좋은 점이 많나요, 나쁜 점이 많나요?
+
+》凡事有利有弊，我觉得广告也是这样。从消费者的立场来看，广告的好处是可以让我们了解更多产品信息，也可以比较价格和质量。不过，广告看得太多的话，也容易让人冲动消费，浪费时间，浪费钱。所以我觉得广告有好处，但是如果太多的话，坏处也不少。从整体来看，我觉得应该理性地看广告。
+/fán shì yǒu lì yǒu bì, wǒ jué de guǎng gào yě shì zhè yàng. cóng xiāo fèi zhě de lì chǎng lái kàn, guǎng gào de hǎo chù shì kě yǐ ràng wǒ men liǎo jiě gèng duō chǎn pǐn xìn xī, yě kě yǐ bǐ jiào jià gé hé zhì liàng. bú guò, guǎng gào kàn de tài duō de huà, yě róng yì ràng rén chōng dòng xiāo fèi, làng fèi shí jiān, làng fèi qián. suǒ yǐ wǒ jué de guǎng gào yǒu hǎo chù, dàn shì rú guǒ tài duō de huà, huài chù yě bú shǎo. cóng zhěng tǐ lái kàn, wǒ jué de yīng gāi lǐ xìng de kàn guǎng gào/
+모든 일에는 장단점이 있고 광고도 마찬가지라고 생각해요. 소비자 입장에서 광고의 장점은 더 많은 제품 정보를 알게 해 주고 가격과 품질 비교도 가능하게 해준다는 거예요. 하지만 광고를 너무 많이 보면 충동구매를 하게 되고 시간과 돈을 낭비할 수도 있어요. 그래서 광고는 장점도 있지만 너무 많으면 단점도 적지 않다고 생각해요. 전체적으로 보면 광고는 이성적으로 받아들이는 게 중요하다고 생각해요.
+
+4. 努力和聪明哪个和学习成绩更有关系？请谈谈。
+
+/nǔ lì hé cōng míng nǎ ge hé xué xí chéng jì gèng yǒu guān xì qǐng tán tán/
+노력과 똑똑함 중 어느 것이 학업 성적과 더 관련이 깊다고 생각하세요?
+
+》如果一定要在这两个方面之间做选择，我觉得努力更重要。因为聪明当然很重要，但是如果不努力，再聪明也很难取得好成绩。相反，努力的人虽然可能开始得慢一点，可是只要坚持下去，成绩还是会慢慢提高。所以我觉得学习成绩和努力的关系更大，聪明只是其中一个因素。
+/rú guǒ yí dìng yào zài zhè liǎng ge fāng miàn zhī jiān zuò xuǎn zé, wǒ jué de nǔ lì gèng zhòng yào. yīn wèi cōng míng dāng rán hěn zhòng yào, dàn shì rú guǒ bù nǔ lì, zài cōng míng yě hěn nán qǔ dé hǎo chéng jì. xiāng fǎn, nǔ lì de rén suī rán kě néng kāi shǐ de màn yì diǎn, kě shì zhǐ yào jiān chí xià qù, chéng jì hái shì huì màn man tí gāo. suǒ yǐ wǒ jué de xué xí chéng jì hé nǔ lì de guān xì gèng dà, cōng míng zhǐ shì qí zhōng yí ge yīn sù/
+꼭 이 두 가지 중 하나를 골라야 한다면 저는 노력이 더 중요하다고 생각해요. 똑똑함도 물론 중요하지만 노력하지 않으면 아무리 똑똑해도 좋은 성적을 얻기 어렵거든요. 반대로 노력하는 사람은 시작은 조금 느릴 수 있어도 계속 꾸준히 하면 성적이 점점 올라가요. 그래서 저는 학업 성적은 노력과의 관련이 더 크고, 똑똑함은 여러 요소 중 하나일 뿐이라고 생각해요.
+
+第六部分
+1. 同事们邀你今晚一起吃晚饭，可是你得加班，请委婉地拒绝同事。
+
+/tóng shì men yāo nǐ jīn wǎn yì qǐ chī wǎn fàn, kě shì nǐ děi jiā bān, qǐng wěi wǎn de jù jué tóng shì/
+동료들이 오늘 저녁 같이 먹자고 하는데, 당신은 야근을 해야 합니다. 정중하게 거절하세요.
+
+》不好意思，我本来很想跟你们一起去吃晚饭，可是今天我得加班。最近公司开始了新项目，所以工作比较忙。我先把手上的事情处理好，下次有机会的话，我一定跟你们一起去。
+/bù hǎo yì si, wǒ běn lái hěn xiǎng gēn nǐ men yì qǐ qù chī wǎn fàn, kě shì jīn tiān wǒ děi jiā bān. zuì jìn gōng sī kāi shǐ le xīn xiàng mù, suǒ yǐ gōng zuò bǐ jiào máng. wǒ xiān bǎ shǒu shàng de shì qing chǔ lǐ hǎo, xià cì yǒu jī huì de huà, wǒ yí dìng gēn nǐ men yì qǐ qù/
+미안해요. 원래는 여러분과 같이 저녁을 먹으러 가고 싶었는데 오늘은 야근을 해야 해요. 요즘 회사에서 새 프로젝트를 시작해서 일이 좀 바쁘거든요. 먼저 손에 있는 일을 처리하고 다음에 기회가 있으면 꼭 같이 갈게요.
+
+2. 你今天预约了看病，现在坐出租车去医院，可是路上太堵，所以请你给医院打电话说明情况，并改时间。
+
+/nǐ jīn tiān yù yuē le kàn bìng, xiàn zài zuò chū zū chē qù yī yuàn, kě shì lù shang tài dǔ, suǒ yǐ qǐng nǐ gěi yī yuàn dǎ diàn huà shuō míng qíng kuàng, bìng gǎi shí jiān/
+오늘 병원 예약이 있는데 택시를 타고 가는 중 길이 너무 막혀요. 병원에 전화해 상황을 설명하고 시간을 변경하세요.
+
+》喂，您好。请问是医院吗？我今天预约了看病，现在正在坐出租车去医院，可是路上太堵了，可能不能按时到，真不好意思。我想问一下，能不能帮我改一下时间？如果可以的话，我想晚一点儿过去。麻烦你帮我确认一下，谢谢。
+/wèi, nín hǎo. qǐng wèn shì yī yuàn ma. wǒ jīn tiān yù yuē le kàn bìng, xiàn zài zhèng zài zuò chū zū chē qù yī yuàn, kě shì lù shang tài dǔ le, kě néng bù néng àn shí dào, zhēn bù hǎo yì si. wǒ xiǎng wèn yí xià, néng bù néng bāng wǒ gǎi yí xià shí jiān. rú guǒ kě yǐ de huà, wǒ xiǎng wǎn yì diǎn er guò qù. má fan nǐ bāng wǒ què rèn yí xià, xiè xie/
+여보세요, 안녕하세요. 병원 맞나요? 오늘 진료 예약이 있는데 지금 택시를 타고 병원에 가는 중이에요. 그런데 길이 너무 막혀서 제시간에 도착하지 못할 것 같아요. 정말 죄송합니다. 시간을 조금 바꿔주실 수 있는지 여쭤보고 싶어요. 가능하다면 조금 늦게 가고 싶습니다. 확인 부탁드립니다. 감사합니다.
+
+3. 你想利用周末学游泳，现在在游泳馆前台询问有关的信息。比如上课时间和学费等问题。
+
+/nǐ xiǎng lì yòng zhōu mò xué yóu yǒng, xiàn zài zài yóu yǒng guǎn qián tái xún wèn yǒu guān de xìn xī. bǐ rú shàng kè shí jiān hé xué fèi děng wèn tí/
+주말에 수영을 배우려고 수영장 프론트에 가서 정보를 물어보세요. 수업 시간이나 수강료 등에 대해 질문하세요.
+
+》你好，我想利用周末学游泳，所以想问一下有关的信息。请问上课时间是什么时候？一个星期上几次课？学费多少钱？如果可以的话，请你给我简单介绍一下。
+/nǐ hǎo, wǒ xiǎng lì yòng zhōu mò xué yóu yǒng, suǒ yǐ xiǎng wèn yí xià yǒu guān de xìn xī. qǐng wèn shàng kè shí jiān shì shén me shí hou. yí ge xīng qī shàng jǐ cì kè. xué fèi duō shao qián. rú guǒ kě yǐ de huà, qǐng nǐ gěi wǒ jiǎn dān jiè shào yí xià/
+안녕하세요. 주말을 이용해서 수영을 배우고 싶어서 관련 정보를 좀 여쭤보려고 해요. 수업 시간은 언제인지, 일주일에 몇 번 수업하는지, 수강료는 얼마인지 알고 싶어요. 가능하면 간단히 소개해 주세요.
+
+---------------------------------------------------------------------------------
+第三部分
+1. 你要喝咖啡还是喝别的饮料？
+
+/nǐ yào hē kā fēi hái shì hē bié de yǐn liào/
+커피 마실래요 아니면 다른 음료 마실래요?
+
+》我想喝咖啡。因为最近有点累，喝咖啡不但可以提神，而且可以放松心情。
+/wǒ xiǎng hē kā fēi. yīn wèi zuì jìn yǒu diǎn lèi, hē kā fēi bú dàn kě yǐ tí shén, ér qiě kě yǐ fàng sōng xīn qíng/
+저는 커피를 마시고 싶어요. 요즘 조금 피곤해서 커피를 마시면 정신도 차릴 수 있고 기분도 풀 수 있거든요.
+
+2. 你最近睡得怎么样？
+
+/nǐ zuì jìn shuì de zěn me yàng/
+요즘 잠 잘 주무세요?
+
+》最近睡得不太好。因为最近工作比较忙，压力也比较大，所以有时候睡得不太安稳。
+/zuì jìn shuì de bú tài hǎo. yīn wèi zuì jìn gōng zuò bǐ jiào máng, yā lì yě bǐ jiào dà, suǒ yǐ yǒu shí hou shuì de bú tài ān wěn/
+요즘 잠을 그리 잘 못 자요. 최근 일이 좀 바쁘고 스트레스도 있어서 가끔 잠을 편하게 못 자요.
+
+3. 你喜欢下雪吗？
+
+/nǐ xǐ huān xià xuě ma/
+눈 오는 거 좋아해요?
+
+》我很喜欢下雪。因为下雪的时候很安静，而且风景很漂亮，可以放松心情。
+/wǒ hěn xǐ huān xià xuě. yīn wèi xià xuě de shí hou hěn ān jìng, ér qiě fēng jǐng hěn piào liang, kě yǐ fàng sōng xīn qíng/
+저는 눈 오는 걸 아주 좋아해요. 눈 올 때는 조용하고 풍경도 예뻐서 기분이 편해지거든요.
+
+4. 你出过差吗？
+
+/nǐ chū guò chāi ma/
+출장 가본 적 있어요?
+
+》我出过差。因为我们公司在中国有工厂，所以我以前常常去中国出差。
+/wǒ chū guò chāi. yīn wèi wǒ men gōng sī zài zhōng guó yǒu gōng chǎng, suǒ yǐ wǒ yǐ qián cháng cháng qù zhōng guó chū chāi/
+출장 가본 적 있어요. 저희 회사가 중국에 공장이 있어서 예전에 자주 중국으로 출장을 갔어요.
+
+5. 你要换钱吗？
+
+/nǐ yào huàn qián ma/
+환전 하실래요?
+
+》要，我想换一点儿钱。因为我最近打算去旅行，所以先准备一下比较方便。
+/yào, wǒ xiǎng huàn yì diǎn er qián. yīn wèi wǒ zuì jìn dǎ suàn qù lǚ xíng, suǒ yǐ xiān zhǔn bèi yí xià bǐ jiào fāng biàn/
+네, 조금 환전하고 싶어요. 요즘 여행 갈 계획이 있어서 미리 준비하는 게 더 편하거든요.
+
+第四部分
+1. 你什么时候第一次坐飞机？
+
+/nǐ shén me shí hou dì yī cì zuò fēi jī/
+처음으로 비행기 탄 게 언제예요?
+
+》我第一次坐飞机是学生时期。那时候我去外国旅行了，虽然有一点紧张，不过也觉得很新鲜。
+/wǒ dì yī cì zuò fēi jī shì xué shēng shí qī. nà shí hou wǒ qù wài guó lǚ xíng le, suī rán yǒu yì diǎn jǐn zhāng, bú guò yě jué de hěn xīn xiān/
+제가 처음 비행기를 탄 건 학생 시절이에요. 그때 외국 여행을 갔는데 조금 긴장되긴 했지만 아주 신기하기도 했어요.
+
+2. 找工作的时候，重视工作和生活的平衡吗？
+
+/zhǎo gōng zuò de shí hou, zhòng shì gōng zuò hé shēng huó de píng héng ma/
+일자리 찾을 때 워라밸 중요하게 생각해요?
+
+》我很重视工作和生活的平衡。因为如果工作太忙，没有休息时间，不但对健康不好，而且会影响工作效率。所以我觉得这个问题很重要。
+/wǒ hěn zhòng shì gōng zuò hé shēng huó de píng héng. yīn wèi rú guǒ gōng zuò tài máng, méi yǒu xiū xi shí jiān, bú dàn duì jiàn kāng bù hǎo, ér qiě huì yǐng xiǎng gōng zuò xiào lǜ. suǒ yǐ wǒ jué de zhè ge wèn tí hěn zhòng yào/
+저는 일과 삶의 균형을 아주 중요하게 생각해요. 일이 너무 바쁘고 쉴 시간이 없으면 건강에도 안 좋고 업무 효율에도 영향을 주기 때문이에요. 그래서 이 문제는 매우 중요하다고 생각해요.
+
+3. 买房子的时候，周围的环境重要吗？
+
+/mǎi fáng zi de shí hou, zhōu wéi de huán jìng zhòng yào ma/
+집 살 때 주변 환경 중요하게 생각해요?
+
+》我觉得周围的环境很重要。因为买房子的时候，不但要看房子本身，而且要看附近有没有地铁站、超市、医院和学校。这样生活才更方便。
+/wǒ jué de zhōu wéi de huán jìng hěn zhòng yào. yīn wèi mǎi fáng zi de shí hou, bú dàn yào kàn fáng zi běn shēn, ér qiě yào kàn fù jìn yǒu méi yǒu dì tiě zhàn, chāo shì, yī yuàn hé xué xiào. zhè yàng shēng huó cái gèng fāng biàn/
+저는 주변 환경이 아주 중요하다고 생각해요. 집을 살 때는 집 자체만 보는 게 아니라 근처에 지하철역, 마트, 병원, 학교가 있는지도 봐야 하거든요. 그래야 생활이 더 편해져요.
+
+4. 什么时候可以算是老年人？
+
+/shén me shí hou kě yǐ suàn shì lǎo nián rén/
+언제부터 노인이라고 할 수 있나요?
+
+》我觉得这个问题不能一概而论。一般来说，六十岁以后可以算是老年人，不过每个人的身体情况都不一样，所以还是因人而异。
+/wǒ jué de zhè ge wèn tí bù néng yí gài ér lùn. yì bān lái shuō, liù shí suì yǐ hòu kě yǐ suàn shì lǎo nián rén, bú guò měi ge rén de shēn tǐ qíng kuàng dōu bù yí yàng, suǒ yǐ hái shì yīn rén ér yì/
+저는 이 문제를 한마디로 단정할 수는 없다고 생각해요. 일반적으로는 60세 이후를 노년이라고 할 수 있지만 사람마다 건강 상태가 다르기 때문에 결국 사람마다 다르다고 봐요.
+
+第五部分
+1. 最近可以带宠物去餐厅、地铁等公共场所越来越多。对此你有什么想法？
+
+/zuì jìn kě yǐ dài chǒng wù qù cān tīng, dì tiě děng gōng gòng chǎng suǒ yuè lái yuè duō. duì cǐ nǐ yǒu shén me xiǎng fa/
+최근 식당, 지하철 등 공공장소에 반려동물을 데리고 가는 경우가 늘고 있어요. 어떻게 생각하세요?
+
+》我觉得这件事有利有弊。随着经济的发展，养宠物的人越来越多，所以很多人希望带宠物一起出门。从宠物主人的立场来看，这样当然比较方便，而且也不会觉得孤单。不过，从别人的立场来看，也可能会有卫生、过敏或者安全方面的问题。所以我觉得可以理解，但是应该有明确的规定。只有这样，大家才会觉得更方便，也更公平。
+/wǒ jué de zhè jiàn shì yǒu lì yǒu bì. suí zhe jīng jì de fā zhǎn, yǎng chǒng wù de rén yuè lái yuè duō, suǒ yǐ hěn duō rén xī wàng dài chǒng wù yì qǐ chū mén. cóng chǒng wù zhǔ rén de lì chǎng lái kàn, zhè yàng dāng rán bǐ jiào fāng biàn, ér qiě yě bú huì jué de gū dān. bú guò, cóng bié rén de lì chǎng lái kàn, yě kě néng huì yǒu wèi shēng, guò mǐn huò zhě ān quán fāng miàn de wèn tí. suǒ yǐ wǒ jué de kě yǐ lǐ jiě, dàn shì yīng gāi yǒu míng què de guī dìng. zhǐ yǒu zhè yàng, dà jiā cái huì jué de gèng fāng biàn, yě gèng gōng píng/
+저는 이 일에는 장단점이 있다고 생각해요. 경제가 발전하면서 반려동물을 키우는 사람이 점점 많아져서 많은 사람들이 반려동물과 함께 외출하길 원해요. 반려동물 주인 입장에서는 물론 더 편하고 외롭지도 않죠. 하지만 다른 사람 입장에서 보면 위생, 알레르기, 안전 문제도 생길 수 있어요. 그래서 저는 이해는 하지만 분명한 규정이 있어야 한다고 생각해요. 그래야 모두가 더 편하고 더 공평하다고 느낄 수 있어요.
+
+2. 学生时期，很多父母规定孩子什么时间回家。对此你有什么看法？
+
+/xué shēng shí qī, hěn duō fù mǔ guī dìng hái zi shén me shí jiān huí jiā. duì cǐ nǐ yǒu shén me kàn fǎ/
+학생 시절에 부모님이 귀가 시간을 정해주신 것에 대해 어떻게 생각하세요?
+
+》我觉得这样很正常，而且有必要。因为学生时期，孩子的判断能力比较差，自制力也比较低，如果回家太晚，可能会有安全问题。父母规定回家时间，不但可以保护孩子，而且可以帮助孩子养成规律的生活习惯。当然，父母也应该多跟孩子沟通，不能太严格。从长远来看，我觉得这样对孩子的成长还是有帮助的。
+/wǒ jué de zhè yàng hěn zhèng cháng, ér qiě yǒu bì yào. yīn wèi xué shēng shí qī, hái zi de pàn duàn néng lì bǐ jiào chà, zì zhì lì yě bǐ jiào dī, rú guǒ huí jiā tài wǎn, kě néng huì yǒu ān quán wèn tí. fù mǔ guī dìng huí jiā shí jiān, bú dàn kě yǐ bǎo hù hái zi, ér qiě kě yǐ bāng zhù hái zi yǎng chéng guī lǜ de shēng huó xí guàn. dāng rán, fù mǔ yě yīng gāi duō gēn hái zi gōu tōng, bù néng tài yán gé. cóng cháng yuǎn lái kàn, wǒ jué de zhè yàng duì hái zi de chéng zhǎng hái shì yǒu bāng zhù de/
+저는 이게 아주 자연스럽고 필요하다고 생각해요. 학생 시절에는 아이들의 판단력이 비교적 부족하고 자제력도 낮아서 너무 늦게 귀가하면 안전 문제가 생길 수 있어요. 부모님이 귀가 시간을 정해 주는 것은 아이를 보호할 뿐 아니라 규칙적인 생활 습관을 기르도록 도와줄 수 있어요. 물론 부모도 아이와 많이 대화해야 하고 너무 엄격하기만 해서는 안 돼요. 장기적으로 보면 이런 방식은 아이의 성장에 도움이 된다고 생각해요.
+
+3. 随着上学的学生人数越来越少，教育质量提高了。你同意吗？
+
+/suí zhe shàng xué de xué shēng rén shù yuè lái yuè shǎo, jiào yù zhì liàng tí gāo le. nǐ tóng yì ma/
+학생 수가 줄어들수록 교육의 질이 높아진다고 생각하세요?
+
+》我不完全同意。学生人数变少以后，老师当然可以更关注每一个学生，这对提高教育质量有一定帮助。不过，教育质量不但和学生人数有关系，而且和老师的水平、学校的环境、教育制度都有关系。所以我觉得学生人数减少不一定就能提高教育质量，这个问题不能一概而论。
+/wǒ bù wán quán tóng yì. xué shēng rén shù biàn shǎo yǐ hòu, lǎo shī dāng rán kě yǐ gèng guān zhù měi yí ge xué shēng, zhè duì tí gāo jiào yù zhì liàng yǒu yí dìng bāng zhù. bú guò, jiào yù zhì liàng bú dàn hé xué shēng rén shù yǒu guān xì, ér qiě hé lǎo shī de shuǐ píng, xué xiào de huán jìng, jiào yù zhì dù dōu yǒu guān xì. suǒ yǐ wǒ jué de xué shēng rén shù jiǎn shǎo bù yí dìng jiù néng tí gāo jiào yù zhì liàng, zhè ge wèn tí bù néng yí gài ér lùn/
+저는 완전히 동의하지는 않아요. 학생 수가 줄어들면 선생님이 각 학생에게 더 관심을 줄 수 있어서 교육의 질 향상에 어느 정도 도움이 될 수는 있어요. 하지만 교육의 질은 학생 수뿐 아니라 교사의 수준, 학교 환경, 교육 제도와도 관련이 있어요. 그래서 학생 수 감소가 반드시 교육의 질 향상으로 이어진다고 볼 수는 없고, 이 문제는 한마디로 단정할 수 없다고 생각해요.
+
+4. 最近很多人节日的时候，不过节，去旅行。对此你有什么想法？
+
+/zuì jìn hěn duō rén jié rì de shí hou, bù guò jié, qù lǚ xíng. duì cǐ nǐ yǒu shén me xiǎng fa/
+최근 명절 때 집에 안 있고 여행 가는 사람들이 많아요. 이에 대해 어떻게 생각하세요?
+
+》我觉得这是很正常的现象。因为现在很多人的生活节奏很快，工作压力也比较大，所以节日的时候很多人想通过旅行放松心情，消除压力。而且随着经济的发展，交通越来越方便，去旅行也比较容易。不过，节日毕竟有它特别的意义，所以我觉得旅行没有问题，但是如果有时间的话，也应该和家人一起过节。从长远来看，最好还是保持平衡。
+/wǒ jué de zhè shì hěn zhèng cháng de xiàn xiàng. yīn wèi xiàn zài hěn duō rén de shēng huó jié zòu hěn kuài, gōng zuò yā lì yě bǐ jiào dà, suǒ yǐ jié rì de shí hou hěn duō rén xiǎng tōng guò lǚ xíng fàng sōng xīn qíng, xiāo chú yā lì. ér qiě suí zhe jīng jì de fā zhǎn, jiāo tōng yuè lái yuè fāng biàn, qù lǚ xíng yě bǐ jiào róng yì. bú guò, jié rì bì jìng yǒu tā tè bié de yì yì, suǒ yǐ wǒ jué de lǚ xíng méi yǒu wèn tí, dàn shì rú guǒ yǒu shí jiān de huà, yě yīng gāi hé jiā rén yì qǐ guò jié. cóng cháng yuǎn lái kàn, zuì hǎo hái shì bǎo chí píng héng/
+저는 이것이 아주 자연스러운 현상이라고 생각해요. 요즘 많은 사람들은 생활 리듬이 빠르고 일 스트레스도 커서 명절 때 여행을 통해 기분을 풀고 스트레스를 해소하고 싶어 하거든요. 게다가 경제가 발전하면서 교통도 점점 편해져 여행 가기가 더 쉬워졌어요. 하지만 명절에는 분명 특별한 의미가 있기 때문에 여행 자체는 문제없지만 시간이 된다면 가족과 함께 명절을 보내는 것도 필요하다고 생각해요. 장기적으로 보면 균형을 유지하는 것이 가장 좋다고 생각해요.
+
+第六部分
+1. 你下午有重要的会议。可是电脑出故障了，打不开。请你向同事说明情况并请求帮助。
+
+/nǐ xià wǔ yǒu zhòng yào de huì yì. kě shì diàn nǎo chū gù zhàng le, dǎ bù kāi. qǐng nǐ xiàng tóng shì shuō míng qíng kuàng bìng qǐng qiú bāng zhù/
+오후에 중요한 회의가 있는데 컴퓨터가 고장나서 안 켜져요. 동료에게 상황을 설명하고 도움을 요청하세요.
+
+》不好意思，我下午有重要的会议，可是我的电脑突然出了故障，现在怎么也打不开，我很着急。你能不能先帮我看一下？如果可以的话，也请你帮我确认一下资料还在不在。这个会议非常重要，麻烦你了。
+/bù hǎo yì si, wǒ xià wǔ yǒu zhòng yào de huì yì, kě shì wǒ de diàn nǎo tū rán chū le gù zhàng, xiàn zài zěn me yě dǎ bù kāi, wǒ hěn zháo jí. nǐ néng bù néng xiān bāng wǒ kàn yí xià. rú guǒ kě yǐ de huà, yě qǐng nǐ bāng wǒ què rèn yí xià zī liào hái zài bú zài. zhè ge huì yì fēi cháng zhòng yào, má fan nǐ le/
+미안하지만 오늘 오후에 중요한 회의가 있는데 제 컴퓨터가 갑자기 고장 나서 지금 아무리 해도 켜지지 않아요. 너무 급해요. 먼저 좀 봐줄 수 있을까요? 가능하다면 자료가 아직 남아 있는지도 확인해 주세요. 이 회의는 아주 중요해서 정말 부탁드려요.
+
+2. 你在补习班报了一个英语班，但是听完第一节课你发现跟你不适合。请你要求退款。
+
+/nǐ zài bǔ xí bān bào le yí ge yīng yǔ bān, dàn shì tīng wán dì yī jié kè nǐ fā xiàn gēn nǐ bù shì hé. qǐng nǐ yāo qiú tuì kuǎn/
+학원에 영어반을 등록했는데 첫 수업 듣고 나니 안 맞는 것 같아요. 환불을 요청하세요.
+
+》你好，我前几天在你们补习班报了一个英语班，可是听完第一节课以后，我觉得这个班跟我不太适合。因为上课内容和我想学的不太一样，所以我想申请退款。麻烦你帮我确认一下，可以吗？
+/nǐ hǎo, wǒ qián jǐ tiān zài nǐ men bǔ xí bān bào le yí ge yīng yǔ bān, kě shì tīng wán dì yī jié kè yǐ hòu, wǒ jué de zhè ge bān gēn wǒ bú tài shì hé. yīn wèi shàng kè nèi róng hé wǒ xiǎng xué de bú tài yí yàng, suǒ yǐ wǒ xiǎng shēn qǐng tuì kuǎn. má fan nǐ bāng wǒ què rèn yí xià, kě yǐ ma/
+안녕하세요. 며칠 전에 이 학원에서 영어반을 등록했는데 첫 수업을 듣고 나니 저와는 그리 잘 맞지 않는 것 같아요. 수업 내용이 제가 배우고 싶은 것과 좀 달라서 환불을 신청하고 싶어요. 확인해 주실 수 있을까요?
+
+3. 你通过介绍认识了一个新朋友，你对他有好感，请你跟你的朋友说明情况。
+
+/nǐ tōng guò jiè shào rèn shi le yí ge xīn péng you, nǐ duì tā yǒu hǎo gǎn, qǐng nǐ gēn nǐ de péng you shuō míng qíng kuàng/
+소개로 새 친구를 알게 되었는데 호감이 생겼어요. 친구에게 이 상황을 설명해 보세요.
+
+》我通过你的介绍认识了一个新朋友，我对他的印象很好。因为他的性格很外向，活泼开朗，而且很有礼貌，所以我对他有一点好感。要是有机会的话，我想再见见他。你觉得怎么样？
+/wǒ tōng guò nǐ de jiè shào rèn shi le yí ge xīn péng you, wǒ duì tā de yìn xiàng hěn hǎo. yīn wèi tā de xìng gé hěn wài xiàng, huó pō kāi lǎng, ér qiě hěn yǒu lǐ mào, suǒ yǐ wǒ duì tā yǒu yì diǎn hǎo gǎn. yào shì yǒu jī huì de huà, wǒ xiǎng zài jiàn jian tā. nǐ jué de zěn me yàng/
+네 소개로 새 친구를 알게 되었는데 그 사람에 대한 인상이 아주 좋아. 성격도 외향적이고 활발하고 밝으며 예의도 있어서 조금 호감이 생겼어. 기회가 있으면 다시 만나보고 싶은데 너는 어떻게 생각해?
 ---------------------------------------------------------------------------------
 
-### **1. 日常对话**  
-1. **你坐过飞机吗？**  
-   - Nǐ zuò guò fēijī ma?  
-   - 비행기 타 본 적 있나요?  
-2. **你几月几号考试？**  
-   - Nǐ jǐ yuè jǐ hào kǎoshì?  
-   - 몇 월 며칠에 시험 보세요?  
-3. **周末一般做什么？**  
-   - Zhōumò yībān zuò shénme?  
-   - 주말에는 보통 뭐 하세요?  
-4. **听说你买了新车，我可以看看吗？**  
-   - Tīngshuō nǐ mǎi le xīn chē, wǒ kěyǐ kàn kan ma?  
-   - 새 차 샀다던데, 한번 봐도 될까요?  
-5. **今天晚上我们一起喝酒吧**  
-   - Jīntiān wǎnshang wǒmen yīqǐ hē jiǔ ba  
-   - 오늘 저녁 같이 술 한잔 해요  
-### **2. 个人生活**  
-1. **你喜欢做菜吗？**  
-   - Nǐ xǐhuān zuò cài ma?  
-   - 요리하는 거 좋아해요?  
-2. **你一般和新职员聊什么话题？**  
-   - Nǐ yībān hé xīn zhíyuán liáo shénme huàtí?  
-   - 보통 새 직원이랑 무슨 이야기를 나누세요?  
-3. **如果你有和外国人工作的机会，你会一起合作吗？**  
-   - Rúguǒ nǐ yǒu hé wàiguó rén gōngzuò de jīhuì, nǐ huì yīqǐ hézuò ma?  
-   - 외국인과 일할 기회가 생기면 함께 일할 의향이 있나요?  
-4. **你买东西的时候，喜欢信用卡分期付款还是一次性付款？**  
-   - Nǐ mǎi dōngxi de shíhou, xǐhuān xìnyòngkǎ fēnqī fùkuǎn háishì yīcìxìng fùkuǎn?  
-   - 물건 살 때 카드 할부로 결제하는 걸 좋아해요, 아니면 일시불로 결제하는 걸 좋아해요?  
-5. **请向朋友介绍一个你喜欢的运动。**  
-   - Qǐng xiàng péngyou jièshào yīgè nǐ xǐhuān de yùndòng.  
-   - 친구에게 자신이 좋아하는 운동을 소개해 주세요.  
-### **3. 观点讨论**  
-1. **公司内部同事之间谈恋爱（职场恋爱），你同意还是反对？**  
-   - Gōngsī nèibù tóngshì zhī jiān tán liàn'ài (zhíchǎng liàn'ài), nǐ tóngyì háishì fǎnduì?  
-   - 회사 내 동료 간의 연애(사내 연애)에 대해 찬성하시나요, 반대하시나요?  
-2. **最近人们的薪资水平有所上涨，对此你怎么看？**  
-   - Zuìjìn rénmen de xīnzī shuǐpíng yǒu suǒ shàngzhǎng, duì cǐ nǐ zěnme kàn?  
-   - 최근 사람들의 급여 수준이 오르고 있는데, 이에 대해 어떻게 생각하세요?  
-3. **办公室里穿正式的服装(正装),好处多还是坏处多?**  
-   - Bàngōngshì lǐ chuān zhèngshì de fúzhuāng (zhèngzhuāng), hǎochù duō háishì huàichù duō?  
-   - 사무실에서 정장을 입는 것이 장점이 더 많나요, 단점이 더 많나요?  
-4. **招聘职员时，你觉得工作经验更重要还是个人能力更重要？**  
-   - Zhāopìn zhíyuán shí, nǐ juédé gōngzuò jīngyàn gèng zhòngyào háishì gèrén nénglì gèng zhòngyào?  
-   - 직원을 채용할 때 경력이 더 중요하다고 생각하세요, 아니면 개인 능력이 더 중요하다고 생각하세요?  
-### **4. 情景任务**  
-1. **你不吃辣，但是你的朋友邀请你去吃麻辣烫，请你跟他说明情况。**  
-   - Nǐ bù chī là, dànshì nǐ de péngyou yāoqǐng nǐ qù chī málàtàng, qǐng nǐ gēn tā shuōmíng qíngkuàng.  
-   - 매운 음식을 못 먹는데 친구가 마라탕을 먹자고 해요. 친구에게 상황을 설명하세요.  
-2. **你昨天在网上买了一件红色的毛衣，但是收到以后发现是蓝色的，请你给商家打电话要求退还。**  
-   - Nǐ zuótiān zài wǎngshàng mǎi le yī jiàn hóngsè de máoyī, dànshì shōu dào yǐhòu fāxiàn shì lánsè de, qǐng nǐ gěi shāngjiā dǎ diànhuà yāoqiú tuìhuán.  
-   - 어제 온라인에서 빨간색 스웨터를 샀는데, 받아보니 파란색이었어요. 판매자에게 전화해 환불을 요청하세요.  
-3. **你的朋友想去大型超市，但是公司附近没有，请你告诉他怎么去。**  
-   - Nǐ de péngyou xiǎng qù dàxíng chāoshì, dànshì gōngsī fùjìn méiyǒu, qǐng nǐ gàosù tā zěnme qù.  
-   - 친구가 대형 마트에 가고 싶어하는데 회사 근처에 없어요. 가는 방법을 알려주세요.  
----------------------------------------------------------------------------------
-### **1. 日常对话**  
-1. **你要喝咖啡还是喝别的饮料？**  
-   - Nǐ yào hē kāfēi háishì hē bié de yǐnliào?  
-   - 커피 마실래요 아니면 다른 음료 마실래요?  
-2. **你最近睡得怎么样？（병원에서）**  
-   - Nǐ zuìjìn shuì de zěnme yàng? (Bīngyuàn lǐ)  
-   - 요즘 잠 잘 주무세요? (병원에서)  
-3. **你喜欢下雪吗？**  
-   - Nǐ xǐhuān xià xuě ma?  
-   - 눈 오는 거 좋아해요?  
-4. **你出过差吗？**  
-   - Nǐ chū guò chāi ma?  
-   - 출장 가본 적 있어요?  
-5. **你要换钱吗？**  
-   - Nǐ yào huàn qián ma?  
-   - 환전 하실래요?  
-### **2. 个人生活**  
-1. **你什么时候第一次坐飞机？**  
-   - Nǐ shénme shíhou dì yī cì zuò fēijī?  
-   - 처음으로 비행기 탄 게 언제예요?  
-2. **找工作的时候，重视工作和生活的平衡吗？**  
-   - Zhǎo gōngzuò de shíhou, zhòngshì gōngzuò hé shēnghuó de pínghéng ma?  
-   - 일자리 찾을 때 워라밸(일과 삶의 균형) 중요하게 생각해요?  
-3. **买房子的时候，周围的环境重要吗？**  
-   - Mǎi fángzi de shíhou, zhōuwéi de huánjìng zhòngyào ma?  
-   - 집 살 때 주변 환경 중요하게 생각해요?  
-4. **什么时候可以算是老年人？**  
-   - Shénme shíhou kěyǐ suànshì lǎonián rén?  
-   - 언제부터 노인이라고 할 수 있나요?  
-### **3. 观点讨论**  
-1. **最近可以带宠物去餐厅、地铁等公共场所越来越多。对此你有什么想法？**  
-   - Zuìjìn kěyǐ dài chǒngwù qù cāntīng, dìtiě děng gōnggòng chǎngsuǒ yuè lái yuè duō. Duì cǐ nǐ yǒu shénme xiǎngfǎ?  
-   - 최근 식당, 지하철 등 공공장소에 반려동물을 데리고 가는 경우가 늘고 있어요. 어떻게 생각하세요?  
-2. **学生时期，很多父母规定孩子什么时间回家。对此你有什么看法？**  
-   - Xuéshēng shíqī, hěn duō fùmǔ guīdìng háizi shénme shíjiān huí jiā. Duì cǐ nǐ yǒu shénme kànfǎ?  
-   - 학생 시절에 부모님이 귀가 시간을 정해주신 것에 대해 어떻게 생각하세요?  
-3. **随着上学的学生人数越来越少，教育质量提高了。你同意吗？**  
-   - Suízhe shàngxué de xuéshēng rénshù yuè lái yuè shǎo, jiàoyù zhìliàng tígāo le. Nǐ tóngyì ma?  
-   - 학생 수가 줄어들수록 교육의 질이 높아진다고 생각하세요?  
-4. **最近很多人节日的时候，不过节，去旅行。对此你有什么想法？**  
-   - Zuìjìn hěn duō rén jiérì de shíhou, bù guòjié, qù lǚxíng. Duì cǐ nǐ yǒu shénme xiǎngfǎ?  
-   - 최근 명절 때 집에 안 있고 여행 가는 사람들이 많아요. 이에 대해 어떻게 생각하세요?  
-### **4. 情景任务**  
-1. **你下午有重要的会议。可是电脑出故障了，打不开。请你向同事说明情况并请求帮助。**  
-   - Nǐ xiàwǔ yǒu zhòngyào de huìyì. Kěshì diànnǎo chū gùzhàng le, dǎ bù kāi. Qǐng nǐ xiàng tóngshì shuōmíng qíngkuàng bìng qǐngqiú bāngzhù.  
-   - 오후에 중요한 회의가 있는데 컴퓨터가 고장나서 안 켜져요. 동료에게 상황을 설명하고 도움을 요청하세요.  
-2. **你在补习班报了一个英语班，但是听完第一节课你发现跟你不适合。请你要求退款。**  
-   - Nǐ zài bǔxíbān bào le yīgè yīngyǔ bān, dànshì tīng wán dì yī jié kè nǐ fāxiàn gēn nǐ bù shìhé. Qǐng nǐ yāoqiú tuìkuǎn.  
-   - 학원에 영어반을 등록했는데 첫 수업 듣고 나니 안 맞는 것 같아요. 환불을 요청하세요.  
-3. **你通过介绍认识了一个新朋友，你对他有好感，请你跟你的朋友说明情况。**  
-   - Nǐ tōngguò jièshào rènshi le yīgè xīn péngyou, nǐ duì tā yǒu hǎogǎn, qǐng nǐ gēn nǐ de péngyou shuōmíng qíngkuàng.  
-   - 소개로 새 친구를 알게 되었는데 호감이 생겼어요. 친구에게 이 상황을 설명해 보세요.  
----------------------------------------------------------------------------------
-
-### **1. 日常对话**  
+### **3부분**  
 1. **你几点回家？(사무실)**  
    - Nǐ jǐ diǎn huí jiā? (Bàngōngshì)  
    - 몇 시에 퇴근해요? (사무실에서)  
@@ -460,7 +1304,7 @@
 5. **什么时候开始头疼的？**  
    - Shénme shíhou kāishǐ tóuténg de?  
    - 언제부터 두통이 시작되었어요?  
-### **2. 个人生活**  
+### **4부분**  
 1. **每天开始工作以前，你都做什么？**  
    - Měi tiān kāishǐ gōngzuò yǐqián, nǐ dōu zuò shénme?  
    - 출근 전에 보통 뭐 하세요?  
@@ -476,7 +1320,7 @@
 5. **请谈一谈电子邮件的好处？**  
    - Qǐng tán yī tán diànzǐ yóujiàn de hǎochù?  
    - 이메일의 장점에 대해 말씀해 주세요.  
-### **3. 观点讨论**  
+### **5부분**  
 1. **什么季节适合去旅行？**  
    - Shénme jìjié shìhé qù lǚxíng?  
    - 어떤 계절이 여행하기 좋나요?  
@@ -489,7 +1333,7 @@
 4. **如果你对一个人有意见，你会直接跟他说吗？**  
    - Rúguǒ nǐ duì yīgè rén yǒu yìjiàn, nǐ huì zhíjiē gēn tā shuō ma?  
    - 누군가에게 불만이 있으면 직접 말할 건가요?  
-### **4. 情景任务**  
+### **6부분**  
 1. **你的朋友想去爬山，但是你却想去游乐场，请说服他。**  
    - Nǐ de péngyou xiǎng qù páshān, dànshì nǐ què xiǎng qù yóulèchǎng, qǐng shuōfú tā.  
    - 친구는 등산 가자는데 당신은 놀이공원 가고 싶어요. 친구를 설득해 보세요.  
@@ -501,7 +1345,7 @@
    - 레스토랑 예약했는데 갑자기 일이 생겨 못 가게 됐어요. 레스토랑에 전화해 예약 시간을 변경하세요.  
 ---------------------------------------------------------------------------------
 
-### **1. 日常对话**  
+### **3부분**  
 1. **沙发放在哪儿？**  
    - Shāfā fàng zài nǎr?  
    - 소파는 어디에 놓을까요?  
@@ -517,7 +1361,7 @@
 5. **新年快乐，你新年有什么打算？**  
    - Xīnnián kuàilè, nǐ xīnnián yǒu shénme dǎsuàn?  
    - 새해 복 많이 받아, 새해 계획 있어?  
-### **2. 个人生活**  
+### **4부분**  
 1. **你周围学习英语的人多吗？**  
    - Nǐ zhōuwéi xuéxí Yīngyǔ de rén duō ma?  
    - 주변에 영어 공부하는 사람 많아?  
@@ -533,7 +1377,7 @@
 5. **健康受季节的影响吗？**  
    - Jiànkāng shòu jìjié de yǐngxiǎng ma?  
    - 건강이 계절의 영향을 받아?  
-### **3. 观点讨论**  
+### **5부분**  
 1. **最近人们在旅游和买衣服花很多钱，你怎么看？**  
    - Zuìjìn rénmen zài lǚyóu hé mǎi yīfu huā hěnduō qián, nǐ zěnme kàn?  
    - 요즘 사람들이 여행하고 옷 사는데 돈을 많이 쓰는데, 어떻게 생각해?  
@@ -543,7 +1387,7 @@
 3. **你觉得聚餐是工作时间的延长吗？**  
    - Nǐ juédé jùcān shì gōngzuò shíjiān de yáncháng ma?  
    - 회식도 근무 시간의 연장이라고 생각해?  
-### **4. 情景任务**  
+### **6부분**  
 1. **在网上买了一本书，但是没收到，给出版社打电话**  
    - Zài wǎngshàng mǎi le yī běn shū, dànshì méi shōu dào, gěi chūbǎnshè dǎ diànhuà  
    - 인터넷으로 책 샀는데 안 왔어, 출판사에 전화해  
@@ -9061,3 +9905,4 @@ huàichu shì làngfèi shíjiān làngfèi qián jīngjì fùdān hěn zhòng w
 》姐姐，你每次都冲动消费，而且买完以后又后悔。最近物价和房价越来越高，生活到处都需要用钱，没有钱寸步难行，所以买东西的时候要提前计划。
 
 누나, 누나는 항상 충동구매를 하고 사고 나서 또 후회한다. 요즘 물가와 집값이 계속 오르고 생활에는 어디서나 돈이 필요하다. 돈이 없으면 아무것도 할 수 없다. 그래서 물건을 살 때는 미리 계획해야 한다.
+
